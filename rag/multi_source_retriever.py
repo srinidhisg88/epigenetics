@@ -103,8 +103,20 @@ class MultiSourceRetriever:
         # 1. ClinVar - Variant-specific evidence (highest priority)
         if include_clinvar:
             try:
-                print(f"Querying ClinVar for {gene}" + (f" {variant}" if variant else ""))
-                clinvar_variants = self.clinvar_fetcher.search_variant(gene, variant)
+                # Use positional search when available — most precise ClinVar lookup
+                # Without position, falls back to gene-level search
+                if chromosome and position and reference_allele and alternate_allele:
+                    print(f"Querying ClinVar exact position: chr{chromosome}:{position} for {gene}")
+                    clinvar_variants = self.clinvar_fetcher.search_variant(
+                        gene=gene,
+                        chromosome=chromosome,
+                        position=position,
+                        reference_allele=reference_allele,
+                        alternate_allele=alternate_allele,
+                    )
+                else:
+                    print(f"Querying ClinVar for {gene}" + (f" {variant}" if variant else " (gene-level, no position)"))
+                    clinvar_variants = self.clinvar_fetcher.search_variant(gene, variant)
 
                 if clinvar_variants:
                     results['sources']['clinvar'] = {

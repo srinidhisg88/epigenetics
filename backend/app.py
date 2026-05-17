@@ -9,6 +9,7 @@ Provides endpoints for:
 
 import os
 import sys
+import requests
 from pathlib import Path
 from typing import List, Dict, Optional
 from contextlib import asynccontextmanager
@@ -694,6 +695,166 @@ async def get_genes():
 async def get_consequences():
     """Get list of supported variant consequences."""
     return {"consequences": CONSEQUENCES}
+
+
+@app.get("/review_status")
+async def get_review_status(
+    gene: str,
+    chromosome: str,
+    position: int,
+    reference_allele: str,
+    alternate_allele: str,
+):
+    """
+    Fetch ClinVar review status for an exact variant using genomic coordinates.
+    Requires chromosome + position + ref + alt for a precise lookup.
+    """
+    DEFAULT_STATUS = "no assertion criteria provided"
+
+    if not clinvar_fetcher:
+        return {"review_status": DEFAULT_STATUS, "review_stars": 0, "source": "fallback"}
+
+    try:
+        gene_upper = gene.upper()
+        ref = reference_allele.upper()
+        alt = alternate_allele.upper()
+
+        # Pass chromosome + position directly — fetcher uses [base position for assembly grch38]
+        results = clinvar_fetcher.search_variant(
+            gene=gene_upper,
+            chromosome=chromosome,
+            position=position,
+            reference_allele=ref,
+            alternate_allele=alt,
+        )
+
+        if results:
+            top = results[0]
+            return {
+                "review_status":         top.get("review_status", DEFAULT_STATUS),
+                "review_stars":          top.get("review_stars", 0),
+                "clinical_significance": top.get("clinical_significance", "Unknown"),
+                "variant_name":          top.get("variant_name", ""),
+                "source":                "clinvar_exact",
+            }
+
+        return {"review_status": DEFAULT_STATUS, "review_stars": 0, "source": "not_found"}
+
+    except Exception as e:
+        return {"review_status": DEFAULT_STATUS, "review_stars": 0, "source": "error", "message": str(e)}
+
+
+@app.get("/resolve_hgvs")
+async def resolve_hgvs(hgvs: str):
+    """
+    Convert an HGVS notation to genomic coordinates using Ensembl REST API.
+
+    Accepts:
+      - cDNA:    NM_006920.6:c.4849C>T
+      - Protein: NP_008851.3:p.Arg1617Ter
+      - Genomic: NC_000002.12:g.166931824C>T
+
+    Returns chromosome, position, ref, alt for use in gnomAD and ClinVar lookups.
+    """
+    ENSEMBL_MIRRORS = [
+        "https://rest.ensembl.org/vep/human/hgvs",
+        "https://rest.ensembl.org/vep/human/hgvs",  # retry same on transient failures
+    ]
+
+    last_error = ""
+    response = None
+    for base_url in ENSEMBL_MIRRORS:
+        try:
+            response = requests.get(
+                f"{base_url}/{hgvs}",
+                headers={"Content-Type": "application/json"},
+                params={"content-type": "application/json"},
+                timeout=30
+            )
+            if response.status_code == 200:
+                break
+            last_error = f"HTTP {response.status_code}"
+        except requests.exceptions.Timeout:
+            last_error = "Ensembl API timed out"
+        except requests.exceptions.ConnectionError:
+            last_error = "Could not connect to Ensembl API"
+
+    if response is None or response.status_code != 200:
+        return {
+            "success": False,
+            "message": f"Ensembl unavailable ({last_error}). Enter coordinates manually: chromosome, position, ref and alt alleles."
+        }
+
+    try:
+
+        data = response.json()
+        if not data:
+            return {
+                "success": False,
+                "message": f"No results returned for '{hgvs}'"
+            }
+
+        hit = data[0]
+        seq_region = hit.get("seq_region_name", "")
+        start      = hit.get("start")
+        allele_str = hit.get("allele_string", "")   # e.g. "C/T"
+
+        alleles = allele_str.split("/")
+        ref = alleles[0] if len(alleles) > 0 else ""
+        alt = alleles[1] if len(alleles) > 1 else ""
+
+        # VEP returns "-" for the deleted/inserted strand in indels — normalise to ""
+        if ref == "-":
+            ref = ""
+        if alt == "-":
+            alt = ""
+
+        if not seq_region or not start:
+            return {
+                "success": False,
+                "message": "Ensembl returned incomplete coordinate data"
+            }
+
+        # Extract gene symbol and consequence from transcript consequences
+        gene_symbol = ""
+        consequence = hit.get("most_severe_consequence", "")
+        for tc in hit.get("transcript_consequences", []):
+            if tc.get("gene_symbol"):
+                gene_symbol = tc["gene_symbol"]
+                if not consequence and tc.get("consequence_terms"):
+                    consequence = tc["consequence_terms"][0]
+                break
+
+        # Derive variant_type from allele lengths
+        ref_len = len(ref)
+        alt_len = len(alt)
+        if ref_len == 1 and alt_len == 1:
+            variant_type = "single nucleotide variant"
+        elif ref_len > alt_len:
+            variant_type = "deletion"
+        elif alt_len > ref_len:
+            variant_type = "insertion"
+        else:
+            variant_type = "indel"
+
+        return {
+            "success":      True,
+            "chromosome":   seq_region,
+            "position":     int(start),
+            "ref":          ref,
+            "alt":          alt,
+            "gene":         gene_symbol,
+            "consequence":  consequence,
+            "variant_type": variant_type,
+            "hgvs_input":   hgvs,
+            "message":      f"Resolved {hgvs} → chr{seq_region}:{start} {ref}>{alt} ({gene_symbol})"
+        }
+
+    except Exception as e:
+        return {
+            "success": False,
+            "message": f"HGVS resolution failed: {str(e)}"
+        }
 
 
 @app.post("/predict_variant", response_model=PredictionResponse)

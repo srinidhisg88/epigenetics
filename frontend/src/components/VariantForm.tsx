@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import type { VariantInput } from '../types';
 import {
   EPILEPSY_GENES,
@@ -9,6 +9,8 @@ import {
   ORIGINS
 } from '../types';
 
+const API_BASE = process.env.REACT_APP_API_URL || 'http://localhost:8000';
+
 interface VariantFormProps {
   onSubmit: (variant: VariantInput) => void;
   isLoading: boolean;
@@ -18,6 +20,7 @@ const VariantForm: React.FC<VariantFormProps> = ({ onSubmit, isLoading }) => {
   const [formData, setFormData] = useState<VariantInput>({
     gene: 'SCN1A',
     chromosome: '2',
+    position: undefined,
     reference_allele: 'C',
     alternate_allele: 'T',
     consequence: 'missense_variant',
@@ -26,9 +29,66 @@ const VariantForm: React.FC<VariantFormProps> = ({ onSubmit, isLoading }) => {
     origin: 'germline'
   });
 
+  const [hgvs, setHgvs] = useState('');
+  const [hgvsStatus, setHgvsStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
+  const [hgvsMessage, setHgvsMessage] = useState('');
+  const [reviewStatus, setReviewStatus] = useState<'idle' | 'loading' | 'found' | 'not_found'>('idle');
+  const debounceTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const reviewTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  const normalizeReviewStatus = (raw: string): string => {
+    const s = raw.toLowerCase();
+    if (s.includes('practice guideline'))    return 'practice guideline';
+    if (s.includes('expert panel'))          return 'reviewed by expert panel';
+    if (s.includes('multiple submitters'))   return 'criteria provided, multiple submitters, no conflicts';
+    if (s.includes('conflicting'))           return 'criteria provided, conflicting classifications';
+    if (s.includes('single submitter') || s.includes('criteria provided')) return 'criteria provided, single submitter';
+    if (s.includes('no assertion'))          return 'no assertion criteria provided';
+    return 'no classification provided';
+  };
+
+  // Auto-fetch review status whenever position becomes available
+  useEffect(() => {
+    const { gene, chromosome, position, reference_allele, alternate_allele } = formData;
+    if (!position || !chromosome || !reference_allele || !alternate_allele) {
+      setReviewStatus('idle');
+      return;
+    }
+
+    if (reviewTimer.current) clearTimeout(reviewTimer.current);
+    reviewTimer.current = setTimeout(async () => {
+      setReviewStatus('loading');
+      try {
+        const params = new URLSearchParams({
+          gene,
+          chromosome,
+          position:          String(position),
+          reference_allele,
+          alternate_allele,
+        });
+        const res = await fetch(`${API_BASE}/review_status?${params}`);
+        if (!res.ok) throw new Error();
+        const data = await res.json();
+
+        if (data.source === 'clinvar_exact') {
+          setFormData(prev => ({ ...prev, review_status: normalizeReviewStatus(data.review_status) }));
+          setReviewStatus('found');
+        } else {
+          setReviewStatus('not_found');
+        }
+      } catch {
+        setReviewStatus('not_found');
+      }
+    }, 800);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [formData.position, formData.chromosome, formData.reference_allele, formData.alternate_allele, formData.gene]);
+
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>) => {
     const { name, value } = e.target;
-    setFormData(prev => ({ ...prev, [name]: value }));
+    setFormData(prev => ({
+      ...prev,
+      [name]: name === 'position' ? (value ? parseInt(value) : undefined) : value
+    }));
   };
 
   const handleSubmit = (e: React.FormEvent) => {
@@ -36,49 +96,92 @@ const VariantForm: React.FC<VariantFormProps> = ({ onSubmit, isLoading }) => {
     onSubmit(formData);
   };
 
-  // Example variants for quick testing
+  // Auto-resolve HGVS notation → chromosome + position + ref + alt
+  const handleHgvsChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const val = e.target.value;
+    setHgvs(val);
+    setHgvsStatus('idle');
+    setHgvsMessage('');
+
+    if (!val.trim()) return;
+
+    if (debounceTimer.current) clearTimeout(debounceTimer.current);
+    debounceTimer.current = setTimeout(async () => {
+      setHgvsStatus('loading');
+      try {
+        const res = await fetch(`${API_BASE}/resolve_hgvs?hgvs=${encodeURIComponent(val.trim())}`);
+        if (!res.ok) throw new Error('API error');
+        const data = await res.json();
+
+        if (data.success) {
+          setFormData(prev => ({
+            ...prev,
+            chromosome:       data.chromosome,
+            position:         data.position,
+            reference_allele: data.ref,
+            alternate_allele: data.alt,
+            ...(data.gene        && EPILEPSY_GENES.includes(data.gene as any) ? { gene: data.gene as any } : {}),
+            ...(data.consequence && CONSEQUENCES.includes(data.consequence as any) ? { consequence: data.consequence as any } : {}),
+            ...(data.variant_type && VARIANT_TYPES.includes(data.variant_type as any) ? { variant_type: data.variant_type as any } : {}),
+          }));
+          setHgvsStatus('success');
+          setHgvsMessage(data.message);
+        } else {
+          setHgvsStatus('error');
+          setHgvsMessage(data.message);
+        }
+      } catch {
+        setHgvsStatus('error');
+        setHgvsMessage('Could not reach the server. Enter coordinates manually.');
+      }
+    }, 700);
+  };
+
   const exampleVariants = [
     {
-      name: 'SCN1A Nonsense (Pathogenic)',
+      name: 'SCN1A Missense (Pathogenic)',
       data: {
         gene: 'SCN1A',
         chromosome: '2',
-        reference_allele: 'C',
+        position: 165992332,      // NM_001165963.4:c.4943G>T — Pathogenic/Likely pathogenic (ClinVar)
+        reference_allele: 'G',
         alternate_allele: 'T',
-        consequence: 'nonsense',
+        consequence: 'missense_variant',
         variant_type: 'single nucleotide variant',
-        review_status: 'criteria provided, multiple submitters',
+        review_status: 'criteria provided, multiple submitters, no conflicts',
         origin: 'germline'
       }
     },
     {
-      name: 'KCNQ2 Stop-gained (Pathogenic)',
+      name: 'KCNQ2 Missense (Pathogenic)',
       data: {
         gene: 'KCNQ2',
         chromosome: '20',
-        reference_allele: 'C',
+        position: 63442429,       // NM_172107.4:c.793G>T — Pathogenic/Likely pathogenic (ClinVar)
+        reference_allele: 'G',
         alternate_allele: 'T',
-        consequence: 'stop_gained',
+        consequence: 'missense_variant',
         variant_type: 'single nucleotide variant',
-        review_status: 'reviewed by expert panel',
+        review_status: 'criteria provided, multiple submitters, no conflicts',
         origin: 'de novo (confirmed)'
       }
     },
     {
-      name: 'TSC2 Frameshift (Pathogenic)',
+      name: 'TSC2 Indel (ClinVar)',
       data: {
         gene: 'TSC2',
         chromosome: '16',
+        position: 2088293,        // NM_000548.5:c.5238_5255del — real ClinVar variant
         reference_allele: 'AG',
         alternate_allele: 'A',
         consequence: 'frameshift_variant',
         variant_type: 'deletion',
-        review_status: 'criteria provided, single submitter',
+        review_status: 'criteria provided, multiple submitters, no conflicts',
         origin: 'germline'
       }
     },
     {
-      name: 'SLC2A1 Synonymous (Likely Benign)',
+      name: 'SLC2A1 Synonymous (Benign)',
       data: {
         gene: 'SLC2A1',
         chromosome: '1',
@@ -94,11 +197,15 @@ const VariantForm: React.FC<VariantFormProps> = ({ onSubmit, isLoading }) => {
 
   const loadExample = (example: typeof exampleVariants[0]) => {
     setFormData(example.data as VariantInput);
+    setHgvs('');
+    setHgvsStatus('idle');
+    setHgvsMessage('');
   };
 
   return (
     <form onSubmit={handleSubmit} className="space-y-6">
-      {/* Example variants */}
+
+      {/* Quick Examples */}
       <div className="bg-gray-50 p-4 rounded-lg">
         <h3 className="text-sm font-medium text-gray-700 mb-2">Quick Examples</h3>
         <div className="flex flex-wrap gap-2">
@@ -115,7 +222,37 @@ const VariantForm: React.FC<VariantFormProps> = ({ onSubmit, isLoading }) => {
         </div>
       </div>
 
+      {/* HGVS Auto-resolver */}
+      <div className="bg-blue-50 border border-blue-200 p-4 rounded-lg">
+        <label className="block text-sm font-medium text-blue-800 mb-1">
+          HGVS Notation
+          <span className="ml-2 text-xs font-normal text-blue-500">(optional — auto-fills coordinates below)</span>
+        </label>
+        <input
+          type="text"
+          value={hgvs}
+          onChange={handleHgvsChange}
+          placeholder="e.g., NM_006920.6:c.4849C>T"
+          className="w-full px-3 py-2 border border-blue-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 bg-white font-mono text-sm"
+        />
+        {hgvsStatus === 'loading' && (
+          <p className="mt-1 text-xs text-blue-500 animate-pulse">Resolving via Ensembl...</p>
+        )}
+        {hgvsStatus === 'success' && (
+          <p className="mt-1 text-xs text-green-600">✓ {hgvsMessage}</p>
+        )}
+        {hgvsStatus === 'error' && (
+          <p className="mt-1 text-xs text-red-500">✗ {hgvsMessage}</p>
+        )}
+        {hgvsStatus === 'idle' && !hgvs && (
+          <p className="mt-1 text-xs text-gray-400">
+            Copy from your lab report. Resolves to chromosome, position, ref and alt automatically.
+          </p>
+        )}
+      </div>
+
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+
         {/* Gene */}
         <div>
           <label htmlFor="gene" className="block text-sm font-medium text-gray-700 mb-1">
@@ -150,6 +287,34 @@ const VariantForm: React.FC<VariantFormProps> = ({ onSubmit, isLoading }) => {
               <option key={chr} value={chr}>{chr}</option>
             ))}
           </select>
+        </div>
+
+        {/* Genomic Position */}
+        <div>
+          <label htmlFor="position" className="block text-sm font-medium text-gray-700 mb-1">
+            Genomic Position
+            <span className="ml-2 text-xs font-normal text-gray-400">(GRCh38 — enables exact gnomAD & ClinVar lookup)</span>
+          </label>
+          <input
+            type="number"
+            id="position"
+            name="position"
+            value={formData.position ?? ''}
+            onChange={handleChange}
+            placeholder="e.g., 166931824"
+            className={`w-full px-3 py-2 border rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500
+              ${formData.position ? 'border-green-400 bg-green-50' : 'border-gray-300'}`}
+          />
+          {!formData.position && (
+            <p className="mt-1 text-xs text-gray-400">
+              Without position: gnomAD skipped, ClinVar uses gene-level search
+            </p>
+          )}
+          {formData.position && (
+            <p className="mt-1 text-xs text-green-600">
+              ✓ Exact gnomAD & ClinVar lookup enabled
+            </p>
+          )}
         </div>
 
         {/* Reference Allele */}
@@ -226,18 +391,37 @@ const VariantForm: React.FC<VariantFormProps> = ({ onSubmit, isLoading }) => {
         <div>
           <label htmlFor="review_status" className="block text-sm font-medium text-gray-700 mb-1">
             Review Status
+            {reviewStatus === 'loading' && (
+              <span className="ml-2 text-xs text-blue-500 animate-pulse">Fetching from ClinVar...</span>
+            )}
+            {reviewStatus === 'found' && (
+              <span className="ml-2 text-xs text-green-600">Auto-filled from ClinVar</span>
+            )}
+            {reviewStatus === 'not_found' && (
+              <span className="ml-2 text-xs text-gray-400">Not in ClinVar — set manually</span>
+            )}
           </label>
           <select
             id="review_status"
             name="review_status"
             value={formData.review_status}
             onChange={handleChange}
-            className="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500"
+            disabled={reviewStatus === 'loading'}
+            className={`w-full px-3 py-2 border rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500
+              ${reviewStatus === 'loading'  ? 'bg-gray-100 border-gray-200 cursor-wait' : ''}
+              ${reviewStatus === 'found'    ? 'border-green-400 bg-green-50' : ''}
+              ${reviewStatus === 'idle' || reviewStatus === 'not_found' ? 'border-gray-300' : ''}
+            `}
           >
             {REVIEW_STATUSES.map(status => (
               <option key={status} value={status}>{status}</option>
             ))}
           </select>
+          {reviewStatus === 'idle' && (
+            <p className="mt-1 text-xs text-gray-400">
+              Provide position above for auto-fill, or select manually
+            </p>
+          )}
         </div>
 
         {/* Origin */}
@@ -264,6 +448,7 @@ const VariantForm: React.FC<VariantFormProps> = ({ onSubmit, isLoading }) => {
             </p>
           )}
         </div>
+
       </div>
 
       {/* Submit Button */}

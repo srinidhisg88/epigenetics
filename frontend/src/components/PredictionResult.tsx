@@ -97,6 +97,54 @@ const PredictionResult: React.FC<PredictionResultProps> = ({ result }) => {
         </dl>
       </div>
 
+      {/* Evidence-Based Upgrade Banner (confidence resolver) */}
+      {result.uncertainty_analysis?.is_uncertain && (
+        <div className={`p-4 border-t-2 ${
+          result.uncertainty_analysis.suggested_classification?.includes('Pathogenic')
+            ? 'bg-orange-50 border-orange-400'
+            : result.uncertainty_analysis.suggested_classification?.includes('Benign')
+            ? 'bg-blue-50 border-blue-400'
+            : 'bg-yellow-50 border-yellow-400'
+        }`}>
+          <div className="flex items-start gap-3">
+            <span className="text-xl">⚡</span>
+            <div>
+              <p className="text-sm font-bold text-gray-800">
+                Evidence-Based Assessment:&nbsp;
+                <span className={`${
+                  result.uncertainty_analysis.suggested_classification?.includes('Pathogenic')
+                    ? 'text-orange-700'
+                    : 'text-blue-700'
+                }`}>
+                  {result.uncertainty_analysis.suggested_classification}
+                </span>
+              </p>
+              <p className="text-xs text-gray-600 mt-1">
+                ML model uncertainty ({result.uncertainty_analysis.pathogenic_prob_pct}% pathogenic probability).&nbsp;
+                {result.uncertainty_analysis.reasoning}
+              </p>
+              {result.uncertainty_analysis.evidence_points?.length > 0 && (
+                <ul className="mt-2 space-y-0.5">
+                  {result.uncertainty_analysis.evidence_points.map((pt: string, i: number) => (
+                    <li key={i} className="text-xs text-gray-600">• {pt}</li>
+                  ))}
+                </ul>
+              )}
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Contradiction Warning */}
+      {result.contradictions?.has_contradictions && (
+        <div className="p-3 border-t bg-red-50 border-red-200">
+          <p className="text-xs font-semibold text-red-700">
+            ⚠️ {result.contradictions.count} contradiction{result.contradictions.count > 1 ? 's' : ''} detected
+            (severity: {result.contradictions.severity}) — see Diagnostic Results for details
+          </p>
+        </div>
+      )}
+
       {/* Next Steps Indicator */}
       {isPathogenic && (
         <div className="p-4 bg-red-50 border-t border-red-200">
@@ -117,6 +165,74 @@ const PredictionResult: React.FC<PredictionResultProps> = ({ result }) => {
             <strong>Benign prediction:</strong> No additional treatment recommendations needed.
             The variant is predicted to be non-pathogenic.
           </p>
+        </div>
+      )}
+
+      {/* gnomAD Population Frequency */}
+      {result.gnomad_data && (
+        <div className="p-6 border-t bg-blue-50">
+          <h4 className="text-sm font-semibold text-blue-900 mb-3">
+            gnomAD Population Frequency
+            <span className="ml-2 text-xs font-normal text-blue-600">
+              {result.gnomad_data.dataset || 'gnomad_r4'}
+            </span>
+          </h4>
+
+          {!result.gnomad_data.found ? (
+            <div className="flex items-start gap-3">
+              <span className="mt-0.5 inline-flex items-center px-2 py-0.5 rounded text-xs font-bold bg-green-100 text-green-800 whitespace-nowrap">
+                Absent from gnomAD
+              </span>
+              <p className="text-sm text-blue-800">
+                Not observed in {result.gnomad_data.allele_number?.toLocaleString() || '~730,000'} population alleles.
+                Absence supports pathogenicity <span className="font-semibold">(ACMG PM2)</span>.
+              </p>
+            </div>
+          ) : (
+            <div className="space-y-3">
+              <div>
+                <div className="flex justify-between text-sm mb-1">
+                  <span className="text-blue-700 font-medium">Allele Frequency</span>
+                  <span className="font-mono font-bold text-blue-900">
+                    {result.gnomad_data.allele_frequency != null
+                      ? result.gnomad_data.allele_frequency.toExponential(2)
+                      : '0'}
+                  </span>
+                </div>
+                <div className="w-full bg-blue-200 rounded-full h-2">
+                  <div
+                    className={`h-2 rounded-full ${
+                      (result.gnomad_data.allele_frequency || 0) > 0.01
+                        ? 'bg-green-500'
+                        : (result.gnomad_data.allele_frequency || 0) > 0.0001
+                        ? 'bg-yellow-500'
+                        : 'bg-red-500'
+                    }`}
+                    style={{
+                      width: `${Math.min(100, ((result.gnomad_data.allele_frequency || 0) / 0.05) * 100)}%`
+                    }}
+                  />
+                </div>
+              </div>
+              <div className="grid grid-cols-3 gap-3 text-xs text-blue-700">
+                <div><span className="text-blue-500">AC:</span> {result.gnomad_data.allele_count}</div>
+                <div><span className="text-blue-500">AN:</span> {result.gnomad_data.allele_number?.toLocaleString()}</div>
+                <div><span className="text-blue-500">Hom:</span> {result.gnomad_data.homozygote_count}</div>
+              </div>
+              <p className="text-xs text-blue-700">{result.gnomad_data.clinical_interpretation}</p>
+            </div>
+          )}
+
+          {result.gnomad_data.variant_id && (
+            <a
+              href={`https://gnomad.broadinstitute.org/variant/${result.gnomad_data.variant_id}?dataset=${result.gnomad_data.dataset || 'gnomad_r4'}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-3 inline-block text-xs text-blue-600 hover:underline"
+            >
+              View on gnomAD →
+            </a>
+          )}
         </div>
       )}
 

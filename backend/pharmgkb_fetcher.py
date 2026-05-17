@@ -47,6 +47,15 @@ EPILEPSY_GENES = {
     'DEPDC5', 'NPRL2', 'NPRL3'
 }
 
+# Drugs withdrawn from market or contraindicated in this context — never surface these
+WITHDRAWN_OR_UNSAFE_DRUGS: Set[str] = {
+    'lorcaserin',    # withdrawn 2020 (FDA) — cancer risk; not an AED
+    'cisapride',     # withdrawn — cardiac arrhythmia
+    'troglitazone',  # withdrawn — hepatotoxicity
+    'rofecoxib',     # withdrawn — cardiovascular risk
+    'pemoline',      # withdrawn — hepatotoxicity
+}
+
 # Epilepsy-relevant drugs (AEDs - Anti-Epileptic Drugs)
 EPILEPSY_DRUGS = {
     # Sodium channel blockers
@@ -278,6 +287,9 @@ class PharmGKBFetcher:
 
         interactions = []
         for row in results:
+            drug_name = (row[3] or '').lower()
+            if any(blocked in drug_name for blocked in WITHDRAWN_OR_UNSAFE_DRUGS):
+                continue
             interactions.append({
                 'annotation_id': row[0],
                 'gene': row[1],

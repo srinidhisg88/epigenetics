@@ -148,14 +148,21 @@ for pathogenicity. Use plain language (e.g., "extremely rare", "absent from popu
 
 ## 💊 Treatment Recommendations
 
+CRITICAL DRUG RULES — MANDATORY:
+- For contraindicated drugs: ONLY list drugs explicitly flagged in the PharmGKB context provided.
+- For first-line and second-line drugs: use established, currently-marketed, evidence-based AEDs for the syndrome.
+- NEVER mention these withdrawn or off-label drugs: lorcaserin (withdrawn 2020), cisapride, troglitazone, rofecoxib, pemoline.
+- NEVER invent drug names or list drugs that are experimental, withdrawn, or without epilepsy indication.
+- If a drug is not FDA/EMA approved for the syndrome, do not list it.
+
 ### ✓ First-Line Options
-List recommended medications with color coding and brief rationale.
+Established first-line AEDs for this syndrome, with color coding and rationale.
 
 ### Second-Line Options
-Alternative treatments if first-line fails or is contraindicated.
+Evidence-based second-line options for refractory cases.
 
 ### ⚠️ Contraindicated Medications
-Medications to AVOID. Explain the clinical reason (e.g., "worsens sodium channel loss-of-function").
+ONLY drugs from the PharmGKB context that are flagged as harmful for this gene. Explain the clinical reason (e.g., worsens sodium channel loss-of-function).
 
 ## 🔬 Additional Considerations
 Caveats, genetic counseling recommendations, further testing suggestions.

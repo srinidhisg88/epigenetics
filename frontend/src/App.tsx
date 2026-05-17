@@ -40,18 +40,25 @@ function App() {
       const result = await analyzeVariant(variant);
       setAnalysisResult(result);
 
-      // If pathogenic with RAG response, auto-switch to chat
-      if (result.is_pathogenic && result.rag_response) {
+      // Switch to Diagnostic Results whenever there is a RAG response —
+      // this includes pathogenic predictions, uncertain variants, and
+      // any case where contradictions were detected.
+      const hasSignificantFindings =
+        result.rag_response &&
+        (result.is_pathogenic ||
+         result.contradictions?.has_contradictions ||
+         result.uncertainty_analysis?.is_uncertain);
+
+      if (hasSignificantFindings) {
         setRagChatData({
           gene: result.variant_info.gene,
           variant: `${result.variant_info.reference_allele}>${result.variant_info.alternate_allele}`,
           prediction: result.prediction,
           confidence: result.confidence,
           consequence: result.variant_info.consequence,
-          ragResponse: result.rag_response,
+          ragResponse: result.rag_response!,
           sources: result.sources || []
         });
-        // Auto-switch to chat tab
         setActiveTab('chat');
       }
     } catch (err: any) {
@@ -266,7 +273,9 @@ function App() {
                     <div>
                       <h2 className="text-2xl font-bold text-gray-900">Diagnostic Results</h2>
                       <p className="text-gray-600 mt-1">
-                        Treatment recommendations and clinical information for pathogenic variant
+                        {ragChatData.prediction === 'Pathogenic'
+                          ? 'Treatment recommendations and clinical information for pathogenic variant'
+                          : 'Clinical analysis — contradictions or uncertainty detected, evidence reviewed'}
                       </p>
                     </div>
                     <button
@@ -290,8 +299,8 @@ function App() {
                   </svg>
                   <h3 className="mt-4 text-lg font-medium text-gray-900">No Pathogenic Variant Analyzed</h3>
                   <p className="mt-2 text-gray-500 max-w-md mx-auto">
-                    Analyze a variant in the "Variant Analysis" tab. If the variant is predicted as pathogenic,
-                    treatment recommendations and clinical information will appear here.
+                    Analyze a variant in the "Variant Analysis" tab. Results appear here for pathogenic
+                    variants, uncertain predictions, or when contradictions are detected between evidence sources.
                   </p>
                   <button
                     onClick={handleBackToAnalysis}

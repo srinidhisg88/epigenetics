@@ -136,35 +136,62 @@ class ClinVarFetcher:
         response.raise_for_status()
         return response
 
-    def search_variant(self, gene: str, variant: Optional[str] = None) -> List[Dict]:
+    def search_variant(
+        self,
+        gene: str,
+        variant: Optional[str] = None,
+        chromosome: Optional[str] = None,
+        position: Optional[int] = None,
+        reference_allele: Optional[str] = None,
+        alternate_allele: Optional[str] = None,
+    ) -> List[Dict]:
         """
         Search ClinVar for variants in a gene.
 
+        Priority order:
+          1. chromosome + position → exact positional lookup via [chr_pos_grch38]
+          2. variant string         → HGVS name lookup via [variant name]
+          3. gene only             → all pathogenic variants for that gene
+
         Args:
-            gene: Gene symbol (e.g., 'SCN1A')
-            variant: Optional specific variant (e.g., 'p.Arg1648His', 'c.1648G>A')
+            gene:             Gene symbol (e.g., 'SCN1A')
+            variant:          Optional HGVS cDNA string (e.g., 'c.4943G>A')
+            chromosome:       Chromosome number (e.g., '2')
+            position:         GRCh38 genomic position (e.g., 165992332)
+            reference_allele: Ref allele (e.g., 'G')
+            alternate_allele: Alt allele (e.g., 'A')
 
         Returns:
             List of variant dictionaries with clinical interpretations
         """
-        # Check cache
-        cache_key = self._get_cache_key(gene, variant)
+        # Build cache key from all available identifiers
+        cache_suffix = variant or (f"{chromosome}:{position}" if chromosome and position else None)
+        cache_key = self._get_cache_key(gene, cache_suffix)
         cached_data = self._get_from_cache(cache_key)
         if cached_data:
             print(f"ClinVar: Loaded from cache for {gene}" +
-                  (f" {variant}" if variant else ""))
+                  (f" {cache_suffix}" if cache_suffix else ""))
             return cached_data
 
-        print(f"ClinVar: Fetching from API for {gene}" +
-              (f" {variant}" if variant else "..."))
-
-        # Build search query
-        if variant:
-            # Search for specific variant
+        # Build search query — positional search is most precise
+        if chromosome and position:
+            # ClinVar positional search: chromosome[chromosome] AND position[chrpos]
+            # chrpos field accepts GRCh38 positions as integers
+            chrom_clean = str(chromosome).replace("chr", "")
+            search_term = (
+                f"{gene}[gene] AND {chrom_clean}[chromosome] AND "
+                f"{position}[base position]"
+            )
+            print(f"ClinVar: Exact positional search chr{chrom_clean}:{position} for {gene}")
+        elif variant:
             search_term = f"{gene}[gene] AND {variant}[variant name]"
+            print(f"ClinVar: HGVS name search '{variant}' for {gene}")
         else:
-            # Search for all variants in gene with pathogenic/likely pathogenic
-            search_term = f"{gene}[gene] AND (pathogenic[clinical significance] OR likely pathogenic[clinical significance])"
+            search_term = (
+                f"{gene}[gene] AND "
+                f"(pathogenic[clinical significance] OR likely pathogenic[clinical significance])"
+            )
+            print(f"ClinVar: Gene-level search for {gene}")
 
         try:
             # Step 1: Search for variant IDs
@@ -218,7 +245,7 @@ class ClinVarFetcher:
             variants.sort(key=lambda v: v.get('review_stars', 0), reverse=True)
 
             # Cache results
-            self._save_to_cache(cache_key, gene, variant, variants, ttl_days=30)
+            self._save_to_cache(cache_key, gene, cache_suffix, variants, ttl_days=30)
 
             return variants
 
@@ -229,10 +256,17 @@ class ClinVarFetcher:
     def _parse_variant_summary(self, variant_data: Dict, variation_uid: str = '') -> Optional[Dict]:
         """Parse ClinVar variant summary data."""
         try:
-            # Extract clinical significance
+            # ClinVar API returns classification under 'germline_classification'
+            # (newer API format) with fallback to legacy 'clinical_significance'
+            germline = variant_data.get('germline_classification', {})
             clinical_sig = variant_data.get('clinical_significance', {})
-            significance = clinical_sig.get('description', 'Uncertain significance')
-            review_status = clinical_sig.get('review_status', 'no assertion criteria provided')
+
+            significance   = (germline.get('description')
+                              or clinical_sig.get('description')
+                              or 'Uncertain significance')
+            review_status  = (germline.get('review_status')
+                              or clinical_sig.get('review_status')
+                              or 'no assertion criteria provided')
 
             # Convert review status to star rating (0-4)
             review_stars = self._get_review_stars(review_status)

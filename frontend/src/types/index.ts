@@ -203,9 +203,11 @@ export const VARIANT_TYPES = [
 
 // Review statuses
 export const REVIEW_STATUSES = [
+  'no classification provided',
   'no assertion criteria provided',
   'criteria provided, single submitter',
-  'criteria provided, multiple submitters',
+  'criteria provided, conflicting classifications',
+  'criteria provided, multiple submitters, no conflicts',
   'reviewed by expert panel',
   'practice guideline'
 ] as const;

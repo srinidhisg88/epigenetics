@@ -69,10 +69,12 @@ data/processed/backup_before_utr_cleaning/
 data/faiss_index/index.faiss
 
 # ── API response cache ────────────────────────────────────────────────────────
-cache/clinvar/
-cache/gnomad/
-cache/literature/
-cache/pharmgkb/
+cache/
+backend/cache/
+validation/cache/
+
+# ── SQLite cache databases ────────────────────────────────────────────────────
+**/*.db
 
 # ── Claude internal project files ────────────────────────────────────────────
 .claude/
