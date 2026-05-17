@@ -1,352 +1,155 @@
 # Epilepsy Variant Diagnostic Assistant
 
-An AI-powered clinical decision support system for epilepsy genetic variant classification. Combines an XGBoost pathogenicity classifier, automated ACMG/AMP scoring, multi-source RAG retrieval, contradiction detection, and LLM-generated clinical reports — all in a single real-time pipeline.
+An AI-powered clinical decision support system for epilepsy genetic variant classification. Combines an XGBoost pathogenicity classifier, automated ACMG/AMP scoring, multi-source RAG retrieval, contradiction detection, and LLM-generated clinical reports in a single real-time pipeline.
 
 ---
 
-## System Architecture
+## Overview
 
-![System Architecture](documentation_images/15_system_architecture.png)
+The system accepts 7 clinical inputs (gene, chromosome, alleles, consequence, variant type, review status, origin) and produces a full clinical report including:
 
-![Data Flow](documentation_images/16_data_flow_diagram.png)
-
----
-
-## Key Features
-
-- **No-Phenotype ML Classifier** — XGBoost trained on 51,060 epilepsy variants with 93 engineered features; no phenotype strings used anywhere (eliminates target leakage)
-- **ACMG/AMP Automated Scoring** — Tavtigian 2018 points-based framework with 14 criteria (PVS1, PM2, BA1, BS1, BS2, PP3, BP4, BP6 etc.)
-- **SHAP Explainability** — TreeSHAP on every prediction; top contributors feed PP3/BP4 ACMG criteria and clinical report
-- **gnomAD Population Frequency** — live GraphQL API queries for PM2, BA1, BS1, BS2 evidence
-- **Contradiction Detection** — flags ML vs ClinVar, ML vs gnomAD, and consequence vs prediction conflicts
-- **Confidence-Aware RAG** — extra evidence gathering when ML probability is uncertain (30–70%)
-- **Multi-Source Retrieval** — PubMed (FAISS/PubMedBERT), ClinVar, PharmGKB, GeneReviews
-- **LLM Clinical Reports** — Qwen3-32B via Groq API; structured treatment recommendations with HTML color-coded output
-- **26 Epilepsy Genes** covered across sodium channels, potassium channels, GABA receptors, TSC complex, and more
+- ML pathogenicity prediction with confidence score
+- SHAP-based feature attribution in clinical language
+- ACMG/AMP 5-tier classification (Pathogenic → Benign) using Tavtigian 2018 points-based scoring
+- Population frequency from gnomAD
+- Contradiction detection between ML, ClinVar, and gnomAD
+- Treatment recommendations from PubMed, PharmGKB, and GeneReviews
+- LLM-generated clinical narrative (Qwen3-32B via Groq)
 
 ---
 
-## Full Inference Pipeline
-
-![Inference Pipeline](documentation_images/fig4_full_inference_pipeline.png)
-
-The `/analyze_variant` endpoint runs all 7 components in sequence:
+## Inference Pipeline
 
 ```
-Input (7 clinical fields)
-    ↓
-Feature Engineering → 93-column DataFrame
-    ↓
-XGBoost (no-phenotype) → pathogenic_prob, prediction_label
-    ↓
-SHAP (TreeSHAP) → top_contributors (always runs)
-    ↓
-gnomAD → allele_frequency, allele_count (if position given)
-    ↓
-ACMG pass 1 → classification (SHAP + gnomAD, no ClinVar yet)
-    ↓
-[if Pathogenic OR uncertain (30–70%)]
-Multi-Source RAG → PubMed + ClinVar + PharmGKB + GeneReviews
-    ↓
-ACMG pass 2 → re-classify with ClinVar data
-    ↓
-Contradiction Detector → flag ML vs ClinVar / gnomAD conflicts
-    ↓
-Confidence Resolver → evidence aggregation if uncertain
-    ↓
-Qwen3-32B (Groq) → structured clinical report
+Input (7 fields: gene, chromosome, ref/alt alleles, consequence, variant_type, review_status, origin)
+    │
+    ▼
+Feature Engineering ──► 93-column DataFrame (gene one-hots, consequence flags,
+    │                    variant type one-hots, allele lengths, review score, etc.)
+    ▼
+XGBoost Classifier ──► pathogenic_prob  +  prediction_label
+    │
+    ▼
+SHAP (TreeSHAP) ──► top_contributors → feeds PP3 / BP4 / PM1 ACMG criteria
+    │
+    ▼
+gnomAD API ──► allele_frequency → feeds PM2 / BA1 / BS1 / BS2
+    │
+    ▼
+ACMG pass 1 ──► 5-tier classification (SHAP + gnomAD, no ClinVar yet)
+    │
+    ├─── [if Pathogenic OR uncertain (30–70%)] ────────────────────────────────┐
+    │                                                                          │
+    ▼                                                                          │
+Multi-Source RAG                                                               │
+  ├── PubMed (FAISS + PubMedBERT)                                             │
+  ├── ClinVar (NCBI API)                                                       │
+  ├── PharmGKB (drug-gene interactions)                                        │
+  └── GeneReviews (NCBI)                                                       │
+    │                                                                          │
+    ▼                                                                          │
+ACMG pass 2 ──► re-classify with ClinVar data now available                   │
+    │                                                                          │
+    ▼                                                                          │
+Contradiction Detector ──► ML vs ClinVar / ML vs gnomAD / consequence flags   │
+    │                                                                          │
+    ▼                                                                          │
+Confidence Resolver ──► evidence tally if uncertain (30–70%)                  │
+    │                                                                          │
+    ▼◄─────────────────────────────────────────────────────────────────────────┘
+Qwen3-32B (Groq API) ──► structured clinical report with treatment plan
 ```
 
 ---
 
 ## Dataset & Training
 
-### Dataset
+- **Source**: ClinVar (NCBI) — GRCh38 variants across 26 epilepsy genes
+- **Size**: 51,060 variants — 37.5% pathogenic / 62.5% benign
+- **Split**: Stratified 70 / 15 / 15 (train / val / test), preserving class ratio across all folds
+- **Resampling**: SMOTETomek applied to training fold only (35,718 → 44,644 samples)
 
-- **Source**: ClinVar (NCBI) — GRCh38 variants in 26 epilepsy genes
-- **Size**: 51,060 variants (after cleaning) — 37.5% pathogenic, 62.5% benign
-- **Split**: Stratified 70 / 15 / 15 (train / val / test)
-
-![Dataset Distribution](documentation_images/01_dataset_distribution.png)
-
-![Class Distribution and Gene Coverage](documentation_images/fig7_class_distribution_smote_genes.png)
-
-### Handling Class Imbalance
-
-SMOTETomek applied to the **training fold only** (not val/test) to avoid data leakage:
-
-| | Samples |
-|---|---|
-| Before resampling | 35,718 |
-| After SMOTETomek | 44,644 |
+![Class Distribution and Gene Coverage](paper/fig7_class_distribution_smote_genes.png)
 
 ---
 
-## Feature Engineering
+## Feature Importance
 
-93 features engineered deterministically from 7 clinical inputs at inference time — no phenotype data used.
+93 features are engineered deterministically from 7 inputs at inference time — no phenotype data used anywhere in training or inference.
 
-![Feature Engineering Pipeline](documentation_images/17_feature_engineering_pipeline.png)
+![Feature Importance](paper/fig2_feature_importance_fixed.png)
 
-| Feature Group | Count | Examples |
+| Feature Group | Count | Description |
 |---|---|---|
-| Gene one-hot | 26 | `gene_SCN1A`, `gene_KCNQ2`, ... |
-| Consequence flags | 9 | `is_frameshift`, `is_missense`, `is_splice` |
-| Variant type one-hot | 12 | `type_single nucleotide variant`, `type_Deletion`, ... |
-| Chromosome one-hot | 15 | `chr_1`, `chr_X`, `chr_na`, ... |
-| Review score | 5 | `review_score`, `has_expert_review`, ... |
-| Allele features | 3 | `ref_length`, `alt_length`, `allele_length_diff` |
-| Transition/transversion | 2 | `is_transition`, `is_transversion` |
+| Gene one-hot | 26 | Binary flag per gene (SCN1A, KCNQ2, …) |
+| Consequence flags | 9 | `is_frameshift`, `is_missense`, `is_splice`, … |
+| Variant type one-hot | 12 | `type_single nucleotide variant`, `type_Deletion`, … |
+| Chromosome one-hot | 15 | `chr_1` … `chr_X`, `chr_na` |
+| Review score | 5 | `review_score`, `has_expert_review`, … |
 | Gene category | 4 | `is_sodium_channel`, `is_gaba_receptor`, `is_tsc_complex` |
 | Gene statistics | 2 | `gene_pathogenicity_rate`, `gene_sample_count` |
+| Allele features | 3 | `ref_length`, `alt_length`, `allele_length_diff` |
 | Origin | 2 | `is_germline`, `is_de_novo` |
-| Other | 13 | `severe_consequence_count`, `position`, ... |
-
-**9 phenotype-derived features removed** vs original model: `is_dravet`, `has_seizures`, `has_autism`, `is_infantile_encephalopathy`, `is_benign_familial`, `is_febrile_seizure`, `has_developmental_delay`, `gene_frequency`, `num_phenotypes`.
-
----
-
-## ML Model
-
-### Training
-
-![Model Training Workflow](documentation_images/18_model_training_workflow.png)
-
-```python
-XGBClassifier(
-    n_estimators=300, max_depth=8, learning_rate=0.05,
-    subsample=0.8, colsample_bytree=0.8, min_child_weight=3,
-    gamma=0.1, reg_alpha=0.1, reg_lambda=1.0
-)
-# Wrapped in CalibratedClassifierCV(method="isotonic", cv=5)
-```
-
-### Test Set Performance
-
-| Metric | Score |
-|---|---|
-| Accuracy | 89.89% |
-| ROC AUC | 94.46% |
-| F1 Score | 85.38% |
-| Brier Score | 0.0761 |
-
-![ML Validation Results](documentation_images/fig3_ml_validation_test_full.png)
-
-### Feature Importance (Top 10)
-
-![Feature Importance](documentation_images/fig2_feature_importance_fixed.png)
-
-### Multi-Model Comparison
-
-Benchmarked against Logistic Regression, Random Forest, Gradient Boosting, and 5 neural network architectures (SimpleNN, DeepNN, ResidualNN, AttentionNN, WideDeepNN):
-
-![Model Comparison](documentation_images/11_model_performance_comparison.png)
+| Transition/transversion | 2 | `is_transition`, `is_transversion` |
+| Other | 13 | `severe_consequence_count`, `position`, … |
 
 ---
 
-## ACMG/AMP Automated Classification
+## Model Performance
 
-Implements the **Tavtigian 2018 points-based (Evidence Aggregation) framework** on top of ACMG/AMP 2015 guidelines.
+XGBoost trained with isotonic calibration (`CalibratedClassifierCV`, cv=5):
 
-![ACMG Decision Flowchart](documentation_images/fig5_acmg_decision_flowchart.png)
+| Metric | Train | Validation | Test |
+|---|---|---|---|
+| Accuracy | — | — | 89.89% |
+| ROC AUC | — | — | 94.46% |
+| F1 Score | — | — | 85.38% |
+| Brier Score | — | — | 0.0761 |
 
-### Criteria and Evidence Sources
+![ML Validation Results](paper/fig3_ml_validation_test_full.png)
+
+---
+
+## ACMG/AMP Classification
+
+Implements the **Tavtigian 2018 points-based (Evidence Aggregation)** framework:
 
 | Criterion | Points | Evidence Source |
 |---|---|---|
 | PVS1 | +8 | Consequence type + gene LOF/GOF mechanism |
-| PS2 | +4 | Origin field (confirmed de novo) |
-| PM6 | +2 | Origin field (assumed de novo) |
+| PS2 | +4 | Confirmed de novo (origin field) |
+| PM6 | +2 | Assumed de novo (origin field) |
 | PM1 | +2 | SHAP consequence feature ≥20% contribution |
-| PM2 | +2 | gnomAD absent / ultra-rare |
+| PM2 | +2 | gnomAD absent or ultra-rare |
 | PM4 | +2 | In-frame indel or stop-loss |
 | PP3 | +1 | SHAP top contributor increases pathogenicity ≥15% |
 | PP5 | +1 | ClinVar pathogenic classification |
-| BA1 | −8 | gnomAD AF > 5% (stand-alone Benign) |
+| BA1 | −8 | gnomAD AF > 5% (stand-alone Benign override) |
 | BS1 | −4 | gnomAD AF > 1% |
 | BS2 | −4 | ≥5 gnomAD alleles in healthy individuals |
 | BP4 | −1 | SHAP top contributor decreases pathogenicity ≥15% |
 | BP6 | −1 | ClinVar benign classification |
 | BP7 | −1 | Synonymous variant |
 
-### Score → Classification Thresholds
+**Score thresholds**: ≥10 Pathogenic | 6–9 Likely Pathogenic | 1–5 VUS | −1 to −6 Likely Benign | ≤−7 or BA1 → Benign
 
-| Score | Classification |
+Validated on **200 real ClinVar variants** (2+ star review, GRCh38, 14 epilepsy genes) — **98.5% match** with expert classifications.
+
+![Per-Gene ACMG Accuracy](paper/fig10_per_gene_acmg_accuracy.png)
+
+---
+
+## Supported Genes (26)
+
+| Category | Genes |
 |---|---|
-| ≥ 10 | Pathogenic |
-| 6 – 9 | Likely Pathogenic |
-| 1 – 5 | VUS |
-| −1 to −6 | Likely Benign |
-| ≤ −7 or BA1 | Benign |
-
-### Validation (200 real ClinVar variants)
-
-![ACMG Validation Results](validation/results/real_acmg_validation.png)
-
-- **198/200 = 98.5%** match with expert ClinVar classifications (2+ star review)
-- Tested on GRCh38, 14 epilepsy genes, with live gnomAD data
-
----
-
-## Contradiction Detection
-
-Detects conflicts between ML prediction and external evidence sources:
-
-![Confidence Resolver Zones](documentation_images/fig6_confidence_resolver_zones.png)
-
-| Contradiction Type | Trigger | Severity |
-|---|---|---|
-| ML vs ClinVar | ML=Pathogenic + ClinVar=Benign (or vice versa) | High (≥2★) / Medium |
-| ML vs gnomAD | ML=Pathogenic + gnomAD AF > 1% | High |
-| ML vs Consequence | ML=Benign + frameshift/stop/splice | Medium |
-| ClinVar Internal | Any submission marked "conflicting" | Medium |
-
-![Contradiction Detection Validation](validation/results/real_contradiction_validation.png)
-
-Validated on 160 real ClinVar variants (80 contradiction cases + 80 controls).
-
----
-
-## Confidence-Aware RAG
-
-When the ML pathogenic probability falls in the **uncertain zone (30–70%)**, the system:
-
-1. Gathers gnomAD, ClinVar, consequence, and SHAP evidence
-2. Tallies weighted support scores for pathogenic vs benign
-3. Suggests a resolution classification
-4. Injects an uncertainty notice into the LLM prompt
-
----
-
-## RAG Pipeline
-
-![Data Pipeline Flowchart](documentation_images/fig1_data_pipeline_flowchart.png)
-
-### Knowledge Sources
-
-| Source | Content | Retrieval Method |
-|---|---|---|
-| PubMed | ~200 gene-specific abstracts | FAISS + PubMedBERT embeddings |
-| ClinVar | Expert variant classifications | NCBI eSearch/eSummary API |
-| PharmGKB | Drug-gene interactions | PharmGKB REST API |
-| GeneReviews | NCBI gene review summaries | Cached text files |
-
-### LLM
-
-**Qwen3-32B** via **Groq API** — structured clinical reports with:
-- ACMG classification + supporting evidence in plain language
-- Epilepsy syndrome and clinical presentation
-- Population rarity context
-- First-line, second-line, and contraindicated treatments
-- HTML color-coded output (genes, medications, syndromes, warnings)
-
----
-
-## Project Structure
-
-```
-epilepsy_diagnostic_assistant/
-├── backend/
-│   ├── app.py                      # FastAPI server — all endpoints
-│   ├── acmg_classifier.py          # ACMG/AMP points-based scoring
-│   ├── shap_explainer.py           # TreeSHAP + clinical translation
-│   ├── confidence_resolver.py      # Contradiction detector + uncertainty RAG
-│   ├── gnomad_fetcher.py           # gnomAD GraphQL API client
-│   ├── clinvar_fetcher.py          # NCBI ClinVar API client
-│   ├── literature_fetcher.py       # PubMed abstract fetcher
-│   ├── pharmgkb_fetcher.py         # PharmGKB drug-gene API client
-│   └── genereview_fetcher.py       # GeneReviews NCBI client
-├── rag/
-│   ├── generator.py                # Groq LLM client (Qwen3-32B)
-│   ├── retriever.py                # FAISS vector retriever
-│   └── multi_source_retriever.py   # Unified multi-source orchestrator
-├── frontend/
-│   └── src/
-│       ├── components/             # React UI components
-│       ├── services/api.ts         # API service layer
-│       └── types/                  # TypeScript types
-├── data/
-│   ├── knowledge_base/             # PubMed abstracts + GeneReviews
-│   ├── faiss_index/                # FAISS vector index metadata
-│   └── processed/                  # Feature name JSONs, gene statistics
-├── models/
-│   ├── epilepsy_classifier_no_phenotype.pkl   # Primary model (93 features)
-│   ├── epilepsy_classifier.pkl                # Original model (99 features)
-│   ├── best_nn_ResidualNN.pth                 # Best neural network
-│   └── *.json                                 # Performance metadata
-├── validation/
-│   ├── real_acmg_validation.py     # ACMG validation (200 ClinVar variants)
-│   ├── real_contradiction_validation.py
-│   └── results/                    # Validation figures and JSON results
-├── paper/                          # LaTeX manuscript + figures (JBios format)
-├── benchmarks/                     # Multi-model comparison figures
-├── train_model_no_phenotype.py     # Primary model training script
-├── train_model_comparison.py       # Multi-model comparison training
-├── feature_engineering_fixed.py   # Feature engineering pipeline
-├── requirements.txt
-└── .env.example
-```
-
----
-
-## Setup
-
-### 1. Clone and install Python dependencies
-
-```bash
-git clone https://github.com/srinidhisg88/epigenetics.git
-cd epigenetics
-python -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-```
-
-### 2. Configure environment variables
-
-```bash
-cp .env.example .env
-```
-
-Edit `.env` and set:
-
-```env
-GROQ_API_KEY=your_groq_api_key          # https://console.groq.com/keys
-NCBI_API_KEY=your_ncbi_api_key          # https://www.ncbi.nlm.nih.gov/account/
-ENTREZ_EMAIL=your_email@example.com
-```
-
-### 3. (Optional) Rebuild the knowledge base
-
-The FAISS index metadata is already committed. To re-fetch PubMed abstracts and rebuild the index:
-
-```bash
-python scripts/fetch_pubmed.py
-python scripts/build_knowledge_base.py
-```
-
-### 4. Start the backend
-
-```bash
-uvicorn backend.app:app --reload --port 8000
-```
-
-Or use the convenience script:
-
-```bash
-bash START_SERVER.sh
-```
-
-API available at `http://localhost:8000`
-
-### 5. Start the frontend
-
-```bash
-cd frontend
-npm install
-npm start
-```
-
-Frontend available at `http://localhost:3000`
+| Voltage-gated sodium channels | SCN1A, SCN2A, SCN3A, SCN8A, SCN9A |
+| Voltage-gated potassium channels | KCNQ2, KCNQ3 |
+| GABA-A receptor subunits | GABRA1, GABRG2 |
+| mTOR / TSC pathway | TSC1, TSC2, DEPDC5, NPRL3 |
+| Neurodevelopmental | CDKL5, MECP2, STXBP1, ARX, FOXG1, PCDH19 |
+| Transporters | SLC2A1, SLC6A1 |
+| Other | CHD2, PLCB1, PRRT2, TBC1D24, ALDH7A1 |
 
 ---
 
@@ -354,15 +157,15 @@ Frontend available at `http://localhost:3000`
 
 | Endpoint | Method | Description |
 |---|---|---|
-| `/health` | GET | Model load status + system info |
-| `/genes` | GET | Supported genes list |
-| `/predict_variant` | POST | ML prediction only (fast) |
-| `/analyze_variant` | POST | Full pipeline — ML + SHAP + gnomAD + ACMG + RAG + LLM |
-| `/explain_variant` | POST | RAG + LLM explanation for a known prediction |
-| `/chat` | POST | Conversational follow-up with variant context |
-| `/literature/{gene}` | GET | PubMed literature for a gene |
+| `GET /health` | GET | Model load status |
+| `GET /genes` | GET | Supported genes list |
+| `POST /predict_variant` | POST | ML prediction only (fast, no RAG) |
+| `POST /analyze_variant` | POST | Full pipeline — ML + SHAP + gnomAD + ACMG + RAG + LLM |
+| `POST /explain_variant` | POST | RAG + LLM explanation for a known prediction |
+| `POST /chat` | POST | Conversational follow-up with variant context |
+| `GET /literature/{gene}` | GET | PubMed abstracts for a gene |
 
-### Example request — `/analyze_variant`
+**Example `/analyze_variant` request:**
 
 ```json
 {
@@ -380,52 +183,322 @@ Frontend available at `http://localhost:3000`
 
 ---
 
-## Supported Genes (26)
-
-| Category | Genes |
-|---|---|
-| Sodium channels | SCN1A, SCN2A, SCN3A, SCN8A, SCN9A |
-| Potassium channels | KCNQ2, KCNQ3 |
-| GABA receptors | GABRA1, GABRG2 |
-| TSC / mTOR | TSC1, TSC2, DEPDC5, NPRL3 |
-| Rett-related | MECP2, CDKL5, FOXG1, PCDH19 |
-| Transporters | SLC2A1, SLC6A1 |
-| Synaptic | STXBP1, LGI1, GRIN2A, PRRT2 |
-| Other | ARX, TBC1D24, CHD2, ALDH7A1, CACNA1A, PLCB1 |
-
----
-
 ## Technology Stack
 
 | Component | Technology |
 |---|---|
-| ML model | XGBoost + CalibratedClassifierCV (isotonic) |
-| Explainability | SHAP (TreeSHAP) |
+| ML classifier | XGBoost + CalibratedClassifierCV (isotonic, cv=5) |
+| Explainability | SHAP TreeExplainer |
 | Class balancing | SMOTETomek (imblearn) |
-| Backend | FastAPI + Pydantic |
+| Backend framework | FastAPI + Pydantic v2 |
 | Vector store | FAISS |
 | Embeddings | PubMedBERT (sentence-transformers) |
 | LLM | Qwen3-32B via Groq API |
-| Frontend | React + TypeScript + Tailwind CSS |
-| External APIs | gnomAD GraphQL, NCBI ClinVar, PharmGKB, GeneReviews |
+| Frontend | React 18 + TypeScript + Tailwind CSS |
+| External APIs | gnomAD GraphQL, NCBI ClinVar eSearch, PharmGKB REST, GeneReviews |
 
 ---
 
-## Validation Summary
+## Setup Guide
 
-| Component | Method | Result |
+### Prerequisites
+
+| Requirement | Version | Notes |
 |---|---|---|
-| ML model | Held-out test set (7,631 variants) | AUC 94.5%, F1 85.4% |
-| ACMG classifier | 200 real ClinVar 2+★ variants | 98.5% match |
-| Contradiction detector | 160 real ClinVar variants (parameterised ML) | Validated TP/TN/FP/FN |
+| Python | 3.9 – 3.11 | 3.12 not recommended (some imblearn conflicts) |
+| Node.js | 18+ | For the React frontend |
+| npm | 9+ | Comes with Node.js |
+| Git | any | |
 
-![Validation Combined](validation/results/paper_combined_figure.png)
+You will need API keys for:
+- **Groq** — free tier available at [console.groq.com/keys](https://console.groq.com/keys)
+- **NCBI** — free at [ncbi.nlm.nih.gov/account](https://www.ncbi.nlm.nih.gov/account/) (optional but raises rate limits)
+
+---
+
+### Step 1 — Clone the repository
+
+```bash
+git clone https://github.com/srinidhisg88/epigenetics.git
+cd epigenetics
+```
+
+---
+
+### Step 2 — Create a Python virtual environment
+
+```bash
+python3 -m venv venv
+```
+
+Activate it:
+
+```bash
+# macOS / Linux
+source venv/bin/activate
+
+# Windows (Command Prompt)
+venv\Scripts\activate.bat
+
+# Windows (PowerShell)
+venv\Scripts\Activate.ps1
+```
+
+You should see `(venv)` in your prompt.
+
+---
+
+### Step 3 — Install Python dependencies
+
+```bash
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+This installs: `fastapi`, `uvicorn`, `xgboost`, `shap`, `imbalanced-learn`, `faiss-cpu`, `sentence-transformers`, `groq`, `biopython`, `pandas`, `scikit-learn`, `joblib`, and others.
+
+> **Note**: First run of `sentence-transformers` will download the PubMedBERT model (~420 MB). This happens automatically on first import.
+
+---
+
+### Step 4 — Configure environment variables
+
+```bash
+cp .env.example .env
+```
+
+Open `.env` and fill in your keys:
+
+```env
+# Required — get from https://console.groq.com/keys
+GROQ_API_KEY=gsk_your_key_here
+
+# Recommended — raises NCBI rate limit from 3 to 10 req/sec
+NCBI_API_KEY=your_ncbi_key_here
+ENTREZ_EMAIL=your_email@example.com
+
+# Optional overrides (defaults work out of the box)
+# MODEL_PATH=models/epilepsy_classifier_no_phenotype.pkl
+# FAISS_INDEX_PATH=data/faiss_index/index.faiss
+# CHUNKS_MAP_PATH=data/faiss_index/chunks.json
+
+API_HOST=0.0.0.0
+API_PORT=8000
+CORS_ALLOW_ALL=true
+```
+
+---
+
+### Step 5 — Verify the model files are present
+
+```bash
+ls models/
+```
+
+You should see:
+
+```
+epilepsy_classifier_no_phenotype.pkl   ← primary model (used at runtime)
+epilepsy_classifier.pkl
+epilepsy_classifier_optimized.pkl
+best_nn_ResidualNN.pth
+nn_scaler.pkl
+model_metadata.json
+performance_no_phenotype.json
+...
+```
+
+If the `.pkl` files are missing, retrain the primary model:
+
+```bash
+python train_model_no_phenotype.py
+```
+
+> This requires the processed CSV files (`data/processed/X_train_no_phenotype.csv` etc.), which are not committed due to size. See **Regenerating Training Data** below.
+
+---
+
+### Step 6 — Start the backend server
+
+```bash
+uvicorn backend.app:app --reload --host 0.0.0.0 --port 8000
+```
+
+Or use the convenience script:
+
+```bash
+bash START_SERVER.sh
+```
+
+On first startup you will see:
+
+```
+[Startup] Loading ML model from models/epilepsy_classifier_no_phenotype.pkl...
+[Startup] ML model loaded successfully with 93 features
+[Startup] Gene-disease map loaded: 26 genes
+[Startup] SHAP explainer initialized
+[Startup] FAISS index loaded: 1842 chunks
+```
+
+Confirm the backend is running:
+
+```bash
+curl http://localhost:8000/health
+```
+
+Expected response:
+
+```json
+{"status": "ok", "model_loaded": true, "features": 93}
+```
+
+---
+
+### Step 7 — Start the frontend
+
+Open a new terminal (keep the backend running):
+
+```bash
+cd frontend
+npm install          # first time only — downloads ~500 MB of packages
+npm start
+```
+
+The app opens automatically at `http://localhost:3000`.
+
+---
+
+### Step 8 — Run a test prediction
+
+```bash
+curl -X POST http://localhost:8000/predict_variant \
+  -H "Content-Type: application/json" \
+  -d '{
+    "gene": "SCN1A",
+    "chromosome": "2",
+    "reference_allele": "C",
+    "alternate_allele": "T",
+    "consequence": "stop_gained",
+    "variant_type": "single nucleotide variant",
+    "review_status": "criteria provided, single submitter",
+    "origin": "germline"
+  }'
+```
+
+---
+
+### Regenerating Training Data (optional)
+
+Raw ClinVar data (3.6 GB) and processed CSVs (162 MB) are not committed. To regenerate:
+
+```bash
+# 1. Download ClinVar variant summary for GRCh38
+#    From: https://ftp.ncbi.nlm.nih.gov/pub/clinvar/tab_delimited/
+#    Save as: data/raw/variant_summary.txt
+
+# 2. Filter to epilepsy genes
+python filter_epilepsy_data.py
+
+# 3. Clean and split
+python clean_training_data.py
+
+# 4. Engineer features
+python feature_engineering_fixed.py
+
+# 5. Retrain the model
+python train_model_no_phenotype.py
+```
+
+---
+
+### Rebuilding the Knowledge Base (optional)
+
+The FAISS index metadata (`chunks.json`) is committed. To re-fetch literature and rebuild the binary index:
+
+```bash
+# Fetch PubMed abstracts for all 26 genes (~5-10 min, requires NCBI key)
+python scripts/fetch_pubmed.py
+
+# Rebuild FAISS vector index (downloads PubMedBERT on first run)
+python scripts/build_knowledge_base.py
+```
+
+---
+
+### Running Tests
+
+```bash
+pytest tests/ -v
+```
+
+---
+
+### Common Issues
+
+| Problem | Cause | Fix |
+|---|---|---|
+| `ML model not loaded` on `/health` | `.pkl` file missing | Run `python train_model_no_phenotype.py` or check `MODEL_PATH` in `.env` |
+| `FAISS index not found` | Index file missing | Run `python scripts/build_knowledge_base.py` |
+| `groq.AuthenticationError` | Missing or wrong API key | Check `GROQ_API_KEY` in `.env` |
+| `ModuleNotFoundError` | Wrong Python environment | Run `source venv/bin/activate` first |
+| Frontend CORS error | Backend not running | Start backend on port 8000 before frontend |
+| `imblearn` install fails on Python 3.12 | Version conflict | Use Python 3.9–3.11 |
+
+---
+
+## Project Structure
+
+```
+epigenetics/
+├── backend/
+│   ├── app.py                      # FastAPI server — all endpoints
+│   ├── acmg_classifier.py          # ACMG/AMP points-based scoring (14 criteria)
+│   ├── shap_explainer.py           # TreeSHAP + clinical language translation
+│   ├── confidence_resolver.py      # Contradiction detector + uncertainty RAG
+│   ├── gnomad_fetcher.py           # gnomAD GraphQL API client
+│   ├── clinvar_fetcher.py          # NCBI ClinVar eSearch/eSummary client
+│   ├── literature_fetcher.py       # PubMed abstract fetcher + summariser
+│   ├── pharmgkb_fetcher.py         # PharmGKB drug-gene API client
+│   └── genereview_fetcher.py       # GeneReviews NCBI client
+├── rag/
+│   ├── generator.py                # Groq LLM client (Qwen3-32B) + system prompt
+│   ├── retriever.py                # FAISS vector retriever
+│   └── multi_source_retriever.py   # Multi-source orchestrator (PubMed + ClinVar + PharmGKB + GeneReviews)
+├── frontend/src/
+│   ├── components/                 # React UI components
+│   ├── services/api.ts             # API service layer
+│   └── types/                      # TypeScript interfaces
+├── data/
+│   ├── knowledge_base/             # PubMed abstracts + GeneReviews text files
+│   ├── faiss_index/                # chunks.json + build_info.json (index.faiss excluded — regenerate)
+│   └── processed/                  # feature_names*.json, gene_statistics.json, metadata.json
+├── models/
+│   ├── epilepsy_classifier_no_phenotype.pkl   # Primary model (93 features, used at runtime)
+│   ├── epilepsy_classifier.pkl                # Original model (99 features)
+│   ├── best_nn_ResidualNN.pth                 # Best neural network checkpoint
+│   └── *.json                                 # Performance metadata
+├── validation/
+│   ├── real_acmg_validation.py        # ACMG validation on 200 ClinVar variants
+│   ├── real_contradiction_validation.py
+│   ├── real_confidence_rag_validation.py
+│   └── results/                       # Validation figures and JSON outputs
+├── paper/                             # LaTeX manuscript + figures (JBios format)
+├── benchmarks/                        # Multi-model comparison figures
+├── train_model_no_phenotype.py        # Primary model training script
+├── train_model_comparison.py          # Multi-model comparison (LR, RF, GBM, XGBoost, 5×NN)
+├── feature_engineering_fixed.py      # Feature engineering pipeline
+├── filter_epilepsy_data.py           # ClinVar raw data filter
+├── clean_training_data.py            # Data cleaning and stratified split
+├── requirements.txt
+├── START_SERVER.sh
+└── .env.example
+```
 
 ---
 
 ## Disclaimer
 
-This tool is for **research and educational purposes only**. It is not approved for clinical diagnosis or treatment decisions. Always consult a qualified clinical geneticist or medical professional for patient care.
+This tool is for **research and educational purposes only**. It is not intended for clinical diagnosis or treatment decisions. Always consult a qualified clinical geneticist or healthcare professional for patient care.
 
 ---
 
