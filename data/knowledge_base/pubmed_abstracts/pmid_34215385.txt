@@ -1,0 +1,9 @@
+PMID: 34215385
+Title: Genetics in Epilepsy.
+Authors: Luis A Martinez, Yi-Chen Lai, J Lloyd Holder, Anne E Anderson
+Journal: Neurologic clinics
+Year: 2021
+MeSH Terms: Epilepsy, Humans, Phenotype
+
+Abstract:
+The presence of unprovoked, recurrent seizures, particularly when drug resistant and associated with cognitive and behavioral deficits, warrants investigation for an underlying genetic cause. This article provides an overview of the major classes of genes associated with epilepsy phenotypes divided into functional categories along with the recommended work-up and therapeutic considerations. Gene discovery in epilepsy supports counseling and anticipatory guidance but also opens the door for precision medicine guiding therapy with a focus on those with disease-modifying effects.

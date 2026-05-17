@@ -1,0 +1,9 @@
+PMID: 34419634
+Title: A novel ARX loss of function variant in female monozygotic twins is associated with chorea.
+Authors: Jonathan Rodgers, Sophie Calvert, Cheryl Shoubridge, Julie McGaughran
+Journal: European journal of medical genetics
+Year: 2021
+MeSH Terms: Chorea, Developmental Disabilities, Female, Homeodomain Proteins, Humans, Infant, Loss of Function Mutation, Phenotype, Transcription Factors, Twins, Monozygotic
+
+Abstract:
+Pathogenic variants in ARX lead to a variety of phenotypes with intellectual disability being a uniform feature. Other features can include severe epilepsy, spasticity, movement disorders, agenesis of the corpus callosum, lissencephaly, hydranencephaly and ambiguous genitalia in males. We present the first report of monozygotic female twins with a de novo ARX pathogenic variant (c.1406_1415del; p. Ala469Aspfs*20), predicted to result in a truncated ARX protein missing the important regulatory Aristaless domain. The twins presented with profound developmental delay and seizures, consistent with the known genotype-phenotype correlation. Twin 2's features were significantly more severe. She also developed chorea; the first time this movement disorder has been seen in an ARX variant other than an expansion of the first polyalanine tract. Differential X-chromosome inactivation was the most likely explanation for the differing severities but could not be conclusively proven.

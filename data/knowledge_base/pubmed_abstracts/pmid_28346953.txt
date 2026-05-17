@@ -1,0 +1,9 @@
+PMID: 28346953
+Title: Lennox-Gastaut Syndrome: A State of the Art Review.
+Authors: Mario Mastrangelo
+Journal: Neuropediatrics
+Year: 2017
+MeSH Terms: Animals, Humans, Lennox Gastaut Syndrome
+
+Abstract:
+Lennox-Gastaut syndrome (LGS) is a severe age-dependent epileptic encephalopathy usually with onset between 1 and 8 years of age. Functional neuroimaging studies recently introduced the concept of Lennox-Gastaut as "secondary network epilepsy" resulting from dysfunctions of a complex system involving both cortical and subcortical structures (default-mode network, corticoreticular connections, and thalamus). These dysfunctions are produced by different disorders including hypoxic-ischemic encephalopathies, meningoencephalitis, cortical malformations, neurocutaneous disorders, or tumors. The list of etiologies was expanded to pathogenic copy number variants at whole-genome array comparative genomic hybridization associated with late-onset cases or pathogenic mutations involving genes, such as 

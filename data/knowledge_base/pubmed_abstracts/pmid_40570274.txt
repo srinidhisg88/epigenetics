@@ -1,0 +1,9 @@
+PMID: 40570274
+Title: Phenotypic Spectrum in Individuals With Pathogenic 
+Authors: Alessandra Rossi, Susan X N Lin, Nathan L Absalom, Sebastian Ortiz-De la Rosa, Vivian W Y Liao
+Journal: Neurology
+Year: 2025
+MeSH Terms: Humans, Receptors, GABA-A, Female, Male, Phenotype, Child, Child, Preschool, Loss of Function Mutation, Infant, Adolescent
+
+Abstract:
+BACKGROUND AND OBJECTIVES: Variants in the  METHODS: We assembled a cohort of unreported probands carrying presumed pathogenic  RESULTS: We examined 44 individuals with 35  DISCUSSION: Our findings indicate that the severity of disease associated with pathogenic 

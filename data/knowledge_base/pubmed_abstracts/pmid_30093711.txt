@@ -1,0 +1,9 @@
+PMID: 30093711
+Title: The landscape of epilepsy-related GATOR1 variants.
+Authors: Sara Baldassari, Fabienne Picard, Nienke E Verbeek, Marjan van Kempen, Eva H Brilstra
+Journal: Genetics in medicine : official journal of the American College of Medical Genetics
+Year: 2019
+MeSH Terms: Adolescent, Brugada Syndrome, Child, Child, Preschool, DNA Copy Number Variations, Epilepsy, Female, GTPase-Activating Proteins, Genetic Predisposition to Disease, Humans
+
+Abstract:
+PURPOSE: To define the phenotypic and mutational spectrum of epilepsies related to DEPDC5, NPRL2 and NPRL3 genes encoding the GATOR1 complex, a negative regulator of the mTORC1 pathway METHODS: We analyzed clinical and genetic data of 73 novel probands (familial and sporadic) with epilepsy-related variants in GATOR1-encoding genes and proposed new guidelines for clinical interpretation of GATOR1 variants. RESULTS: The GATOR1 seizure phenotype consisted mostly in focal seizures (e.g., hypermotor or frontal lobe seizures in 50%), with a mean age at onset of 4.4 years, often sleep-related and drug-resistant (54%), and associated with focal cortical dysplasia (20%). Infantile spasms were reported in 10% of the probands. Sudden unexpected death in epilepsy (SUDEP) occurred in 10% of the families. Novel classification framework of all 140 epilepsy-related GATOR1 variants (including the variants of this study) revealed that 68% are loss-of-function pathogenic, 14% are likely pathogenic, 15% are variants of uncertain significance and 3% are likely benign. CONCLUSION: Our data emphasize the increasingly important role of GATOR1 genes in the pathogenesis of focal epilepsies (>180 probands to date). The GATOR1 phenotypic spectrum ranges from sporadic early-onset epilepsies with cognitive impairment comorbidities to familial focal epilepsies, and SUDEP.

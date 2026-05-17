@@ -1,0 +1,9 @@
+PMID: 39501195
+Title: Pyridoxine-dependent epilepsy caused by an ALDH7A1 mutation in an infant girl: the first case report in Syria.
+Authors: Rida Jaber, Hadi Salame, Mostafa Zeindeen, Ali Jawad, Hassan Fawaz
+Journal: BMC neurology
+Year: 2024
+MeSH Terms: Female, Humans, Infant, Newborn, Aldehyde Dehydrogenase, Epilepsy, Mutation, Pyridoxine, Syria
+
+Abstract:
+BACKGROUND: Pyridoxine-dependent epilepsy is primarily characterized by early-onset refractory seizures. This condition can be caused by alpha-aminoadipic semialdehyde dehydrogenase deficiency due to a mutation in the ALDH7A1 gene, leading to the accumulation of certain substances that impact the production of various brain neurotransmitters and enzymes. CASE PRESENTATION: Our report presents the first documented case of pyridoxine dependency in Syria. The female infant, born to consanguineous parents, exhibited seizures on the second day of life. Despite the administration of multiple antiepileptic medications, seizures persisted. A comprehensive assessment, including metabolic evaluation, electroencephalography, and phenotypic characteristics of seizures, prompted genetic testing for pyridoxine-dependent epilepsy, which identified a homozygous likely pathogenic variant in the ALDH7A1 gene, confirming the diagnosis of this condition. Subsequently, the baby was put on oral pyridoxine, resulting in complete cessation of seizures. CONCLUSIONS: Due to its rarity, this condition was initially overlooked and led to an inappropriate therapeutic approach. Pyridoxine dependency should be considered after the manifestation of refractory seizures, as increased awareness can enable early diagnosis, appropriate treatment, and avoid unnecessary use of antiepileptic drugs. However, predicting the long-term outcome remains challenging.

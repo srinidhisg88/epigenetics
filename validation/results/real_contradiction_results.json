@@ -1,0 +1,1614 @@
+{
+  "data_source": "data/processed/epilepsy_variants_all.csv + gnomAD API",
+  "total": 160,
+  "TP": 80,
+  "TN": 80,
+  "FP": 0,
+  "FN": 0,
+  "sensitivity": 100.0,
+  "specificity": 100.0,
+  "precision": 100.0,
+  "f1": 100.0,
+  "results": [
+    {
+      "gene": "SCN8A",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC1",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "CHD2",
+      "clinvar_sig": "Benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN1A",
+      "clinvar_sig": "Benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "GABRG2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "MECP2",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN8A",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "GABRG2",
+      "clinvar_sig": "Benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "KCNQ2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "CHD2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "GABRA1",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC1",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN8A",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "KCNQ2",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN2A",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN1A",
+      "clinvar_sig": "Benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN2A",
+      "clinvar_sig": "Benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "GABRG2",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN2A",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "CDKL5",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "GABRA1",
+      "clinvar_sig": "Benign",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML=Path vs ClinVar=Benign",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "GABRA1",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC1",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "KCNQ2",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "KCNQ2",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN1A",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "PCDH19",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "KCNQ2",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "MECP2",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN1A",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN2A",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "GABRG2",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "CDKL5",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC1",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "PCDH19",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN1A",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SLC2A1",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN2A",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "KCNQ2",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "KCNQ2",
+      "clinvar_sig": "Likely pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN1A",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN1A",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC1",
+      "clinvar_sig": "Likely pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "KCNQ2",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SLC2A1",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "MECP2",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN1A",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "KCNQ2",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "CHD2",
+      "clinvar_sig": "Likely pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "MECP2",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC1",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "PCDH19",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN8A",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC1",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Benign",
+      "scenario": "ML=Benign vs ClinVar=Pathogenic",
+      "expected_flag": true,
+      "detected": true,
+      "severity": "high",
+      "gnomad_af": null
+    },
+    {
+      "gene": "GABRA1",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC1",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "KCNQ2",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "KCNQ2",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN1A",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "PCDH19",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "KCNQ2",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "MECP2",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN1A",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN2A",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "GABRG2",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "CDKL5",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC1",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "PCDH19",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN1A",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SLC2A1",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN2A",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "KCNQ2",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "KCNQ2",
+      "clinvar_sig": "Likely pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN1A",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN1A",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC1",
+      "clinvar_sig": "Likely pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "KCNQ2",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SLC2A1",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "MECP2",
+      "clinvar_sig": "Pathogenic/Likely pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN1A",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "KCNQ2",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "CHD2",
+      "clinvar_sig": "Likely pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "MECP2",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC1",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "PCDH19",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN8A",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC1",
+      "clinvar_sig": "Pathogenic",
+      "ml_prediction": "Pathogenic",
+      "scenario": "ML agrees ClinVar=Pathogenic",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN8A",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC1",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "CHD2",
+      "clinvar_sig": "Benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN1A",
+      "clinvar_sig": "Benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "GABRG2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "MECP2",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN8A",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "GABRG2",
+      "clinvar_sig": "Benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "KCNQ2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "CHD2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "GABRA1",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC1",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN8A",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "KCNQ2",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN2A",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN1A",
+      "clinvar_sig": "Benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN2A",
+      "clinvar_sig": "Benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "GABRG2",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "SCN2A",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "TSC2",
+      "clinvar_sig": "Benign/Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "CDKL5",
+      "clinvar_sig": "Likely benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    },
+    {
+      "gene": "GABRA1",
+      "clinvar_sig": "Benign",
+      "ml_prediction": "Benign",
+      "scenario": "ML agrees ClinVar=Benign",
+      "expected_flag": false,
+      "detected": false,
+      "severity": "none",
+      "gnomad_af": null
+    }
+  ]
+}

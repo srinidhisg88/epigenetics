@@ -1,0 +1,9 @@
+PMID: 34102392
+Title: Identification of a novel variant p.Ser606Gly in SCN3A associated with childhood absence epilepsy.
+Authors: Wei Li, Wenli Zhao, Jing Wang, Xiaoli Zhang, Xinlai Qian
+Journal: Epilepsy research
+Year: 2021
+MeSH Terms: Epilepsy, Absence, Humans, Magnetic Resonance Imaging, NAV1.3 Voltage-Gated Sodium Channel, Phenotype, Sodium Channels
+
+Abstract:
+Sodium (Na

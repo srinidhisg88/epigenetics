@@ -1,0 +1,9 @@
+PMID: 38540325
+Title: Genetic Advancements in Infantile Epileptic Spasms Syndrome and Opportunities for Precision Medicine.
+Authors: Hannah E Snyder, Puneet Jain, Rajesh RamachandranNair, Kevin C Jones, Robyn Whitney
+Journal: Genes
+Year: 2024
+MeSH Terms: Animals, Precision Medicine, Spasms, Infantile, Epilepsy, Epileptic Syndromes, Spasm
+
+Abstract:
+Infantile epileptic spasms syndrome (IESS) is a devastating developmental epileptic encephalopathy (DEE) consisting of epileptic spasms, as well as one or both of developmental regression or stagnation and hypsarrhythmia on EEG. A myriad of aetiologies are associated with the development of IESS; broadly, 60% of cases are thought to be structural, metabolic or infectious in nature, with the remainder genetic or of unknown cause. Epilepsy genetics is a growing field, and over 28 copy number variants and 70 single gene pathogenic variants related to IESS have been discovered to date. While not exhaustive, some of the most commonly reported genetic aetiologies include trisomy 21 and pathogenic variants in genes such as 

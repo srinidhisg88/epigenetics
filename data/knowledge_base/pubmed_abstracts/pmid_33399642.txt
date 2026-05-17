@@ -1,0 +1,9 @@
+PMID: 33399642
+Title: Pathogenic variant in the PCDH19 gene in a patient with epilepsy and cognitive disability.
+Authors: Viviana Venegas Silva, Elisa García Venegas, M Gabriela Repetto Lisboa, Eva Barroso Ramos, Pablo Lapunzina Badia
+Journal: Revista chilena de pediatria
+Year: 2020
+MeSH Terms: Adolescent, Cadherins, Diagnosis, Differential, Epilepsy, Female, Genetic Markers, Heterozygote, Humans, Intellectual Disability, Mutation, Missense
+
+Abstract:
+INTRODUCTION: The association of family cases of epilepsy and intellectual disability in women was reported in 1971. In 2008, the role of pathogenic variants of the PCDH19 gene in some families were identified. The disease presents with febrile seizure clusters, intellectual disability, and autistic features. Most cases are due to de novo variants, however, there are some inherited cases, with an atypical way of X-linked transmission. OBJECTIVE: To report the case of a patient with epilepsy carrier of a pathogenic variant of the PCDH19 gene, reviewing the natural history of this condition and the available evidence for its management. CLINICAL CASE: Female patient, with normal history of pregnancy and perinatal period. At 6 months, while febrile, she presented focal motor seizure clusters that repeated at 14, 18, 21 months and 3 years old, always associated with fever, even presenting status epilepticus. She is on therapy with topiramate and valproic acid, achieving 13 seizure-free years. The analysis of the SCN1A gene showed no abnormalities and the study of the PCDH19 gene revealed a de novo heterozygous pathogenic variant. The patient evolved with intellectual disability and severe behavioral disorders that require mental health team support. CONCLUSIONS: PCDH19 pathogenic variants have varied phenotypic expression. The genetic diagnosis should be guided with the clinical features. Long-term psychiatric morbidity can be disabling.

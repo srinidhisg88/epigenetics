@@ -1,0 +1,9 @@
+PMID: 37536979
+Title: Precision medicine: Vinpocetine as a potential treatment for GABRG2-related epilepsy.
+Authors: Despoina Mandelenaki, Elodie Juvené, Damien Lederer, Alec Aeby
+Journal: Epileptic disorders : international epilepsy journal with videotape
+Year: 2023
+MeSH Terms: Male, Humans, Child, Epilepsy, Absence, Precision Medicine, Receptors, GABA-A, Anticonvulsants, Seizures, Drug Resistant Epilepsy, Epilepsy, Generalized
+
+Abstract:
+INTRODUCTION: Pathogenic variants of the GABRG2 gene, encoding a GABAA receptor subunit, have been associated with various epileptic syndromes and drug-resistant epilepsy. Vinpocetine has been previously reported efficacious in a patient harboring a GABRB3 pathogenic variant, encoding another GABAA receptor subunit. CASE PRESENTATION: We describe a patient with GABRG2-related drug-resistant epilepsy who improved after vinpocetine treatment. An 8-year-old boy with a family history of epilepsy was diagnosed with early onset absence epilepsy at 6 months of age and was treated unsuccessfully with sodium valproate and ethosuximide. At 6 years of age, he developed generalized tonic-clonic seizures and increasing absences despite lamotrigine add-on as well as learning difficulties. Brain MRI was normal and video-EEG telemetry showed multiple myoclonic absences. An epilepsy gene panel analysis showed a GABRG2 pathogenic variant, c.254 T > A p.(Ile85Lys) (NM_198903.2), inherited from the proband's father. Seizures were resistant to several medications. After treatment with vinpocetine add-on, the patient showed a dramatic initial response, further reduction of seizures, and improvement of his cognitive functions. CONCLUSION: This case illustrates that vinpocetine could be considered in drug-resistant epilepsies related to GABRG2 in accordance with the principles of precision medicine.

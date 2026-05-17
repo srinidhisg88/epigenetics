@@ -1,0 +1,1441 @@
+{
+  "total_abstracts": 287,
+  "fetch_date": "2026-02-23 22:02:02",
+  "abstracts": [
+    {
+      "pmid": "38307656",
+      "title": "Hemiplegic migraine.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38307656.txt"
+    },
+    {
+      "pmid": "40407699",
+      "title": "Familial SYNGAP1 variants define the boundaries of a complex neurodevelopmental disorder with epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_40407699.txt"
+    },
+    {
+      "pmid": "35222528",
+      "title": "A Novel Variant of the ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35222528.txt"
+    },
+    {
+      "pmid": "39763688",
+      "title": "Case report: Clinical and genetic characterization of a novel ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39763688.txt"
+    },
+    {
+      "pmid": "35431799",
+      "title": null,
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35431799.txt"
+    },
+    {
+      "pmid": "23708187",
+      "title": "Targeted resequencing in epileptic encephalopathies identifies de novo mutations in CHD2 and SYNGAP1.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_23708187.txt"
+    },
+    {
+      "pmid": "38110931",
+      "title": "Predictive model for epileptogenic tubers from all tubers in patients with tuberous sclerosis complex based on ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38110931.txt"
+    },
+    {
+      "pmid": "35592948",
+      "title": "Whole exome sequencing and co-expression analysis identify an SCN1A variant that modifies pathogenicity in a family with genetic epilepsy and febrile seizures plus.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35592948.txt"
+    },
+    {
+      "pmid": "39950246",
+      "title": "Psychoses of Epilepsy: Unravelling the Phenotypic and Genotypic Features.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39950246.txt"
+    },
+    {
+      "pmid": "26865513",
+      "title": "STXBP1 encephalopathy: A neurodevelopmental disorder including epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_26865513.txt"
+    },
+    {
+      "pmid": "39180515",
+      "title": "Effectiveness of add-on acetazolamide in children with drug-resistant CHD2-related epilepsy and in a zebrafish CHD2 model.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39180515.txt"
+    },
+    {
+      "pmid": "31924505",
+      "title": "The phenotypic spectrum of SCN2A-related epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_31924505.txt"
+    },
+    {
+      "pmid": "33841294",
+      "title": "Voltage Gated Sodium Channel Genes in Epilepsy: Mutations, Functional Studies, and Treatment Dimensions.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_33841294.txt"
+    },
+    {
+      "pmid": "37308910",
+      "title": "Expanding genotype-phenotype correlations in FOXG1 syndrome: results from a patient registry.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37308910.txt"
+    },
+    {
+      "pmid": "38727899",
+      "title": "Spectrum of NMDA Receptor Variants in Neurodevelopmental Disorders and Epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38727899.txt"
+    },
+    {
+      "pmid": "36870093",
+      "title": "Phase 2, placebo-controlled clinical study of oral ganaxolone in PCDH19-clustering epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_36870093.txt"
+    },
+    {
+      "pmid": "37879892",
+      "title": "Further characterisation of ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37879892.txt"
+    },
+    {
+      "pmid": "34679360",
+      "title": "Neonatal Seizures: An Overview of Genetic Causes and Treatment Options.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_34679360.txt"
+    },
+    {
+      "pmid": "39214300",
+      "title": "Interaction between the TBC1D24 TLDc domain and the KIBRA C2 domain is disrupted by two epilepsy-associated TBC1D24 missense variants.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39214300.txt"
+    },
+    {
+      "pmid": "33281559",
+      "title": "A Novel Variant in the TBC1D24 Lipid-Binding Pocket Causes Autosomal Dominant Hearing Loss: Evidence for a Genotype-Phenotype Correlation.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_33281559.txt"
+    },
+    {
+      "pmid": "39205479",
+      "title": "Deletions in the CDKL5 5' untranslated region lead to CDKL5 deficiency disorder.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39205479.txt"
+    },
+    {
+      "pmid": "23622183",
+      "title": "Tuberous sclerosis.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_23622183.txt"
+    },
+    {
+      "pmid": "39383590",
+      "title": "Severe Epilepsy in an Individual With a TSC2 R905Q Variant Prompting Late Diagnosis in Affected Family Members.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39383590.txt"
+    },
+    {
+      "pmid": "31145546",
+      "title": "Splice variant in ARX leading to loss of C-terminal region in a boy with intellectual disability and infantile onset developmental and epileptic encephalopathy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_31145546.txt"
+    },
+    {
+      "pmid": "31321301",
+      "title": "Human ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_31321301.txt"
+    },
+    {
+      "pmid": "40943684",
+      "title": "Paroxysmal Dyskinesias in Paediatric Age: A Systematic Review.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_40943684.txt"
+    },
+    {
+      "pmid": "31444548",
+      "title": "Dissecting the genetic basis of focal cortical dysplasia: a large cohort study.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_31444548.txt"
+    },
+    {
+      "pmid": "30093711",
+      "title": "The landscape of epilepsy-related GATOR1 variants.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_30093711.txt"
+    },
+    {
+      "pmid": "35881862",
+      "title": "Gene Editing and Rett Syndrome: Does It Make the Cut?",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35881862.txt"
+    },
+    {
+      "pmid": "37828019",
+      "title": "Astrocytes in human central nervous system diseases: a frontier for new therapies.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37828019.txt"
+    },
+    {
+      "pmid": "29722352",
+      "title": "Epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_29722352.txt"
+    },
+    {
+      "pmid": "35384780",
+      "title": "Phenotypic Spectrum in a Family Sharing a Heterozygous ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35384780.txt"
+    },
+    {
+      "pmid": "37230012",
+      "title": "Epilepsy panels in clinical practice: Yield, variants of uncertain significance, and treatment implications.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37230012.txt"
+    },
+    {
+      "pmid": "37463203",
+      "title": "MicroRNA-335-5p suppresses voltage-gated sodium channel expression and may be a target for seizure control.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37463203.txt"
+    },
+    {
+      "pmid": "33834938",
+      "title": "Focal cortical dysplasia: an update on diagnosis and treatment.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_33834938.txt"
+    },
+    {
+      "pmid": "38134649",
+      "title": "Clinical phenotype and genetic characteristics of SZT2 related diseases: A case report and literature review.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38134649.txt"
+    },
+    {
+      "pmid": "40121854",
+      "title": "Novel epilepsy phenotype associated with a pathogenic GABRG2 variant.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_40121854.txt"
+    },
+    {
+      "pmid": "39434833",
+      "title": "Voltage-gated potassium channels and genetic epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39434833.txt"
+    },
+    {
+      "pmid": "38607431",
+      "title": "Channelopathies in epilepsy: an overview of clinical presentations, pathogenic mechanisms, and therapeutic insights.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38607431.txt"
+    },
+    {
+      "pmid": "39087855",
+      "title": "Neurocardiac pathologies associated with potassium channelopathies.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39087855.txt"
+    },
+    {
+      "pmid": "30734897",
+      "title": "A Practical Guide to Treatment of Childhood Absence Epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_30734897.txt"
+    },
+    {
+      "pmid": "35782612",
+      "title": "Pyridoxine-dependent epilepsy (PDE-ALDH7A1) in adulthood: A Dutch pilot study exploring clinical and patient-reported outcomes.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35782612.txt"
+    },
+    {
+      "pmid": "30541864",
+      "title": null,
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_30541864.txt"
+    },
+    {
+      "pmid": "40378670",
+      "title": "European guidelines on diagnosis and treatment of phenylketonuria: First revision.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_40378670.txt"
+    },
+    {
+      "pmid": "35483386",
+      "title": "CDKL5 deficiency disorder: clinical features, diagnosis, and management.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35483386.txt"
+    },
+    {
+      "pmid": "38951973",
+      "title": "Unusual Voltage-Gated Sodium and Potassium Channelopathies Related to Epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38951973.txt"
+    },
+    {
+      "pmid": "39143639",
+      "title": "GABRG2 mutations in genetic epilepsy with febrile seizures plus: structure, roles, and molecular genetics.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39143639.txt"
+    },
+    {
+      "pmid": "35149262",
+      "title": "Intrafamilial phenotypic variability in TBC1D24-TLDc homozygous pathogenic variant-related developmental and epileptic encephalopathy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35149262.txt"
+    },
+    {
+      "pmid": "29930110",
+      "title": "Analysis of shared heritability in common disorders of the brain.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_29930110.txt"
+    },
+    {
+      "pmid": "34028503",
+      "title": "Common molecular mechanisms of SLC6A1 variant-mediated neurodevelopmental disorders in astrocytes and neurons.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_34028503.txt"
+    },
+    {
+      "pmid": "26807990",
+      "title": "Rett syndrome: An autoimmune disease?",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_26807990.txt"
+    },
+    {
+      "pmid": "28346953",
+      "title": "Lennox-Gastaut Syndrome: A State of the Art Review.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_28346953.txt"
+    },
+    {
+      "pmid": "27855134",
+      "title": "Effects of UGT1A6 and GABRA1 on Standardized Valproic Acid Plasma Concentrations and Treatment Effect in Children With Epilepsy in China.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_27855134.txt"
+    },
+    {
+      "pmid": "37451178",
+      "title": "SCN1A Polymorphisms and Haplotypes Are Associated With Valproic Acid Treatment Outcomes in Chinese Children With Epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37451178.txt"
+    },
+    {
+      "pmid": "36750385",
+      "title": "Rates of Status Epilepticus and Sudden Unexplained Death in Epilepsy in People With Genetic Developmental and Epileptic Encephalopathies.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_36750385.txt"
+    },
+    {
+      "pmid": "32884139",
+      "title": "Molecular basis for ligand activation of the human KCNQ2 channel.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_32884139.txt"
+    },
+    {
+      "pmid": "39168152",
+      "title": "Precision Medicine in Angelman Syndrome.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39168152.txt"
+    },
+    {
+      "pmid": "29053735",
+      "title": "Characterization of the first knock-out aldh7a1 zebrafish model for pyridoxine-dependent epilepsy using CRISPR-Cas9 technology.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_29053735.txt"
+    },
+    {
+      "pmid": "15791137",
+      "title": "Rett syndrome.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_15791137.txt"
+    },
+    {
+      "pmid": "41137852",
+      "title": "Clinical and genetic landscape of epilepsies with absence seizures and single-gene etiology.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_41137852.txt"
+    },
+    {
+      "pmid": "29377098",
+      "title": "PCDH19-related epilepsy is associated with a broad neurodevelopmental spectrum.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_29377098.txt"
+    },
+    {
+      "pmid": "33155184",
+      "title": "Ketogenic Diet Therapies for Seizures and Status Epilepticus.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_33155184.txt"
+    },
+    {
+      "pmid": "34419634",
+      "title": "A novel ARX loss of function variant in female monozygotic twins is associated with chorea.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_34419634.txt"
+    },
+    {
+      "pmid": "39389657",
+      "title": "Incontinentia pigmenti.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39389657.txt"
+    },
+    {
+      "pmid": "33754312",
+      "title": "Highly Purified Cannabidiol for Epilepsy Treatment: A Systematic Review of Epileptic Conditions Beyond Dravet Syndrome and Lennox-Gastaut Syndrome.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_33754312.txt"
+    },
+    {
+      "pmid": "37390664",
+      "title": "Novel variants in established epilepsy genes in focal epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37390664.txt"
+    },
+    {
+      "pmid": "34338318",
+      "title": "Defining Dravet syndrome: An essential pre-requisite for precision medicine trials.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_34338318.txt"
+    },
+    {
+      "pmid": "30680869",
+      "title": "A case of early-onset epileptic encephalopathy with a homozygous TBC1D24 variant caused by uniparental isodisomy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_30680869.txt"
+    },
+    {
+      "pmid": "30968951",
+      "title": "The spectrum of intermediate SCN8A-related epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_30968951.txt"
+    },
+    {
+      "pmid": "39535073",
+      "title": "Ligand distances as key predictors of pathogenicity and function in NMDA receptors.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39535073.txt"
+    },
+    {
+      "pmid": "31904119",
+      "title": "Dravet syndrome: Treatment options and management of prolonged seizures.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_31904119.txt"
+    },
+    {
+      "pmid": "36604176",
+      "title": "Clinical and genetic features of GATOR1 complex-associated epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_36604176.txt"
+    },
+    {
+      "pmid": "38038360",
+      "title": "Gain-of-function and loss-of-function variants in GRIA3 lead to distinct neurodevelopmental phenotypes.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38038360.txt"
+    },
+    {
+      "pmid": "31889633",
+      "title": "Recent advances in treatment of epilepsy-related sodium channelopathies.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_31889633.txt"
+    },
+    {
+      "pmid": "35156171",
+      "title": "A Practical Guide to the Treatment of Dravet Syndrome with Anti-Seizure Medication.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35156171.txt"
+    },
+    {
+      "pmid": "40570274",
+      "title": "Phenotypic Spectrum in Individuals With Pathogenic ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_40570274.txt"
+    },
+    {
+      "pmid": "40217381",
+      "title": "SLC2A1 variants cause late-onset epilepsy and the genetic-dependent stage feature : For the China Epilepsy Gene 1.0 Project.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_40217381.txt"
+    },
+    {
+      "pmid": "40095209",
+      "title": "Electrophysiological Abnormalities and Pharmacological Corrections of Pathogenic Missense Variants in KCNQ3.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_40095209.txt"
+    },
+    {
+      "pmid": "34353676",
+      "title": "SCN8A Epilepsy, Developmental Encephalopathy, and Related Disorders.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_34353676.txt"
+    },
+    {
+      "pmid": "34399110",
+      "title": "Updated International Tuberous Sclerosis Complex Diagnostic Criteria and Surveillance and Management Recommendations.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_34399110.txt"
+    },
+    {
+      "pmid": "29061647",
+      "title": "Pyridoxine-Dependent Epilepsy in Zebrafish Caused by Aldh7a1 Deficiency.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_29061647.txt"
+    },
+    {
+      "pmid": "35359574",
+      "title": "Phenotypic Spectrum and Prognosis of Epilepsy Patients With ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35359574.txt"
+    },
+    {
+      "pmid": "34995834",
+      "title": "Leu226Trp CACNA1A variant associated with juvenile myoclonic epilepsy with and without intellectual disability.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_34995834.txt"
+    },
+    {
+      "pmid": "35503712",
+      "title": "ILAE classification and definition of epilepsy syndromes with onset in neonates and infants: Position statement by the ILAE Task Force on Nosology and Definitions.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35503712.txt"
+    },
+    {
+      "pmid": "38681799",
+      "title": "Developing a pathway to clinical trials for ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38681799.txt"
+    },
+    {
+      "pmid": "35718920",
+      "title": "Molecular and clinical descriptions of patients with GABA",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35718920.txt"
+    },
+    {
+      "pmid": "34215385",
+      "title": "Genetics in Epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_34215385.txt"
+    },
+    {
+      "pmid": "40405536",
+      "title": "Glut1 Deficiency Syndrome: Novel Pathomechanisms, Current Concepts, and Challenges.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_40405536.txt"
+    },
+    {
+      "pmid": "37008993",
+      "title": "Episodic Ataxias: Primary and Secondary Etiologies, Treatment, and Classification Approaches.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37008993.txt"
+    },
+    {
+      "pmid": "29691040",
+      "title": "Progress in Understanding and Treating SCN2A-Mediated Disorders.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_29691040.txt"
+    },
+    {
+      "pmid": "38380699",
+      "title": "L-serine treatment in patients with GRIN-related encephalopathy: a phase 2A, non-randomized study.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38380699.txt"
+    },
+    {
+      "pmid": "27226234",
+      "title": "Tuberous sclerosis complex.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_27226234.txt"
+    },
+    {
+      "pmid": "39017914",
+      "title": "Multicenter retrospective study of patients with PCDH19-related epilepsy: The first Hungarian cohort.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39017914.txt"
+    },
+    {
+      "pmid": "40811633",
+      "title": "Molecular and clinical spectrum of epilepsy-dyskinesia syndromes: a cross-sectional study of 609 patients.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_40811633.txt"
+    },
+    {
+      "pmid": "31324323",
+      "title": "Genetics of neonatal-onset epilepsies.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_31324323.txt"
+    },
+    {
+      "pmid": "40898246",
+      "title": "Clinical differences in monozygotic twins with Rett syndrome: case report and systematic review.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_40898246.txt"
+    },
+    {
+      "pmid": "35907814",
+      "title": "What is the impact of a novel DEPDC5 variant on an infant with focal epilepsy: a case report.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35907814.txt"
+    },
+    {
+      "pmid": "35963265",
+      "title": "Advances in the genetics and neuropathology of tuberous sclerosis complex: edging closer to targeted therapy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35963265.txt"
+    },
+    {
+      "pmid": "37498161",
+      "title": "A novel ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37498161.txt"
+    },
+    {
+      "pmid": "29594870",
+      "title": "Treatment Strategies for Dravet Syndrome.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_29594870.txt"
+    },
+    {
+      "pmid": "34426698",
+      "title": "Identification of neural oscillations and epileptiform changes in human brain organoids.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_34426698.txt"
+    },
+    {
+      "pmid": "25124326",
+      "title": "A novel variant in GABRB2 associated with intellectual disability and epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_25124326.txt"
+    },
+    {
+      "pmid": "29741207",
+      "title": "Genetic generalized epilepsies.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_29741207.txt"
+    },
+    {
+      "pmid": "37632399",
+      "title": "A novel GABRG2 variant in Sunflower syndrome: A case report and video EEG monitoring.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37632399.txt"
+    },
+    {
+      "pmid": "31277844",
+      "title": "Normal EEG variants.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_31277844.txt"
+    },
+    {
+      "pmid": "33895391",
+      "title": "Mutations in the sodium channel genes SCN1A, SCN3A, and SCN9A in children with epilepsy with febrile seizures plus(EFS+).",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_33895391.txt"
+    },
+    {
+      "pmid": "29266188",
+      "title": "ADGRV1 is implicated in myoclonic epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_29266188.txt"
+    },
+    {
+      "pmid": "39107278",
+      "title": "Diagnostic utility of DNA methylation analysis in genetically unsolved pediatric epilepsies and CHD2 episignature refinement.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39107278.txt"
+    },
+    {
+      "pmid": "40963013",
+      "title": "CRISPR activation for SCN2A-related neurodevelopmental disorders.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_40963013.txt"
+    },
+    {
+      "pmid": "39602259",
+      "title": "Constitutive opening of the Kv7.2 pore activation gate causes ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39602259.txt"
+    },
+    {
+      "pmid": "17562589",
+      "title": "Rett syndrome.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_17562589.txt"
+    },
+    {
+      "pmid": "33986365",
+      "title": "TBC1D24 emerges as an important contributor to progressive postlingual dominant hearing loss.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_33986365.txt"
+    },
+    {
+      "pmid": "39053637",
+      "title": "Preliminary study on the mechanism of SAHA in the treatment of refractory epilepsy induced by GABRG2(F343L) mutation.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39053637.txt"
+    },
+    {
+      "pmid": "29303961",
+      "title": "Individualizing Treatment Approaches for Epileptic Patients with Glucose Transporter Type1 (GLUT-1) Deficiency.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_29303961.txt"
+    },
+    {
+      "pmid": "39642202",
+      "title": "Understanding paralogous epilepsy-associated GABA",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39642202.txt"
+    },
+    {
+      "pmid": "37536979",
+      "title": "Precision medicine: Vinpocetine as a potential treatment for GABRG2-related epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37536979.txt"
+    },
+    {
+      "pmid": "30043187",
+      "title": "The genotypic spectrum of ALDH7A1 mutations resulting in pyridoxine dependent epilepsy: A common epileptic encephalopathy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_30043187.txt"
+    },
+    {
+      "pmid": "28212175",
+      "title": "Advances in epilepsy gene discovery and implications for epilepsy diagnosis and treatment.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_28212175.txt"
+    },
+    {
+      "pmid": "37580177",
+      "title": "Splicing defects in rare diseases: transcriptomics and machine learning strategies towards genetic diagnosis.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37580177.txt"
+    },
+    {
+      "pmid": "37122208",
+      "title": null,
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37122208.txt"
+    },
+    {
+      "pmid": "37471090",
+      "title": "Utility of Exome Sequencing for Diagnosis in Unexplained Pediatric-Onset Epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37471090.txt"
+    },
+    {
+      "pmid": "35892317",
+      "title": "Genetic interaction between Scn8a and potassium channel genes Kcna1 and Kcnq2.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35892317.txt"
+    },
+    {
+      "pmid": "27264138",
+      "title": "Treatment of Dravet Syndrome.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_27264138.txt"
+    },
+    {
+      "pmid": "38088023",
+      "title": "Dissecting genetics of spectrum of epilepsies with eyelid myoclonia by exome sequencing.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38088023.txt"
+    },
+    {
+      "pmid": "38083766",
+      "title": "Prognostic Analysis of KCNQ2 Patients via Combining EEG Deep Features and Machine Learning Classifiers.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38083766.txt"
+    },
+    {
+      "pmid": "32660967",
+      "title": "SLC6A1 G443D associated with developmental delay and epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_32660967.txt"
+    },
+    {
+      "pmid": "39903448",
+      "title": "An overview of the value of mTOR inhibitors to the treatment of epilepsy: the evidence to date.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39903448.txt"
+    },
+    {
+      "pmid": "30929312",
+      "title": "Epilepsy and genetic in Rett syndrome: A review.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_30929312.txt"
+    },
+    {
+      "pmid": "32531727",
+      "title": "Dental health in persons with disability.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_32531727.txt"
+    },
+    {
+      "pmid": "33794528",
+      "title": "Flexible Stoichiometry: Implications for KCNQ2- and KCNQ3-Associated Neurodevelopmental Disorders.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_33794528.txt"
+    },
+    {
+      "pmid": "33650258",
+      "title": "Analysis of GABRG2 C588T polymorphism in genetic epilepsy and evaluation of GABRG2 in drug treatment.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_33650258.txt"
+    },
+    {
+      "pmid": "26549780",
+      "title": "Comorbidities of epilepsy: current concepts and future perspectives.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_26549780.txt"
+    },
+    {
+      "pmid": "32776321",
+      "title": "Precision medicine and therapies of the future.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_32776321.txt"
+    },
+    {
+      "pmid": "39174247",
+      "title": "Epilepsies.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39174247.txt"
+    },
+    {
+      "pmid": "39476534",
+      "title": "Investigating the effect of polygenic background on epilepsy phenotype in 'monogenic' families.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39476534.txt"
+    },
+    {
+      "pmid": "37360341",
+      "title": null,
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37360341.txt"
+    },
+    {
+      "pmid": "38880818",
+      "title": "Genotypic and phenotypic characteristics of sodium channel-associated epilepsy in Chinese population.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38880818.txt"
+    },
+    {
+      "pmid": "32222129",
+      "title": "Tuberous sclerosis: a review of the past, present, and future.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_32222129.txt"
+    },
+    {
+      "pmid": "34431999",
+      "title": "Genotype-phenotype correlations in SCN8A-related disorders reveal prognostic and therapeutic implications.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_34431999.txt"
+    },
+    {
+      "pmid": "34740144",
+      "title": "GABRA1 and GABRA6 gene mutations in idiopathic generalized epilepsy patients.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_34740144.txt"
+    },
+    {
+      "pmid": "35490361",
+      "title": "International consensus on diagnosis and management of Dravet syndrome.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35490361.txt"
+    },
+    {
+      "pmid": "35429480",
+      "title": "Safety and efficacy of ganaxolone in patients with CDKL5 deficiency disorder: results from the double-blind phase of a randomised, placebo-controlled, phase 3 trial.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35429480.txt"
+    },
+    {
+      "pmid": "40367637",
+      "title": "Mechanistic strategies for secondary prevention of developmental and epileptic encephalopathy in children with tuberous sclerosis complex.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_40367637.txt"
+    },
+    {
+      "pmid": "33200442",
+      "title": "Consensus guidelines for the diagnosis and management of pyridoxine-dependent epilepsy due to \u03b1-aminoadipic semialdehyde dehydrogenase deficiency.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_33200442.txt"
+    },
+    {
+      "pmid": "36938895",
+      "title": "Normal variants and artifacts: Importance in EEG interpretation.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_36938895.txt"
+    },
+    {
+      "pmid": "39501195",
+      "title": "Pyridoxine-dependent epilepsy caused by an ALDH7A1 mutation in an infant girl: the first case report in Syria.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39501195.txt"
+    },
+    {
+      "pmid": "39033321",
+      "title": "Preclinical studies of gene replacement therapy for CDKL5 deficiency disorder.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39033321.txt"
+    },
+    {
+      "pmid": "38269327",
+      "title": null,
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38269327.txt"
+    },
+    {
+      "pmid": "36775847",
+      "title": "PRRT2-positive self-limited infantile epilepsy: Initial seizure characteristics and response to sodium channel blockers.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_36775847.txt"
+    },
+    {
+      "pmid": "31112829",
+      "title": "Infantile epilepsy with multifocal myoclonus caused by TBC1D24 mutations.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_31112829.txt"
+    },
+    {
+      "pmid": "41026139",
+      "title": "Toward a working definition of ketogenic diet resistance in GLUT1 deficiency syndrome.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_41026139.txt"
+    },
+    {
+      "pmid": "35850019",
+      "title": "Genetic variations in GABA metabolism and epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35850019.txt"
+    },
+    {
+      "pmid": "39391213",
+      "title": "A roadmap to cure CHD2-related disorders.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39391213.txt"
+    },
+    {
+      "pmid": "35393962",
+      "title": "Genetic Epilepsy Syndromes.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35393962.txt"
+    },
+    {
+      "pmid": "32738225",
+      "title": "De Novo and Bi-allelic Pathogenic Variants in NARS1 Cause Neurodevelopmental Delay Due to Toxic Gain-of-Function and Partial Loss-of-Function Effects.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_32738225.txt"
+    },
+    {
+      "pmid": "35037686",
+      "title": "Gene variant effects across sodium channelopathies predict function and guide precision therapy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35037686.txt"
+    },
+    {
+      "pmid": "35520951",
+      "title": "Successful use of perampanel in GABRA1-related myoclonic epilepsy with photosensitivity.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35520951.txt"
+    },
+    {
+      "pmid": "36948217",
+      "title": "KCNQ2-Related Epilepsy: Genotype-Phenotype Relationship with Tailored Antiseizure Medication (ASM)-A Systematic Review.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_36948217.txt"
+    },
+    {
+      "pmid": "35084981",
+      "title": "Amplification of human interneuron progenitors promotes brain tumors and neurological defects.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35084981.txt"
+    },
+    {
+      "pmid": "11579435",
+      "title": "Ion channels and epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_11579435.txt"
+    },
+    {
+      "pmid": "38781976",
+      "title": "Haploinsufficiency underlies the neurodevelopmental consequences of SLC6A1 variants.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38781976.txt"
+    },
+    {
+      "pmid": "40174488",
+      "title": "Tuberous Sclerosis Complex: An updated in the treatment of epilepsy for early careers.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_40174488.txt"
+    },
+    {
+      "pmid": "37593212",
+      "title": "Nutritional Intervention Through Ketogenic Diet in GLUT1 Deficiency Syndrome.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37593212.txt"
+    },
+    {
+      "pmid": "29478616",
+      "title": "Tuberous sclerosis complex.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_29478616.txt"
+    },
+    {
+      "pmid": "25194482",
+      "title": "Potassium channel genes and benign familial neonatal epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_25194482.txt"
+    },
+    {
+      "pmid": "35653814",
+      "title": "Genetic therapeutic advancements for Dravet Syndrome.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35653814.txt"
+    },
+    {
+      "pmid": "32515017",
+      "title": "SCN3A-Related Neurodevelopmental Disorder: A Spectrum of Epilepsy and Brain Malformation.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_32515017.txt"
+    },
+    {
+      "pmid": "35997111",
+      "title": "CDKL5 deficiency disorder: molecular insights and mechanisms of pathogenicity to fast-track therapeutic development.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35997111.txt"
+    },
+    {
+      "pmid": "39032529",
+      "title": "Unraveling the genetic basis of epilepsy: Recent advances and implications for diagnosis and treatment.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39032529.txt"
+    },
+    {
+      "pmid": "23312951",
+      "title": "Basic mechanisms of catastrophic epilepsy -- overview from animal models.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_23312951.txt"
+    },
+    {
+      "pmid": "32112430",
+      "title": "Functional analysis of epilepsy-associated variants in STXBP1/Munc18-1 using humanized Caenorhabditis elegans.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_32112430.txt"
+    },
+    {
+      "pmid": "29338461",
+      "title": "mTOR dysregulation and tuberous sclerosis-related epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_29338461.txt"
+    },
+    {
+      "pmid": "35562149",
+      "title": "Focal cortical dysplasia: Updates.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35562149.txt"
+    },
+    {
+      "pmid": "37809401",
+      "title": "Pathogenic variants of human GABRA1 gene associated with epilepsy: A computational approach.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37809401.txt"
+    },
+    {
+      "pmid": "39601014",
+      "title": "Adult Phenotype of ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39601014.txt"
+    },
+    {
+      "pmid": "28460589",
+      "title": "Expanding the phenotypic spectrum of GABRG2 variants: a recurrent GABRG2 missense variant associated with a severe phenotype.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_28460589.txt"
+    },
+    {
+      "pmid": "34530725",
+      "title": "Current neurologic treatment and emerging therapies in CDKL5 deficiency disorder.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_34530725.txt"
+    },
+    {
+      "pmid": "29655203",
+      "title": "Diagnostic outcomes for genetic testing of 70 genes in 8565 patients with epilepsy and neurodevelopmental disorders.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_29655203.txt"
+    },
+    {
+      "pmid": "34893972",
+      "title": "Genetic testing for the epilepsies: A systematic review.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_34893972.txt"
+    },
+    {
+      "pmid": "35722745",
+      "title": "Clinical and genetic characterization of CACNA1A-related disease.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35722745.txt"
+    },
+    {
+      "pmid": "35696452",
+      "title": "The gain of function SCN1A disorder spectrum: novel epilepsy phenotypes and therapeutic implications.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35696452.txt"
+    },
+    {
+      "pmid": "32102148",
+      "title": "[Clinical phenotypes of epilepsy associated with GABRA1 gene variants].",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_32102148.txt"
+    },
+    {
+      "pmid": "39142021",
+      "title": "Drug-Resistant Epilepsy in Tuberous Sclerosis Complex Is Associated With TSC2 Genotype: More Findings From the Preventing Epilepsy Using Vigatrin (PREVeNT) Trial.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39142021.txt"
+    },
+    {
+      "pmid": "36007998",
+      "title": "Precision medicine in epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_36007998.txt"
+    },
+    {
+      "pmid": "32317161",
+      "title": "Biomarkers for posttraumatic epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_32317161.txt"
+    },
+    {
+      "pmid": "38521028",
+      "title": "PCDH19-clustering epilepsy, pathophysiology and clinical significance.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38521028.txt"
+    },
+    {
+      "pmid": "38037515",
+      "title": "Genetic analysis and literature review of a Poirier-Bienvenu neurodevelopmental syndrome family line caused by a de novo frameshift variant in CSNK2B.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38037515.txt"
+    },
+    {
+      "pmid": "39796146",
+      "title": "Novel ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39796146.txt"
+    },
+    {
+      "pmid": "31887642",
+      "title": "A multi-disciplinary clinic for SCN8A-related epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_31887642.txt"
+    },
+    {
+      "pmid": "33399642",
+      "title": "Pathogenic variant in the PCDH19 gene in a patient with epilepsy and cognitive disability.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_33399642.txt"
+    },
+    {
+      "pmid": "33395108",
+      "title": "Dravet syndrome.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_33395108.txt"
+    },
+    {
+      "pmid": "24337656",
+      "title": "Case-control association study of polymorphisms in the voltage-gated sodium channel genes SCN1A, SCN2A, SCN3A, SCN1B, and SCN2B and epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_24337656.txt"
+    },
+    {
+      "pmid": "30885501",
+      "title": "Failure of ketogenic diet therapy in GLUT1 deficiency syndrome.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_30885501.txt"
+    },
+    {
+      "pmid": "38540325",
+      "title": "Genetic Advancements in Infantile Epileptic Spasms Syndrome and Opportunities for Precision Medicine.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38540325.txt"
+    },
+    {
+      "pmid": "33163569",
+      "title": "Hemiplegic Migraine in Glut1 Deficiency Syndrome and Paroxysmal Dyskinesia at Ketogenic Diet Induction: Case Report and Literature Review.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_33163569.txt"
+    },
+    {
+      "pmid": "39460693",
+      "title": "Somatic variant analysis of resected brain tissue in epilepsy surgery patients.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39460693.txt"
+    },
+    {
+      "pmid": "31440727",
+      "title": "A novel homozygous KCNQ3 loss-of-function variant causes non-syndromic intellectual disability and neonatal-onset pharmacodependent epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_31440727.txt"
+    },
+    {
+      "pmid": "36582431",
+      "title": "Myoclonic-Atonic Epilepsy Caused by a Novel de Novo Heterozygous Missense Variant in the ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_36582431.txt"
+    },
+    {
+      "pmid": "35716052",
+      "title": "Precision medicine for genetic epilepsy on the horizon: Recent advances, present challenges, and suggestions for continued progress.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35716052.txt"
+    },
+    {
+      "pmid": "35396579",
+      "title": "Rare coding variants in ten genes confer substantial risk for schizophrenia.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35396579.txt"
+    },
+    {
+      "pmid": "39029408",
+      "title": "Familial mesial temporal lobe epilepsy phenotype is associated with novel LGI1 variants: A report of two families.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39029408.txt"
+    },
+    {
+      "pmid": "37152430",
+      "title": "The ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37152430.txt"
+    },
+    {
+      "pmid": "38771640",
+      "title": "Molecular and cellular context influences SCN8A variant function.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38771640.txt"
+    },
+    {
+      "pmid": "39389658",
+      "title": "Tuberous sclerosis complex: Diagnostic features, surveillance, and therapeutic strategies.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39389658.txt"
+    },
+    {
+      "pmid": "40624578",
+      "title": "Conserved missense variant pathogenicity and correlated phenotypes across paralogous genes.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_40624578.txt"
+    },
+    {
+      "pmid": "34145886",
+      "title": "Genome sequencing of 320 Chinese children with epilepsy: a clinical and molecular study.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_34145886.txt"
+    },
+    {
+      "pmid": "28548558",
+      "title": "The role of genetic testing in epilepsy diagnosis and management.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_28548558.txt"
+    },
+    {
+      "pmid": "35299616",
+      "title": "Sleep Disorders in Rett Syndrome and Rett-Related Disorders: A Narrative Review.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35299616.txt"
+    },
+    {
+      "pmid": "38936157",
+      "title": "Generation of hiPSC lines from four pyridoxine-dependent epilepsy (PDE) patients carrying the variant c.1279G>C in ALDH7A1 in homozygosis.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38936157.txt"
+    },
+    {
+      "pmid": "23664828",
+      "title": "Microdeletion syndromes.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_23664828.txt"
+    },
+    {
+      "pmid": "31440721",
+      "title": "Possible precision medicine implications from genetic testing using combined detection of sequence and intragenic copy number variants in a large cohort with childhood epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_31440721.txt"
+    },
+    {
+      "pmid": "34029007",
+      "title": "Inhibition of microRNA-129-2-3p protects against refractory temporal lobe epilepsy by regulating GABRA1.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_34029007.txt"
+    },
+    {
+      "pmid": "36322151",
+      "title": "Delineation of a KDM2B-related neurodevelopmental disorder and its associated DNA methylation signature.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_36322151.txt"
+    },
+    {
+      "pmid": "38752894",
+      "title": "DEPDC5 plays a vital role in epilepsy: Genotypic and phenotypic features in cohort and literature.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38752894.txt"
+    },
+    {
+      "pmid": "37442907",
+      "title": "Identifying the mechanism of action of the Kv7 channel opener, retigabine in the treatment of epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37442907.txt"
+    },
+    {
+      "pmid": "35830287",
+      "title": "Current practice in diagnostic genetic testing of the epilepsies.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35830287.txt"
+    },
+    {
+      "pmid": "35393959",
+      "title": "Evaluation of First Seizure and Newly Diagnosed Epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35393959.txt"
+    },
+    {
+      "pmid": "36281494",
+      "title": "Genetic testing and counseling for the unexplained epilepsies: An evidence-based practice guideline of the National Society of Genetic Counselors.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_36281494.txt"
+    },
+    {
+      "pmid": "29962935",
+      "title": "Chromatin Remodeling Proteins in Epilepsy: Lessons From ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_29962935.txt"
+    },
+    {
+      "pmid": "29478594",
+      "title": "Genetics of epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_29478594.txt"
+    },
+    {
+      "pmid": "35217385",
+      "title": "De novo GRIN2A variants associated with epilepsy and autism and literature review.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35217385.txt"
+    },
+    {
+      "pmid": "30544257",
+      "title": "GRIN2A-related disorders: genotype and functional consequence predict phenotype.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_30544257.txt"
+    },
+    {
+      "pmid": "32738165",
+      "title": "The neurodevelopmental spectrum of synaptic vesicle cycling disorders.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_32738165.txt"
+    },
+    {
+      "pmid": "31523287",
+      "title": "Ketogenic Diet in Patients with GLUT1 Deficiency Syndrome.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_31523287.txt"
+    },
+    {
+      "pmid": "31904126",
+      "title": "Phenotypic spectrum and genetics of SCN2A-related disorders, treatment options, and outcomes in epilepsy and beyond.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_31904126.txt"
+    },
+    {
+      "pmid": "35918039",
+      "title": "De novo SCN3A missense variant associated with self-limiting generalized epilepsy with fever sensitivity.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35918039.txt"
+    },
+    {
+      "pmid": "36555701",
+      "title": "Global Metabolomics Discovers Two Novel Biomarkers in Pyridoxine-Dependent Epilepsy Caused by ALDH7A1 Deficiency.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_36555701.txt"
+    },
+    {
+      "pmid": "36806388",
+      "title": "Epileptogenesis in tuberous sclerosis complex-related developmental and epileptic encephalopathy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_36806388.txt"
+    },
+    {
+      "pmid": "37647852",
+      "title": "SLC6A1 variant pathogenicity, molecular function and phenotype: a genetic and clinical analysis.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37647852.txt"
+    },
+    {
+      "pmid": "38137001",
+      "title": null,
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38137001.txt"
+    },
+    {
+      "pmid": "35429726",
+      "title": "DEPDC5-related epilepsy: A comprehensive review.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35429726.txt"
+    },
+    {
+      "pmid": "39003674",
+      "title": "Characterization of 13 Novel Genetic Variants in Genes Associated with Epilepsy: Implications for Targeted Therapeutic Strategies.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39003674.txt"
+    },
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_34102571.txt"
+    },
+    {
+      "pmid": "39334956",
+      "title": "Therapeutic Approaches to Tuberous Sclerosis Complex: From Available Therapies to Promising Drug Targets.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39334956.txt"
+    },
+    {
+      "pmid": "35074891",
+      "title": "Development and Validation of a Prediction Model for Early Diagnosis of ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35074891.txt"
+    },
+    {
+      "pmid": "27781029",
+      "title": "Novel ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_27781029.txt"
+    },
+    {
+      "pmid": "28379373",
+      "title": "Genetic and phenotypic heterogeneity suggest therapeutic implications in SCN2A-related disorders.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_28379373.txt"
+    },
+    {
+      "pmid": "37953841",
+      "title": null,
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37953841.txt"
+    },
+    {
+      "pmid": "41136907",
+      "title": "Longitudinal characterization of clinical, developmental, and behavioral phenotypes in 101 children and adults with FOXG1 syndrome.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_41136907.txt"
+    },
+    {
+      "pmid": "32090326",
+      "title": "Biological concepts in human sodium channel epilepsies and their relevance in clinical practice.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_32090326.txt"
+    },
+    {
+      "pmid": "38946282",
+      "title": "Broadening the scope of multigene panel analysis for adult epilepsy patients.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38946282.txt"
+    },
+    {
+      "pmid": "39251501",
+      "title": "Rett Syndrome: The Emerging Landscape of Treatment Strategies.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39251501.txt"
+    },
+    {
+      "pmid": "34271245",
+      "title": "MECP2-related conditions in males: A systematic literature review and 8 additional cases.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_34271245.txt"
+    },
+    {
+      "pmid": "39556335",
+      "title": "Patients carrying pathogenic SCN8A variants with loss- and gain-of-function effects can be classified into five subgroups exhibiting varying developmental and epileptic components of encephalopathy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39556335.txt"
+    },
+    {
+      "pmid": "37700749",
+      "title": "Insights into cognitive and behavioral comorbidities of ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37700749.txt"
+    },
+    {
+      "pmid": "38802994",
+      "title": "Global modified Delphi consensus on diagnosis, phenotypes, and treatment of SCN8A-related epilepsy and/or neurodevelopmental disorders.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38802994.txt"
+    },
+    {
+      "pmid": "31800012",
+      "title": "Adult loss of Cacna1a in mice recapitulates childhood absence epilepsy by distinct thalamic bursting mechanisms.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_31800012.txt"
+    },
+    {
+      "pmid": "36516565",
+      "title": "GRIN2A-related epilepsy and speech disorders: A comprehensive overview with a focus on the role of precision therapeutics.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_36516565.txt"
+    },
+    {
+      "pmid": "40019509",
+      "title": "Genetic variants and phenotypic data curated for the CAGI6 intellectual disability panel challenge.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_40019509.txt"
+    },
+    {
+      "pmid": "18242854",
+      "title": "Mutation of sodium channel SCN3A in a patient with cryptogenic pediatric partial epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_18242854.txt"
+    },
+    {
+      "pmid": "33880529",
+      "title": "ATP1A2- and ATP1A3-associated early profound epileptic encephalopathy and polymicrogyria.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_33880529.txt"
+    },
+    {
+      "pmid": "38046674",
+      "title": "A novel homozygous splice donor variant in the ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38046674.txt"
+    },
+    {
+      "pmid": "33279965",
+      "title": "Developmental and epileptic encephalopathies: what we do and do not know.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_33279965.txt"
+    },
+    {
+      "pmid": "25546153",
+      "title": "Magnetic resonance imaging pattern learning in temporal lobe epilepsy: classification and prognostics.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_25546153.txt"
+    },
+    {
+      "pmid": "35633486",
+      "title": "CDKL5 Deficiency Disorder-Related Epilepsy: A Review of Current and Emerging Treatment.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35633486.txt"
+    },
+    {
+      "pmid": "39416668",
+      "title": "Intrafamilial neurological phenotypic variability due to either biallelic or monoallelic pathogenic variants in ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39416668.txt"
+    },
+    {
+      "pmid": "32047208",
+      "title": "A novel de novo variant of GABRA1 causes increased sensitivity for GABA in vitro.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_32047208.txt"
+    },
+    {
+      "pmid": "40455867",
+      "title": "Biallelic LGI1 and ADAM23 variants cause hippocampal epileptic encephalopathy via the LGI1-ADAM22/23 pathway.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_40455867.txt"
+    },
+    {
+      "pmid": "34082468",
+      "title": "Integrated in silico and experimental assessment of disease relevance of PCDH19\u00a0missense variants.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_34082468.txt"
+    },
+    {
+      "pmid": "35809380",
+      "title": "MECP2 Dysautonomia Phenotypes in Boys.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35809380.txt"
+    },
+    {
+      "pmid": "31302675",
+      "title": "Incidence and phenotypes of childhood-onset genetic epilepsies: a prospective population-based national cohort.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_31302675.txt"
+    },
+    {
+      "pmid": "31707987",
+      "title": "Pathophysiology of and therapeutic options for a GABRA1 variant linked to epileptic encephalopathy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_31707987.txt"
+    },
+    {
+      "pmid": "35136380",
+      "title": "Genetic Analysis of Sodium Channel Genes in Pediatric Epilepsy Patients of Pakistan.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_35136380.txt"
+    },
+    {
+      "pmid": "36368227",
+      "title": "Dravet syndrome: Advances in etiology, clinical presentation, and treatment.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_36368227.txt"
+    },
+    {
+      "pmid": "37578743",
+      "title": "Epilepsy-associated SCN2A (NaV1.2) variants exhibit diverse and complex functional properties.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37578743.txt"
+    },
+    {
+      "pmid": "36225112",
+      "title": "Potassium channels and epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_36225112.txt"
+    },
+    {
+      "pmid": "38539105",
+      "title": "Genetic determinants of global developmental delay and intellectual disability in Ukrainian children.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_38539105.txt"
+    },
+    {
+      "pmid": "26564073",
+      "title": "Tuberous sclerosis complex.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_26564073.txt"
+    },
+    {
+      "pmid": "39085604",
+      "title": "Propofol rescues voltage-dependent gating of HCN1 channel epilepsy mutants.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39085604.txt"
+    },
+    {
+      "pmid": "34797406",
+      "title": "SLC gene mutations and pediatric neurological disorders: diverse clinical phenotypes in a Saudi Arabian population.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_34797406.txt"
+    },
+    {
+      "pmid": "10941184",
+      "title": "KCNQ2/KCNQ3 K+ channels and the molecular pathogenesis of epilepsy: implications for therapy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_10941184.txt"
+    },
+    {
+      "pmid": "32913944",
+      "title": "Glut1 Deficiency Syndrome (Glut1DS): State of the art in 2020 and recommendations of the international Glut1DS study group.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_32913944.txt"
+    },
+    {
+      "pmid": "29023665",
+      "title": "Clinician's guide to genes associated with Rett-like phenotypes-Investigation of a Danish cohort and review of the literature.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_29023665.txt"
+    },
+    {
+      "pmid": "37149062",
+      "title": "mTOR pathway: Insights into an established pathway for brain mosaicism in epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37149062.txt"
+    },
+    {
+      "pmid": "18472482",
+      "title": "Genetics and epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_18472482.txt"
+    },
+    {
+      "pmid": "31904117",
+      "title": "SCN1A-related phenotypes: Epilepsy and beyond.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_31904117.txt"
+    },
+    {
+      "pmid": "29778428",
+      "title": "Status dystonicus due to missense variant in ARX: Diagnosis and management.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_29778428.txt"
+    },
+    {
+      "pmid": "27049136",
+      "title": "mTOR pathway inhibition as a new therapeutic strategy in epilepsy and epileptogenesis.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_27049136.txt"
+    },
+    {
+      "pmid": "39853501",
+      "title": "Targeting Kv7 Potassium Channels for Epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39853501.txt"
+    },
+    {
+      "pmid": "37956604",
+      "title": "Epilepsy surgery as a treatment option for select patients with PCDH19-related epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_37956604.txt"
+    },
+    {
+      "pmid": "33784504",
+      "title": "In Silico Predictions of KCNQ Variant Pathogenicity in Epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_33784504.txt"
+    },
+    {
+      "pmid": "39146709",
+      "title": "Phenotypic and genotypic characteristics of children with PCDH19 clustering epilepsy in China.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_39146709.txt"
+    },
+    {
+      "pmid": "34882995",
+      "title": "Guidance on Dravet syndrome from infant to adult care: Road map for treatment planning in Europe.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_34882995.txt"
+    },
+    {
+      "pmid": "32848094",
+      "title": "Antisense oligonucleotides increase ",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_32848094.txt"
+    },
+    {
+      "pmid": "34102392",
+      "title": "Identification of a novel variant p.Ser606Gly in SCN3A associated with childhood absence epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_34102392.txt"
+    },
+    {
+      "pmid": "31926847",
+      "title": "Deciphering the concepts behind \"Epileptic encephalopathy\" and \"Developmental and epileptic encephalopathy\".",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_31926847.txt"
+    },
+    {
+      "pmid": "32692472",
+      "title": "A novel CACNA1A variant in a child with early stroke and intractable epilepsy.",
+      "file": "/Users/srinidhisg/epilepsy_diagnostic_assistant/data/knowledge_base/pubmed_abstracts/pmid_32692472.txt"
+    }
+  ]
+}

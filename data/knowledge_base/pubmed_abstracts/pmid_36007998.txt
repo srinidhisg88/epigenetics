@@ -1,0 +1,9 @@
+PMID: 36007998
+Title: Precision medicine in epilepsy.
+Authors: Ryan James McGinn, Erica Leah Von Stein, Jacqueline Elizabeth Summers Stromberg, Yi Li
+Journal: Progress in molecular biology and translational science
+Year: 2022
+MeSH Terms: Epilepsy, Epileptic Syndromes, Humans, Precision Medicine
+
+Abstract:
+Epilepsy is a common neurological disorder affecting over 50 million people worldwide. Although more than 20 new anti-seizure medications have been developed in the past three decades, about one-third of patients still experience recurrent seizures. The heterogeneity of epilepsy types and the highly variable inter-individual response to the therapies makes disease management challenging. A precision medicine approach of treatment for epilepsy patients that considers individual patient characteristics has long been advocated. With advances in DNA sequencing technology, it has been estimated than >30% of all epilepsy syndromes have genetic components. Here we summarize recent approaches in genetic testing and current personalized treatments that are already applicable in genetic epilepsy syndromes. We also discuss current precision therapy utilized in personalized pharmacogenomics, as well as tailored treatment with neuromodulation for epilepsy patients. In the near future, we envision precision medicine in epilepsy will be applicable on a large scale involving not only targeted therapies, but also diagnosis, prognosis, and comorbidity management.

@@ -1,0 +1,9 @@
+PMID: 38046674
+Title: A novel homozygous splice donor variant in the 
+Authors: Osama Y Muthaffar, Angham Abdulrhman Abdulkareem, Abrar Ashi, Muhammad Imran Naseer
+Journal: Frontiers in pediatrics
+Year: 2023
+MeSH Terms: 
+
+Abstract:
+BACKGROUND: The mitochondria are a cellular power house. Tissues are involved in frequent energy consumption, and any failure or irregularity in the continuous energy production could lead to abnormalities. The leucine-rich pentatricopeptide repeat ( MATERIALS AND METHODS: This study enrolled a family with Leigh syndrome-like phenotype. The molecular diagnosis was conducted by first performing whole exome sequencing (WES), followed by Sanger sequencing. RESULTS: A novel splice-site variant (c.469 + 2T > A) at the exon-intron boundary in the  CONCLUSION: To the best of our knowledge, there have been no previous reports of this variant in the 

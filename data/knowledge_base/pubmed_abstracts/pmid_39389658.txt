@@ -1,0 +1,9 @@
+PMID: 39389658
+Title: Tuberous sclerosis complex: Diagnostic features, surveillance, and therapeutic strategies.
+Authors: Kristen H Arredondo, Kristina Jülich, E Steve Roach
+Journal: Seminars in pediatric neurology
+Year: 2024
+MeSH Terms: Tuberous Sclerosis, Humans, Tuberous Sclerosis Complex 1 Protein
+
+Abstract:
+Tuberous sclerosis complex (TSC) is a rare neurocutaneous disorder of mTOR pathway dysregulation resulting from pathogenic variants in the TSC1 or TSC2 genes. Expression of this disorder may involve abnormal tissue growth and dysfunction within the brain, kidneys, heart, lungs, eyes, skin, bones, and teeth. Neurological manifestations can include subependymal giant cell astrocytomas (SEGAs), high rates of infantile spasms, drug-resistant epilepsy, developmental delay, cognitive impairment, autism spectrum disorder, and other neurobehavioral manifestations. Here we review the potential clinical manifestations of TSC by system, recommended diagnostic and surveillance testing, genetic testing, currently available therapeutic options, and considerations for education and social support resources given the unique challenges of this multi-system disorder.

@@ -1,0 +1,9 @@
+PMID: 35907814
+Title: What is the impact of a novel DEPDC5 variant on an infant with focal epilepsy: a case report.
+Authors: Chunyu Gu, Xiaowei Lu, Jinhui Ma, Linjie Pu, Xiufang Zhi
+Journal: BMC pediatrics
+Year: 2022
+MeSH Terms: Epilepsies, Partial, GTPase-Activating Proteins, Humans, Infant, Male, Mutation, Repressor Proteins, Exome Sequencing
+
+Abstract:
+BACKGROUND: Variants in the DEPDC5 have been proved to be main cause of not only various dominant familial focal epilepsies, but also sporadic focal epilepsies. In the present study, a novel variant in DEPDC5 was detected in the patient with focal epilepsy and his healthy father. We aimed to analyze the pathogenic DEPDC5 variant in the small family of three. CASE PRESENTATION: A 5-month-old male infant presented with focal epilepsy. Whole exome sequencing identified a novel heterozygous variant c.1696delC (p.Gln566fs) in DEPDC5, confirmed by Sanger sequencing. The variant was inherited from healthy father. CONCLUSIONS: Our study expands the spectrum of DEPDC5 variants. Moreover, We discuss the relation between the low penetrance of DEPDC5 and the relatively high morbidity rate of DEPDC5-related sporadic focal epilepsy. Besides, due to interfamilial phenotypic and genetic heterogeneity, we speculate the prevalence of familial focal epilepsy with variable foci might be underestimated in such small families. We emphasize the importance of gene detection in patients with sporadic epilepsy of unknown etiology, as well as their family members. It can identify causative mutations, thus providing help to clinicians in making a definitive diagnosis.

@@ -1,0 +1,9 @@
+PMID: 27264138
+Title: Treatment of Dravet Syndrome.
+Authors: Elaine C Wirrell
+Journal: The Canadian journal of neurological sciences. Le journal canadien des sciences neurologiques
+Year: 2016
+MeSH Terms: Anticonvulsants, Epilepsies, Myoclonic, Humans
+
+Abstract:
+Dravet syndrome is among the most challenging electroclinical syndromes. There is a high likelihood of recurrent status epilepticus; seizures are medically refractory; and patients have multiple co-morbidities, including intellectual disability, behaviour and sleep problems, and crouch gait. Additionally, they are at significant risk of sudden unexplained death. This review will focus predominantly on the prophylactic medical management of seizures, addressing both first-line therapies (valproate and clobazam) as well as second-line (stiripentol, topiramate, ketogenic diet) or later options (levetiracetam, bromides, vagus nerve stimulation). Sodium channel agents-including carbamazepine, oxcarbazepine, phenytoin and lamotrigine-should be avoided, as they typically exacerbate seizures. Several agents in development may show promise, specifically fenfluramine and cannabidiol, but they need further evaluation in randomized, controlled trials. In addition to prophylactic treatment, all patients need home-rescue medication and a status epilepticus protocol that can be carried out in their local hospital. Families must be counselled on non-pharmacologic strategies to reduce seizure risk, including avoidance of triggers that commonly induce seizures (including hyperthermia, flashing lights and patterns). In addition to addressing seizures, holistic care for a patient with Dravet syndrome must involve a multidisciplinary team that includes specialists in physical, occupational and speech therapy, neuropsychology, social work and physical medicine.

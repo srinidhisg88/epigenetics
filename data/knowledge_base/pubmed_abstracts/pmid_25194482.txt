@@ -1,0 +1,9 @@
+PMID: 25194482
+Title: Potassium channel genes and benign familial neonatal epilepsy.
+Authors: Snezana Maljevic, Holger Lerche
+Journal: Progress in brain research
+Year: 2014
+MeSH Terms: Epilepsy, Benign Neonatal, Humans, Mutation, Potassium Channels, Voltage-Gated
+
+Abstract:
+Several potassium channel genes have been implicated in different neurological disorders including genetic and acquired epilepsy. Among them, KCNQ2 and KCNQ3, coding for KV7.2 and KV7.3 voltage-gated potassium channels, present an example how genetic dissection of an epileptic disorder can lead not only to a better understanding of disease mechanisms but also broaden our knowledge about the physiological function of the affected proteins and enable novel approaches in the antiepileptic therapy design. In this chapter, we focus on the neuronal KV7 channels and associated genetic disorders-channelopathies, in particular benign familial neonatal seizures, epileptic encephalopathy, and peripheral nerve hyperexcitability (neuromyotonia, myokymia) caused by KCNQ2 or KCNQ3 mutations. Furthermore, strategies using KV7 channels as targets or tools for the treatment of epileptic diseases caused by neuronal hyperexcitability are being addressed.

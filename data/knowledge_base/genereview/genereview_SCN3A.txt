@@ -1,0 +1,87 @@
+Gene: SCN3A
+PMID: 34081427
+Source: GeneReviews (NCBI Bookshelf)
+URL: https://pubmed.ncbi.nlm.nih.gov/34081427/
+
+=== CLINICAL CONTENT ===
+
+1. SCN3A-Related Neurodevelopmental Disorder.
+
+Helbig KL(1), Goldberg EM(2).
+
+In: Adam MP, Bick S, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. 
+GeneReviews(®) [Internet]. Seattle (WA): University of Washington, Seattle; 
+1993–2026.
+2021 Jun 3 [updated 2025 May 1].
+
+Author information:
+(1)The Epilepsy Neurogenetics Initiative, Division of Neurology, Department of 
+Pediatrics, The Children's Hospital of Philadelphia, Philadelphia, Pennsylvania
+(2)The Epilepsy Neurogenetics Initiative, Division of Neurology, Department of 
+Pediatrics, The Children's Hospital of Philadelphia;, Departments of Neurology 
+and Neuroscience, The University of Pennsylvania Perelman School of Medicine, 
+Philadelphia, Pennsylvania
+
+CLINICAL CHARACTERISTICS: SCN3A-related neurodevelopmental disorder (SCN3A-NDD) 
+encompasses a spectrum of clinical severity associated with epilepsy and/or 
+brain malformation. Affected individuals may have (a) developmental and 
+epileptic encephalopathy (DEE) (i.e., intractable seizures with developmental 
+delays associated with ongoing epileptiform EEG activity) with or without 
+malformations of cortical development; or (b) malformations of cortical 
+development with or without mild focal epilepsy. Some degree of early childhood 
+developmental delay is seen in all affected individuals; the severity varies 
+widely, ranging from isolated speech delay to severe developmental delay. 
+Infantile hypotonia is common but may be mild or absent in those without DEE. In 
+those with DEE, seizure onset is typically in the first six to 12 months of 
+life. A variety of seizure types have been described. Seizures remain 
+intractable to multiple anti-seizure medications in approximately 50% of 
+individuals with DEE without malformations of cortical development (MCD) and in 
+90% of individuals with DEE and MCD. Seizures may be absent or infrequent in 
+those without DEE. Brain MRI findings range from normal to showing thinning or 
+hypoplasia of the corpus callosum, to various malformations of cortical 
+development. Autonomic dysregulation, oromotor dysfunction leading to the need 
+for gastrostomy tube placement, progressive microcephaly, hyperkinetic movement 
+disorder, and cortical visual impairment can also be seen in those with DEE.
+DIAGNOSIS/TESTING: The diagnosis of SCN3A-NDD is established in a proband with 
+suggestive findings and a heterozygous pathogenic variant in SCN3A identified by 
+molecular genetic testing.
+MANAGEMENT: Treatment of manifestations: Empiric treatment of seizures with 
+standard anti-seizure medications (no specific anti-seizure medication has been 
+shown to be more efficacious than another); feeding therapy and consideration of 
+gastrostomy tube placement in those with dysphagia; standard treatment for 
+developmental delay / intellectual disability, spasticity, hyperkinetic 
+movements, autonomic dysfunction, and central visual impairment. Surveillance: 
+At each visit: measurement of growth parameters; evaluation for signs/symptoms 
+of a movement disorder or autonomic dysfunction; monitor for new seizures or 
+changes in seizures; assessment of developmental progress, educational needs, 
+behavioral issues, mobility and self-help skills; annual ophthalmology 
+evaluation to assess for visual impairment. Agents/circumstances to avoid: There 
+is no evidence that specific anti-seizure medications can worsen seizures 
+associated with SCN3A-NDD. There is no evidence that sleep deprivation or fever 
+exacerbate seizures associated with SCN3A-NDD. Evaluation of relatives at risk: 
+It is appropriate to clarify the genetic status of apparently asymptomatic 
+younger at-risk relatives of an affected individual in order to identify as 
+early as possible those who would benefit from early treatment. Pregnancy 
+management: Use of anti-seizure medication during pregnancy reduces the risk for 
+mortality during pregnancy, but exposure to anti-seizure medication may increase 
+the risk for adverse fetal outcome (depending on the drug used, the dose, and 
+the stage of pregnancy at which medication is taken). The risk of an adverse 
+outcome to the fetus from anti-seizure medication exposure is often less than 
+that associated with exposure to an untreated maternal seizure disorder. 
+Discussion of the risks and benefits of using a given anti-seizure medication 
+during pregnancy should ideally take place prior to conception. Transitioning to 
+a lower-risk medication prior to pregnancy may be possible.
+GENETIC COUNSELING: SCN3A-NDD is inherited in an autosomal dominant manner. The 
+majority of probands diagnosed with SCN3A-NDD have the disorder as the result of 
+a de novo pathogenic variant. If a parent of the proband is affected and/or is 
+known to have the SCN3A pathogenic variant identified in the proband, the risk 
+to the sibs of inheriting the pathogenic variant is 50%. Once the SCN3A 
+pathogenic variant has been identified in an affected family member, prenatal 
+testing for a pregnancy at increased risk and preimplantation genetic testing 
+are possible.
+
+Copyright © 1993-2026, University of Washington, Seattle. GeneReviews is a 
+registered trademark of the University of Washington, Seattle. All rights 
+reserved. Test.
+
+PMID: 34081427

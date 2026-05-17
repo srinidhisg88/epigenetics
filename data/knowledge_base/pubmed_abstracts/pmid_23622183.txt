@@ -1,0 +1,9 @@
+PMID: 23622183
+Title: Tuberous sclerosis.
+Authors: P Curatolo, B L Maria
+Journal: Handbook of clinical neurology
+Year: 2013
+MeSH Terms: Cognition Disorders, Epilepsy, Genetic Association Studies, Humans, Tuberous Sclerosis
+
+Abstract:
+Tuberous sclerosis complex (TSC) is a genetic multisystem disorder characterized by widespread hamartomas in several organs, including the brain, heart, skin, eyes, kidney, lung, and liver. The affected genes are TSC1 and TSC2, encoding hamartin and tuberin respectively. The hamartin-tuberin complex inhibits the mammalian-target-of-Rapamycin (mTOR) pathway, which controls cell growth and proliferation. Variations in the distribution, number, size, and location of lesions cause the clinical syndrome to vary even between relatives. About 85% of children and adolescents with TSC have CNS complications, including epilepsy, cognitive impairment, challenging behavioral problems, and autism-like symptoms. Epilepsy generally begins during the first year of life, with focal seizures and spasms. The discovery of the mTOR pathway upregulation in TSC-associated lesions presents new possibilities for treatment strategy. Increasing understanding of the molecular abnormalities caused by TSC may enable improved management of the disease.

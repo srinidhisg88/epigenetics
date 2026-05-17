@@ -1,0 +1,9 @@
+PMID: 27049136
+Title: mTOR pathway inhibition as a new therapeutic strategy in epilepsy and epileptogenesis.
+Authors: Rita Citraro, Antonio Leo, Andrew Constanti, Emilio Russo, Giovambattista De Sarro
+Journal: Pharmacological research
+Year: 2016
+MeSH Terms: Animals, Epilepsy, Humans, TOR Serine-Threonine Kinases
+
+Abstract:
+Several preclinical and some clinical studies have revealed that the mammalian target of rapamycin (mTOR) signaling pathway is involved in both genetic and acquired epilepsy syndromes. Excessive activation of mTOR signaling, as a consequence of loss-of-function of genes encoding for tuberous sclerosis complex (TSC) 1 and 2, is linked to the development of cortical malformations and epilepsy. This mTOR hyperactivation is associated with different epileptogenic conditions under the term of 'mTORopathies' such as tuberous sclerosis, focal cortical dysplasia, hemimegalencephaly and ganglioglioma. mTOR overactivation produces brain abnormalities that include dysplastic neurons, abnormal cortical organization and astrogliosis. mTOR inhibitors (e.g. rapamycin) have consistent protective effects in various genetic (e.g. TSC models and WAG/Rij rats) and acquired (e.g. kainate or pilocarpine post-status epilepticus) epilepsy animal models. Furthermore, clinical studies in patients with TSC and cortical dysplasia (CD) have confirmed the effectiveness of mTOR inhibitors also in epileptic patients. Therefore, mTOR is currently a very good candidate as a target for epilepsy and epileptogenesis. This review describes the relevance of the mTOR pathway to epileptogenesis and its potential as a therapeutic target in epilepsy treatment by presenting the most recent findings on mTOR inhibitors.

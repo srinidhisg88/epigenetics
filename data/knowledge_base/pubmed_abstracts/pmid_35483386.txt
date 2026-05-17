@@ -1,0 +1,9 @@
+PMID: 35483386
+Title: CDKL5 deficiency disorder: clinical features, diagnosis, and management.
+Authors: Helen Leonard, Jenny Downs, Tim A Benke, Lindsay Swanson, Heather Olson
+Journal: The Lancet. Neurology
+Year: 2022
+MeSH Terms: Epilepsy, Epileptic Syndromes, Humans, Infant, Protein Serine-Threonine Kinases, Spasms, Infantile
+
+Abstract:
+CDKL5 deficiency disorder (CDD) was first identified as a cause of human disease in 2004. Although initially considered a variant of Rett syndrome, CDD is now recognised as an independent disorder and classified as a developmental epileptic encephalopathy. It is characterised by early-onset (generally within the first 2 months of life) seizures that are usually refractory to polypharmacy. Development is severely impaired in patients with CDD, with only a quarter of girls and a smaller proportion of boys achieving independent walking; however, there is clinical variability, which is probably genetically determined. Gastrointestinal, sleep, and musculoskeletal problems are common in CDD, as in other developmental epileptic encephalopathies, but the prevalence of cerebral visual impairment appears higher in CDD. Clinicians diagnosing infants with CDD need to be familiar with the complexities of this disorder to provide appropriate counselling to the patients' families. Despite some benefit from ketogenic diets and vagal nerve stimulation, there has been little evidence that conventional antiseizure medications or their combinations are helpful in CDD, but further treatment trials are finally underway.

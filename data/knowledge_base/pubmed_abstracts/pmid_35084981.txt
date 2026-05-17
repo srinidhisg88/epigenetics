@@ -1,0 +1,9 @@
+PMID: 35084981
+Title: Amplification of human interneuron progenitors promotes brain tumors and neurological defects.
+Authors: Oliver L Eichmüller, Nina S Corsini, Ábel Vértesy, Ilaria Morassut, Theresa Scholl
+Journal: Science (New York, N.Y.)
+Year: 2022
+MeSH Terms: Brain, Brain Neoplasms, Carcinogenesis, Cell Lineage, Cell Proliferation, Disease Progression, ErbB Receptors, Gene Expression Profiling, Humans, Induced Pluripotent Stem Cells
+
+Abstract:
+Evolutionary development of the human brain is characterized by the expansion of various brain regions. Here, we show that developmental processes specific to humans are responsible for malformations of cortical development (MCDs), which result in developmental delay and epilepsy in children. We generated a human cerebral organoid model for tuberous sclerosis complex (TSC) and identified a specific neural stem cell type, caudal late interneuron progenitor (CLIP) cells. In TSC, CLIP cells over-proliferate, generating excessive interneurons, brain tumors, and cortical malformations. Epidermal growth factor receptor inhibition reduces tumor burden, identifying potential treatment options for TSC and related disorders. The identification of CLIP cells reveals the extended interneuron generation in the human brain as a vulnerability for disease. In addition, this work demonstrates that analyzing MCDs can reveal fundamental insights into human-specific aspects of brain development.

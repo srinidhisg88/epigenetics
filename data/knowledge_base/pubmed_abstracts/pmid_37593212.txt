@@ -1,0 +1,9 @@
+PMID: 37593212
+Title: Nutritional Intervention Through Ketogenic Diet in GLUT1 Deficiency Syndrome.
+Authors: Young-Sun Kim, Woojeong Kim, Ji-Hoon Na, Young-Mock Lee
+Journal: Clinical nutrition research
+Year: 2023
+MeSH Terms: 
+
+Abstract:
+Glucose transporter type 1 (GLUT1) deficiency syndrome (DS) is a metabolic brain disorder caused by a deficiency resulting from SLC2A1 gene mutation and is characterized by abnormal brain metabolism and associated metabolic encephalopathy. Reduced glucose supply to the brain leads to brain damage, resulting in delayed neurodevelopment in infancy and symptoms such as eye abnormalities, microcephaly, ataxia, and rigidity. Treatment options for GLUT1 DS include ketogenic diet (KD), pharmacotherapy, and rehabilitation therapy. Of these, KD is an essential and the most important treatment method as it promotes brain neurodevelopment by generating ketone bodies to produce energy. This case is a focused study on intensive KD nutritional intervention for an infant diagnosed with GLUT1 DS at Gangnam Severance Hospital from May 2022 to January 2023. During the initial hospitalization, nutritional intervention was performed to address poor intake via the use of concentrated formula and an attempt was made to introduce complementary feeding. After the second hospitalization and diagnosis of GLUT1 DS, positive effects on the infant's growth and development, nutritional status, and seizure control were achieved with minimal side effects by implementing KD nutritional intervention and adjusting the type and dosage of anticonvulsant medications. In conclusion, for patients with GLUT1 DS, it is important to implement a KD with an appropriate ratio of ketogenic to nonketogenic components to supply adequate energy. Furthermore, individualized and intensive nutritional management is necessary to improve growth, development, and nutritional status.

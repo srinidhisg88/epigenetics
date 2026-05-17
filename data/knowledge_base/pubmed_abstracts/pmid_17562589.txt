@@ -1,0 +1,9 @@
+PMID: 17562589
+Title: Rett syndrome.
+Authors: Bruria Ben Zeev Ghidoni
+Journal: Child and adolescent psychiatric clinics of North America
+Year: 2007
+MeSH Terms: Child, Epilepsy, Genotype, Humans, Intellectual Disability, Phenotype, Rett Syndrome, Sleep Wake Disorders
+
+Abstract:
+Rett syndrome (RS) is an X-linked neurodevelopmental disorder and the second most common cause of genetic mental retardation in females. Different mutations in MECP2 are found in up to 95% of typical cases of RS. This mainly neuronal expressed gene functions as a major transcription repressor. Extensive studies on girls who have RS and mouse models are aimed at finding main gene targets for MeCP2 protein and defining neuropathologic changes caused by its defects. Studies comparing autistic features in RS with idiopathic autism and mentally retarded patients are presented. Decreased dendritic arborization is common to RS and autism, leading to further research on similarities in pathogenesis, including MeCP2 protein levels in autistic brains and MeCP2 effects on genes connected to autism, like DLX5 and genes on 15q11-13 region. This area also is involved in Angelman syndrome, which has many similarities to RS. Despite these connections, MECP2 mutations in nonspecific autistic and mentally retarded populations are rare.

@@ -1,0 +1,9 @@
+PMID: 39796146
+Title: Novel 
+Authors: Mariagrazia Talarico, Radha Procopio, Monica Gagliardi, Maria Chiara Sarubbi, Francesco Fortunato
+Journal: International journal of molecular sciences
+Year: 2024
+MeSH Terms: Humans, Epilepsy, Genetic Predisposition to Disease, High-Throughput Nucleotide Sequencing, KCNQ2 Potassium Channel, Mutation, Missense, Pedigree, Phenotype
+
+Abstract:
+Pathogenic 

@@ -1,0 +1,9 @@
+PMID: 38951973
+Title: Unusual Voltage-Gated Sodium and Potassium Channelopathies Related to Epilepsy.
+Authors: Hui Jin Shin, Ara Ko, Se Hee Kim, Joon Soo Lee, Hoon-Chul Kang
+Journal: Journal of clinical neurology (Seoul, Korea)
+Year: 2024
+MeSH Terms: 
+
+Abstract:
+BACKGROUND AND PURPOSE: There is extensive literature on monogenic epilepsies caused by mutations in familiar channelopathy genes such as  METHODS: This observational, retrospective study analyzed pediatric patients with epilepsy who carried pathogenic variants of unusual voltage-gated sodium and potassium channelopathy genes responsible for seizure-associated phenotypes. Targeted next-generation sequencing (NGS) panel tests were performed between November 2016 and June 2022 at Severance Children's Hospital, Seoul, South Korea. Clinical characteristics and the treatment responses to different types of antiseizure medications were further analyzed according to different types of gene mutation. RESULTS: This study included 15 patients with the following unusual voltage-gated sodium and potassium channelopathy genes:  CONCLUSIONS: Our findings broaden the genotypic and phenotypic spectra of less-common voltage-gated sodium and potassium channelopathies associated with epilepsy.

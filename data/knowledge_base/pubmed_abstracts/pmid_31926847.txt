@@ -1,0 +1,9 @@
+PMID: 31926847
+Title: Deciphering the concepts behind "Epileptic encephalopathy" and "Developmental and epileptic encephalopathy".
+Authors: Ingrid E Scheffer, Jianxiang Liao
+Journal: European journal of paediatric neurology : EJPN : official journal of the European Paediatric Neurology Society
+Year: 2020
+MeSH Terms: Developmental Disabilities, Epileptic Syndromes, Humans
+
+Abstract:
+The recent introduction of the term 'developmental and epileptic encephalopathy' by the International League Against Epilepsy has added another conceptual layer to understanding the most severe group of epilepsies. An epileptic encephalopathy is defined by the presence of frequent epileptiform activity that impacts adversely on development, typically causing slowing or regression of developmental skills, and usually associated with frequent seizures. Many of the epileptic encephalopathies are now known to have an identifiable molecular genetic basis. The term 'developmental' was introduced as there are multiple facets leading to developmental impairment in affected individuals. The underlying genetic cause often results in developmental delay in its own right, with the epileptic encephalopathy further adversely affecting development. Treatment of the epileptic encephalopathy may improve developmental progress, so early recognition and active management are essential to improve developmental outcomes. Equally, understanding that the genetic aetiology independently leads to developmental impairment means that precision therapies need to be holistic in addressing the devastating consequences of this group of diseases.

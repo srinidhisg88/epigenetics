@@ -1,0 +1,9 @@
+PMID: 27226234
+Title: Tuberous sclerosis complex.
+Authors: Elizabeth P Henske, Sergiusz Jóźwiak, J Christopher Kingswood, Julian R Sampson, Elizabeth A Thiele
+Journal: Nature reviews. Disease primers
+Year: 2016
+MeSH Terms: Angiomyolipoma, Brain, Epilepsy, Humans, Kidney, Lung, Lymphangioleiomyomatosis, Skin, Tomography, X-Ray Computed, Tuberous Sclerosis
+
+Abstract:
+Tuberous sclerosis complex (TSC) is an autosomal dominant disorder that affects multiple organ systems and is caused by loss-of-function mutations in one of two genes: TSC1 or TSC2. The disorder can affect both adults and children. First described in depth by Bourneville in 1880, it is now estimated that nearly 2 million people are affected by the disease worldwide. The clinical features of TSC are distinctive and can vary widely between individuals, even within one family. Major features of the disease include tumours of the brain, skin, heart, lungs and kidneys, seizures and TSC-associated neuropsychiatric disorders, which can include autism spectrum disorder and cognitive disability. TSC1 (also known as hamartin) and TSC2 (also known as tuberin) form the TSC protein complex that acts as an inhibitor of the mechanistic target of rapamycin (mTOR) signalling pathway, which in turn plays a pivotal part in regulating cell growth, proliferation, autophagy and protein and lipid synthesis. Remarkable progress in basic and translational research, in addition to several randomized controlled trials worldwide, has led to regulatory approval of the use of mTOR inhibitors for the treatment of renal angiomyolipomas, brain subependymal giant cell astrocytomas and pulmonary lymphangioleiomyomatosis, but further research is needed to establish full indications of therapeutic treatment. In this Primer, we review the state-of-the-art knowledge in the TSC field, including the molecular and cellular basis of the disease, medical management, major knowledge gaps and ongoing research towards a cure.

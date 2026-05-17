@@ -1,0 +1,9 @@
+PMID: 33163569
+Title: Hemiplegic Migraine in Glut1 Deficiency Syndrome and Paroxysmal Dyskinesia at Ketogenic Diet Induction: Case Report and Literature Review.
+Authors: Janina Gburek-Augustat, Anja Heinze, Rami Abou Jamra, Andreas Merkenschlager
+Journal: Movement disorders clinical practice
+Year: 2020
+MeSH Terms: 
+
+Abstract:
+BACKGROUND: A rare symptom of Glut1 deficiency syndrome (Glut1 DS) is hemiplegic migraine (HM). CASE: We report a patient with Glut1 DS with a mild phenotype. His leading symptom was HM. As an unusual complication of the initiation of a ketogenic diet (KD), our patient developed paroxysmal nonkinesigenic dyskinesia. Paroxysmal dyskinesia occurred first and exclusively at the initiation of KD. LITERATURE REVIEW: There are a few case reports for HM in Glut1 DS. All patients had additional neurological symptoms. Regarding central nervous system symptoms such as paroxysmal dyskinesia triggered by KD, we found only 1 other case report. DISCUSSION: HM is part of the symptom complex of Glut1 DS and can be effectively treated by KD. Paroxysmal dyskinesia trigged by the initiation of KD should not lead to the discontinuation of the diet in Glut1 DS.

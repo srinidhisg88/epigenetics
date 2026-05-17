@@ -1,0 +1,88 @@
+Gene: KCNQ3
+PMID: 24851285
+Source: GeneReviews (NCBI Bookshelf)
+URL: https://pubmed.ncbi.nlm.nih.gov/24851285/
+
+=== CLINICAL CONTENT ===
+
+1. KCNQ3-Related Disorders.
+
+Miceli F(1), Soldovieri MV(2), Weckhuysen S(3), Cooper EC(4), Taglialatela M(1).
+
+In: Adam MP, Bick S, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. 
+GeneReviews(®) [Internet]. Seattle (WA): University of Washington, Seattle; 
+1993–2026.
+2014 May 22 [updated 2023 Sep 28].
+
+Author information:
+(1)Division of Pharmacology, Department of Neuroscience, University of Naples 
+Federico II, Naples, Italy
+(2)Department of Health Science, University of Molise, Campobasso, Italy
+(3)Applied & Translational Neurogenomics Group, VIB Center for Molecular 
+Neurology, University of Antwerp;, Neurology Department, University Hospital, 
+Antwerp, Belgium
+(4)Departments of Neurology, Neuroscience, and Molecular and Human Genetics, 
+Baylor College of Medicine, Houston, Texas
+
+CLINICAL CHARACTERISTICS: KCNQ3-related disorders include self-limited familial 
+neonatal epilepsy (SLFNE) and self-limited familial infantile epilepsy (SLFIE), 
+seizure disorders that occur in children who typically have normal psychomotor 
+development. An additional KCNQ3-related neurodevelopmental disorder (NDD) with 
+and without epilepsy has also been described. In KCNQ3-SLFNE, seizures begin in 
+an otherwise healthy infant between age days two and eight of life and 
+spontaneously disappear within the first year of life. Seizures are generally 
+brief, lasting one to two minutes. Seizure types include tonic or apneic 
+episodes and focal clonic activity, with or without autonomic changes. Motor 
+activity may be confined to one body part, migrate to other regions, or 
+generalize. Infants are normal between seizures and feed normally. In 
+KCNQ3-SLFIE, seizures start in the first year of life beyond the neonatal period 
+and disappear after age one to two years. Seizures are generally brief, lasting 
+two minutes; they appear as daily repeated clusters. Seizure types are usually 
+focal, but can also include generalized, causing diffuse hypertonia with jerks 
+of the limbs, head deviation, or motor arrest with unconsciousness and cyanosis. 
+Infants are normal between seizures and psychomotor development is usually 
+normal. In KCNQ3-NDD, individuals present with intellectual disability with or 
+without seizures and/or cortical visual impairment. As little clinical 
+information on these individuals is available, the clinical presentation of 
+KCNQ3-NDD remains to be defined.
+DIAGNOSIS/TESTING: The diagnosis of a KCNQ3-related disorder is established in a 
+proband with suggestive findings and at least one heterozygous pathogenic 
+variant in KCNQ3 identified by molecular genetic testing. Rarely, affected 
+individuals have biallelic pathogenic variants in KCNQ3.
+MANAGEMENT: Treatment of manifestations: The seizures of KCNQ3-SLFNE are 
+generally controlled with anti-seizure medications (ASMs) including 
+phenobarbital and phenytoin or carbamazepine, usually withdrawn at age three to 
+six months. The seizures of KCNQ3-SLFIE are usually completely controlled with 
+adequate doses of phenobarbital, carbamazepine, or valproate. In rare instances 
+of seizure recurrence, the starting dose of ASM is often low. ASMs are usually 
+withdrawn after one to three years. KCNQ3-NDD is managed using standard 
+evaluations, therapies, and educational support tailored to the individual's 
+needs. Surveillance: In children with KCNQ3-SLFNE, EEGs at onset and age three, 
+12, and 24 months are recommended; the EEG at 24 months should be normal. In 
+children with KCNQ3-SLFIE, EEGs at onset and age 12, 24, and 36 months are 
+recommended; the EEG at 36 months should be normal. Pregnancy management: The 
+management of a pregnant woman with a KCNQ3 pathogenic variant is the same as 
+that for any other pregnant woman with a seizure disorder or at increased risk 
+for a seizure disorder: (1) no ASM is required if the woman has been 
+seizure-free or if the woman has no history of seizures; and (2) ASM may be 
+continued for epilepsy that is active during pregnancy.
+GENETIC COUNSELING: KCNQ3-SLFNE and KCNQ3-SLFIE are inherited in an autosomal 
+dominant manner; most individuals have an affected parent, or a parent known to 
+have been symptomatic in infancy. KCNQ3-NDD typically occurs as an autosomal 
+dominant disorder caused by a de novo pathogenic variant. Rarely, KCNQ3-NDD is 
+caused by biallelic pathogenic variants and inherited in an autosomal recessive 
+manner. Autosomal dominant inheritance: Each child of an individual with 
+KCNQ3-SLFNE, KCNQ3-SLFIE, or autosomal dominant KCNQ3-NDD has a 50% chance of 
+inheriting the pathogenic variant. Autosomal recessive inheritance: If both 
+parents of a child with autosomal recessive KCNQ3-NDD are known to be 
+heterozygous for a KCNQ3 pathogenic variant, each sib of an affected individual 
+has a 25% chance of being affected at conception, a 50% chance of being an 
+asymptomatic carrier, and a 25% of being asymptomatic and not a carrier. Once 
+the KCNQ3 pathogenic variant(s) have been identified in an affected family 
+member, prenatal and preimplantation genetic testing are possible.
+
+Copyright © 1993-2026, University of Washington, Seattle. GeneReviews is a 
+registered trademark of the University of Washington, Seattle. All rights 
+reserved. Test.
+
+PMID: 24851285

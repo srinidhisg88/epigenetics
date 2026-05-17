@@ -1,0 +1,9 @@
+PMID: 39107278
+Title: Diagnostic utility of DNA methylation analysis in genetically unsolved pediatric epilepsies and CHD2 episignature refinement.
+Authors: Christy W LaFlamme, Cassandra Rastin, Soham Sengupta, Helen E Pennington, Sophie J Russ-Hall
+Journal: Nature communications
+Year: 2024
+MeSH Terms: Humans, DNA Methylation, Female, Child, Male, Epilepsy, DNA Copy Number Variations, Child, Preschool, DNA-Binding Proteins, Adolescent
+
+Abstract:
+Sequence-based genetic testing identifies causative variants in ~ 50% of individuals with developmental and epileptic encephalopathies (DEEs). Aberrant changes in DNA methylation are implicated in various neurodevelopmental disorders but remain unstudied in DEEs. We interrogate the diagnostic utility of genome-wide DNA methylation array analysis on peripheral blood samples from 582 individuals with genetically unsolved DEEs. We identify rare differentially methylated regions (DMRs) and explanatory episignatures to uncover causative and candidate genetic etiologies in 12 individuals. Using long-read sequencing, we identify DNA variants underlying rare DMRs, including one balanced translocation, three CG-rich repeat expansions, and four copy number variants. We also identify pathogenic variants associated with episignatures. Finally, we refine the CHD2 episignature using an 850 K methylation array and bisulfite sequencing to investigate potential insights into CHD2 pathophysiology. Our study demonstrates the diagnostic yield of genome-wide DNA methylation analysis to identify causal and candidate variants as 2% (12/582) for unsolved DEE cases.

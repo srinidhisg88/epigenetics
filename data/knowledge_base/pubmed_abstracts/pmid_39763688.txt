@@ -1,0 +1,9 @@
+PMID: 39763688
+Title: Case report: Clinical and genetic characterization of a novel 
+Authors: Mustafa A Salih, Albandary AlBakheet, Rawan Almass, Ahlam A A Hamed, Ali AlOdaib
+Journal: Frontiers in psychiatry
+Year: 2024
+MeSH Terms: 
+
+Abstract:
+BACKGROUND: Pathogenic variants in  CASE PRESENTATION: Patient 1 (a 13-year-old girl) was born normally at term. Her pregnancy was complicated by antiphospholipid syndrome, and persistent vomiting was managed with several medications, including pyridoxine (40 mg daily). Seizures occurred 6 h after birth and did not respond to antiseizure medications. However, they ceased 2 days later when pyridoxine (40 mg daily) was administered. She continued her medications and had delayed early milestones. Phenobarbitone was discontinued at 18 months, and pyridoxine was increased to 100 mg daily at 8 years of age. She was able to join a regular school and performed well. Patient 2, a 12-year-old boy, was delivered normally at term. Seizures started 10 h after birth, and he immediately received 40 mg of pyridoxine. Seizures have been controlled since then, and he experienced delayed milestones. Pyridoxine was increased to 100 mg daily at 7 years of age. He is currently in fifth grade and has dyslexia. Whole exome sequencing (WES) revealed that both patients 1 and 2 harbor a novel homozygous missense variant in  CONCLUSION: The present study reports a novel 

@@ -1,0 +1,9 @@
+PMID: 32660967
+Title: SLC6A1 G443D associated with developmental delay and epilepsy.
+Authors: Seth Devries, Monica Mulder, Jacob G Charron, Jeremy W Prokop, Paul R Mark
+Journal: Cold Spring Harbor molecular case studies
+Year: 2020
+MeSH Terms: Child, Preschool, Developmental Disabilities, Epilepsy, Female, GABA Plasma Membrane Transport Proteins, Genetic Predisposition to Disease, Humans, Intellectual Disability, Loss of Function Mutation, Mutation
+
+Abstract:
+

@@ -1,0 +1,9 @@
+PMID: 35520951
+Title: Successful use of perampanel in GABRA1-related myoclonic epilepsy with photosensitivity.
+Authors: Sara Olivotto, Anna Freddi, Rossella Lavatelli, Eleonora Basso, Alessia Leidi
+Journal: Epilepsy & behavior reports
+Year: 2022
+MeSH Terms: 
+
+Abstract:
+Pathogenic variants in gamma-aminobutyric acid type A receptor subunit alpha1 (GABRA1) is a protein coding gene that has been associated with a broad phenotypic spectrum of epilepsies. These have ranged from mild generalized forms to early-onset severe epileptic encephalopathies. Both in mild and in severe forms, tonic-clonic and myoclonic seizures with generalized spike and wave discharges and photoparoxysmal responses are common clinical manifestations. We present the case of a 14-year-old girl referred to our clinic with uncontrolled epilepsy. She was found to carry a heterozygous variant (c.335G > A) in GABRA1, already described in the literature and classified as "pathogenic" according to ACMG guidelines. The patient showed severe drug resistance with seizures often triggered by photic stimulation. The introduction of perampanel therapy led to overall reduction of the focal and generalized myoclonic seizures and complete clinical control of the light-triggered seizures. To our knowledge this is the first report of perampanel efficacy in photosensitive epilepsy, and in particular in the presence of a GABRA1 variant. New evidence is needed to confirm our findings in this case.

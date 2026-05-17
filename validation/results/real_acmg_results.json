@@ -1,0 +1,3532 @@
+{
+  "data_source": "data/processed/epilepsy_variants_all.csv + gnomAD API",
+  "total": 200,
+  "correct": 197,
+  "accuracy": 98.5,
+  "pathogenic_accuracy": 100.0,
+  "benign_accuracy": 97.0,
+  "gnomad_hits": 0,
+  "tier_distribution": {
+    "Likely Pathogenic": 54,
+    "Pathogenic": 47,
+    "Likely Benign": 97,
+    "VUS": 2
+  },
+  "results": [
+    {
+      "variation_id": "853851",
+      "gene": "GABRA1",
+      "variant_name": "NM_001127644.2(GABRA1):c.865A>G (p.Thr289Ala)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "48903",
+      "gene": "TSC1",
+      "variant_name": "NM_000368.5(TSC1):c.211-2A>C",
+      "consequence": "missense_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "2584409",
+      "gene": "KCNQ2",
+      "variant_name": "NM_172107.4(KCNQ2):c.920T>C (p.Leu307Pro)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "369815",
+      "gene": "KCNQ2",
+      "variant_name": "NM_172107.4(KCNQ2):c.2599_2603dup (p.Arg871fs)",
+      "consequence": "frameshift_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "68585",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.1028G>A (p.Gly343Asp)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1801346",
+      "gene": "PCDH19",
+      "variant_name": "NM_001184880.2(PCDH19):c.2675+1G>T",
+      "consequence": "splice_site_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "21781",
+      "gene": "KCNQ2",
+      "variant_name": "NM_172107.4(KCNQ2):c.2597del (p.Gly866fs)",
+      "consequence": "frameshift_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "143678",
+      "gene": "MECP2",
+      "variant_name": "NM_001110792.2(MECP2):c.784dup (p.Arg262fs)",
+      "consequence": "frameshift_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "167643",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.2590-2A>G",
+      "consequence": "missense_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "410979",
+      "gene": "SCN2A",
+      "variant_name": "NM_001040142.2(SCN2A):c.2877C>A (p.Cys959Ter)",
+      "consequence": "stop_gained",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 11,
+      "criteria_met": [
+        "PS1",
+        "PS2",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "809836",
+      "gene": "GABRG2",
+      "variant_name": "NM_198904.4(GABRG2):c.992A>G (p.Tyr331Cys)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "280323",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.1195G>T (p.Glu399Ter)",
+      "consequence": "stop_gained",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 19,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PS2",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "423029",
+      "gene": "CDKL5",
+      "variant_name": "NM_001323289.2(CDKL5):c.1211_1212dup (p.Leu405fs)",
+      "consequence": "frameshift_variant",
+      "expected": "Pathogenic",
+      "review_stars": 3,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "48991",
+      "gene": "TSC1",
+      "variant_name": "NM_000368.5(TSC1):c.2689C>T (p.Gln897Ter)",
+      "consequence": "stop_gained",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "65091",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.849-1G>C",
+      "consequence": "splice_site_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "3380924",
+      "gene": "PCDH19",
+      "variant_name": "NM_001184880.2(PCDH19):c.1914T>G (p.Tyr638Ter)",
+      "consequence": "stop_gained",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "496124",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.5734C>T (p.Arg1912Ter)",
+      "consequence": "stop_gained",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "207229",
+      "gene": "SLC2A1",
+      "variant_name": "NM_006516.4(SLC2A1):c.884C>T (p.Thr295Met)",
+      "consequence": "missense_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "65234",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.5160+2T>C",
+      "consequence": "missense_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "661206",
+      "gene": "SCN2A",
+      "variant_name": "NM_001040142.2(SCN2A):c.1270G>A (p.Val424Met)",
+      "consequence": "missense_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "49821",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.4255C>T (p.Gln1419Ter)",
+      "consequence": "stop_gained",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "205892",
+      "gene": "KCNQ2",
+      "variant_name": "NM_172107.4(KCNQ2):c.1004C>T (p.Pro335Leu)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 11,
+      "criteria_met": [
+        "PS1",
+        "PS2",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "461424",
+      "gene": "KCNQ2",
+      "variant_name": "NM_172107.4(KCNQ2):c.994A>G (p.Arg332Gly)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "571229",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.4581+5G>C",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "49410",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.648+1G>A",
+      "consequence": "splice_site_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "206814",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.4297G>C (p.Gly1433Arg)",
+      "consequence": "missense_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "49038",
+      "gene": "TSC1",
+      "variant_name": "NM_000368.5(TSC1):c.381_383del (p.Val128del)",
+      "consequence": "frameshift_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "870205",
+      "gene": "KCNQ2",
+      "variant_name": "NM_172107.4(KCNQ2):c.1149-2A>G",
+      "consequence": "missense_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1254825",
+      "gene": "SLC2A1",
+      "variant_name": "NM_006516.4(SLC2A1):c.275+1G>C",
+      "consequence": "splice_site_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "547514",
+      "gene": "MECP2",
+      "variant_name": "NM_001110792.2(MECP2):c.876del (p.Ala293fs)",
+      "consequence": "frameshift_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "189947",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.4223G>A (p.Trp1408Ter)",
+      "consequence": "stop_gained",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1357778",
+      "gene": "KCNQ2",
+      "variant_name": "NM_172107.4(KCNQ2):c.1079G>A (p.Trp360Ter)",
+      "consequence": "stop_gained",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "974562",
+      "gene": "CHD2",
+      "variant_name": "NM_001271.4(CHD2):c.2190-1G>C",
+      "consequence": "splice_site_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "932646",
+      "gene": "MECP2",
+      "variant_name": "NM_001110792.2(MECP2):c.1244del (p.Pro415fs)",
+      "consequence": "frameshift_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "49524",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.4318C>T (p.Gln1440Ter)",
+      "consequence": "stop_gained",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "569006",
+      "gene": "TSC1",
+      "variant_name": "NM_000368.5(TSC1):c.2488C>T (p.Gln830Ter)",
+      "consequence": "stop_gained",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "589901",
+      "gene": "PCDH19",
+      "variant_name": "NM_001184880.2(PCDH19):c.994del (p.Val332fs)",
+      "consequence": "frameshift_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "579576",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.139-1G>A",
+      "consequence": "splice_site_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "156106",
+      "gene": "SCN8A",
+      "variant_name": "NM_001330260.2(SCN8A):c.4850G>A (p.Arg1617Gln)",
+      "consequence": "missense_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 11,
+      "criteria_met": [
+        "PS1",
+        "PS2",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1676312",
+      "gene": "TSC1",
+      "variant_name": "NM_000368.5(TSC1):c.1929del (p.Ser644fs)",
+      "consequence": "frameshift_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "156053",
+      "gene": "MECP2",
+      "variant_name": "NM_001110792.2(MECP2):c.413+1G>T",
+      "consequence": "splice_site_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 11,
+      "criteria_met": [
+        "PS1",
+        "PS2",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "50147",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.1716+1G>A",
+      "consequence": "splice_site_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "65089",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.1257+1G>A",
+      "consequence": "splice_site_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "143753",
+      "gene": "MECP2",
+      "variant_name": "NM_001110792.2(MECP2):c.1000C>G (p.Pro334Ala)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "976136",
+      "gene": "KCNQ2",
+      "variant_name": "NM_172107.4(KCNQ2):c.297-1G>C",
+      "consequence": "splice_site_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1413748",
+      "gene": "KCNQ2",
+      "variant_name": "NM_172107.4(KCNQ2):c.644del (p.Gly215fs)",
+      "consequence": "frameshift_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "68583",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.838T>C (p.Trp280Arg)",
+      "consequence": "missense_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 11,
+      "criteria_met": [
+        "PS1",
+        "PS2",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "801777",
+      "gene": "SCN2A",
+      "variant_name": "NM_001040142.2(SCN2A):c.1384-2A>G",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "48842",
+      "gene": "TSC1",
+      "variant_name": "NM_000368.5(TSC1):c.182T>C (p.Leu61Pro)",
+      "consequence": "missense_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "803620",
+      "gene": "KCNQ2",
+      "variant_name": "NM_172107.4(KCNQ2):c.1149-1G>T",
+      "consequence": "splice_site_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "520399",
+      "gene": "KCNQ2",
+      "variant_name": "NM_172107.4(KCNQ2):c.430C>G (p.Arg144Gly)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "378981",
+      "gene": "TSC1",
+      "variant_name": "NM_000368.5(TSC1):c.2641A>T (p.Lys881Ter)",
+      "consequence": "stop_gained",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "844836",
+      "gene": "KCNQ2",
+      "variant_name": "NM_172107.4(KCNQ2):c.2276dup (p.Asn759fs)",
+      "consequence": "frameshift_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "49561",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.2743-1G>C",
+      "consequence": "splice_site_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "49930",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.5138G>A (p.Arg1713His)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "418998",
+      "gene": "MECP2",
+      "variant_name": "NM_001110792.2(MECP2):c.726del (p.Gly244fs)",
+      "consequence": "frameshift_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 19,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PS2",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1686149",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.2779T>C (p.Cys927Arg)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "65304",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.4493G>C (p.Ser1498Thr)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 11,
+      "criteria_met": [
+        "PS1",
+        "PS2",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "206735",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.265-1G>A",
+      "consequence": "splice_site_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "871342",
+      "gene": "SCN8A",
+      "variant_name": "NM_001330260.2(SCN8A):c.56_57del (p.Pro19fs)",
+      "consequence": "frameshift_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1299336",
+      "gene": "SCN8A",
+      "variant_name": "NM_001330260.2(SCN8A):c.2706del (p.Glu903fs)",
+      "consequence": "frameshift_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "424444",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.4936G>A (p.Val1646Met)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "207127",
+      "gene": "SCN8A",
+      "variant_name": "NM_001330260.2(SCN8A):c.4949C>T (p.Ala1650Val)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "2851717",
+      "gene": "SCN8A",
+      "variant_name": "NM_001330260.2(SCN8A):c.4445C>A (p.Thr1482Asn)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "49981",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.4934_4935del (p.Phe1645fs)",
+      "consequence": "frameshift_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "547819",
+      "gene": "TSC1",
+      "variant_name": "NM_000368.5(TSC1):c.509-1G>A",
+      "consequence": "splice_site_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "2775809",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.4039A>G (p.Ile1347Val)",
+      "consequence": "missense_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "620250",
+      "gene": "GABRG2",
+      "variant_name": "NM_198904.4(GABRG2):c.670C>T (p.Arg224Ter)",
+      "consequence": "stop_gained",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "189844",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.2593C>T (p.Arg865Ter)",
+      "consequence": "stop_gained",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 19,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PS2",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "647613",
+      "gene": "PCDH19",
+      "variant_name": "NM_001184880.2(PCDH19):c.1031C>A (p.Pro344Gln)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "870915",
+      "gene": "STXBP1",
+      "variant_name": "NM_001032221.6(STXBP1):c.1029+1G>A",
+      "consequence": "splice_site_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "561119",
+      "gene": "STXBP1",
+      "variant_name": "NM_001032221.6(STXBP1):c.578+1G>A",
+      "consequence": "splice_site_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 11,
+      "criteria_met": [
+        "PS1",
+        "PS2",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "3393429",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.599+1G>C",
+      "consequence": "splice_site_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "21767",
+      "gene": "KCNQ2",
+      "variant_name": "NM_172107.4(KCNQ2):c.1658G>A (p.Arg553Gln)",
+      "consequence": "missense_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "423081",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.278_279dup (p.Asn94Ter)",
+      "consequence": "stop_gained",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "808869",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.539T>G (p.Leu180Ter)",
+      "consequence": "stop_gained",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1325082",
+      "gene": "SLC2A1",
+      "variant_name": "NM_006516.4(SLC2A1):c.1279-2A>G",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "225100",
+      "gene": "SCN8A",
+      "variant_name": "NM_001330260.2(SCN8A):c.4859G>T (p.Arg1620Leu)",
+      "consequence": "missense_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "11845",
+      "gene": "MECP2",
+      "variant_name": "NM_001110792.2(MECP2):c.5C>T (p.Ala2Val)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 11,
+      "criteria_met": [
+        "PS1",
+        "PS2",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "160071",
+      "gene": "STXBP1",
+      "variant_name": "NM_001032221.6(STXBP1):c.754_755del (p.Met252fs)",
+      "consequence": "frameshift_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1508868",
+      "gene": "SCN2A",
+      "variant_name": "NM_001040142.2(SCN2A):c.3823T>C (p.Cys1275Arg)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "192318",
+      "gene": "SCN8A",
+      "variant_name": "NM_001330260.2(SCN8A):c.4351G>A (p.Gly1451Ser)",
+      "consequence": "missense_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "588288",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.1663-2A>G",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1779425",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.1753_1754del (p.Arg585fs)",
+      "consequence": "frameshift_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "143818",
+      "gene": "CDKL5",
+      "variant_name": "NM_001323289.2(CDKL5):c.380A>G (p.His127Arg)",
+      "consequence": "missense_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 11,
+      "criteria_met": [
+        "PS1",
+        "PS2",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1029253",
+      "gene": "SCN8A",
+      "variant_name": "NM_001330260.2(SCN8A):c.4409A>G (p.Gln1470Arg)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 11,
+      "criteria_met": [
+        "PS1",
+        "PS2",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "50192",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.138+5G>A",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "985424",
+      "gene": "SCN2A",
+      "variant_name": "NM_001040142.2(SCN2A):c.802C>T (p.Gln268Ter)",
+      "consequence": "stop_gained",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "984752",
+      "gene": "SCN2A",
+      "variant_name": "NM_001040142.2(SCN2A):c.2388+1G>A",
+      "consequence": "splice_site_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 11,
+      "criteria_met": [
+        "PS1",
+        "PS2",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "143498",
+      "gene": "MECP2",
+      "variant_name": "NM_001110792.2(MECP2):c.230C>G (p.Ser77Ter)",
+      "consequence": "stop_gained",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "816990",
+      "gene": "PCDH19",
+      "variant_name": "NM_001184880.2(PCDH19):c.565G>T (p.Glu189Ter)",
+      "consequence": "stop_gained",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "68580",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.715G>A (p.Ala239Thr)",
+      "consequence": "missense_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 11,
+      "criteria_met": [
+        "PS1",
+        "PS2",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1705827",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.4380T>A (p.Tyr1460Ter)",
+      "consequence": "stop_gained",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 19,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PS2",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "573377",
+      "gene": "SCN8A",
+      "variant_name": "NM_001330260.2(SCN8A):c.4800G>A (p.Met1600Ile)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "120176",
+      "gene": "KCNQ2",
+      "variant_name": "NM_172107.4(KCNQ2):c.794C>T (p.Ala265Val)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 11,
+      "criteria_met": [
+        "PS1",
+        "PS2",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "68672",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.755T>A (p.Ile252Asn)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "284540",
+      "gene": "CDKL5",
+      "variant_name": "NM_001323289.2(CDKL5):c.1553del (p.Pro518fs)",
+      "consequence": "frameshift_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "389695",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.1240T>G (p.Cys414Gly)",
+      "consequence": "missense_variant",
+      "expected": "Likely Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1323556",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.840G>A (p.Trp280Ter)",
+      "consequence": "stop_gained",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Pathogenic",
+      "score": 15,
+      "criteria_met": [
+        "PVS1",
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "190018",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.1046A>G (p.Tyr349Cys)",
+      "consequence": "missense_variant",
+      "expected": "Pathogenic",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PS1",
+        "PM2",
+        "PP5"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "212136",
+      "gene": "SCN8A",
+      "variant_name": "NM_001330260.2(SCN8A):c.4764C>T (p.Phe1588=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1128339",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.4485C>T (p.Ile1495=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1997844",
+      "gene": "TSC1",
+      "variant_name": "NM_000368.5(TSC1):c.2001G>A (p.Leu667=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1545043",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.300G>T (p.Ala100=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1229967",
+      "gene": "CHD2",
+      "variant_name": "NM_001271.4(CHD2):c.5153+108C>G",
+      "consequence": "splice_site_variant",
+      "expected": "Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "516776",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.1728C>T (p.Tyr576=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1650138",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.4494-13C>T",
+      "consequence": "splice_site_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "674939",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.965-113A>T",
+      "consequence": "splice_site_variant",
+      "expected": "Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "129128",
+      "gene": "GABRG2",
+      "variant_name": "NM_198904.4(GABRG2):c.354G>A (p.Ala118=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "759033",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.1560C>T (p.His520=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "378789",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.4392C>T (p.Ser1464=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "189624",
+      "gene": "MECP2",
+      "variant_name": "NM_001110792.2(MECP2):c.1089C>G (p.Pro363=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "444291",
+      "gene": "SCN8A",
+      "variant_name": "NM_001330260.2(SCN8A):c.1149C>T (p.Ala383=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "93434",
+      "gene": "GABRG2",
+      "variant_name": "NM_198904.4(GABRG2):c.588C>T (p.Asn196=)",
+      "consequence": "synonymous_variant",
+      "expected": "Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "205831",
+      "gene": "KCNQ2",
+      "variant_name": "NM_172107.4(KCNQ2):c.804C>T (p.Leu268=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "382732",
+      "gene": "CHD2",
+      "variant_name": "NM_001271.4(CHD2):c.2973+4A>G",
+      "consequence": "missense_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "536751",
+      "gene": "GABRA1",
+      "variant_name": "NM_001127644.2(GABRA1):c.477-5T>C",
+      "consequence": "missense_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "386172",
+      "gene": "TSC1",
+      "variant_name": "NM_000368.5(TSC1):c.249C>T (p.Ala83=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "511330",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.1077C>T (p.Asp359=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "506963",
+      "gene": "SCN8A",
+      "variant_name": "NM_001330260.2(SCN8A):c.3819+13C>G",
+      "consequence": "splice_site_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "385756",
+      "gene": "KCNQ2",
+      "variant_name": "NM_172107.4(KCNQ2):c.2344C>A (p.Arg782=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "516949",
+      "gene": "SCN2A",
+      "variant_name": "NM_001040142.2(SCN2A):c.1672-7T>C",
+      "consequence": "missense_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "64860",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.2427C>T (p.Ser809=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "536066",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.816C>A (p.Ala272=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "486608",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.3327G>T (p.Pro1109=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "670595",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.383+66T>C",
+      "consequence": "missense_variant",
+      "expected": "Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1266766",
+      "gene": "SCN2A",
+      "variant_name": "NM_001040142.2(SCN2A):c.4822+48A>G",
+      "consequence": "missense_variant",
+      "expected": "Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "703427",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.456C>T (p.His152=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1158154",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.1617C>T (p.Leu539=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "825628",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.5304G>A (p.Val1768=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "413704",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.5004T>C (p.Phe1668=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1300372",
+      "gene": "GABRG2",
+      "variant_name": "NM_198904.4(GABRG2):c.747C>T (p.Thr249=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1158864",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.3255G>C (p.Ser1085=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "589666",
+      "gene": "SCN2A",
+      "variant_name": "NM_001040142.2(SCN2A):c.4671A>G (p.Gln1557=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "766464",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.4663-8C>T",
+      "consequence": "missense_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "536060",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.4860C>T (p.His1620=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "468158",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.532C>T (p.Leu178=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "795344",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.3480T>C (p.Thr1160=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1568929",
+      "gene": "CDKL5",
+      "variant_name": "NM_001323289.2(CDKL5):c.1752A>G (p.Ser584=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "670652",
+      "gene": "GABRA1",
+      "variant_name": "NM_001127644.2(GABRA1):c.188-42C>T",
+      "consequence": "missense_variant",
+      "expected": "Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "872401",
+      "gene": "SCN2A",
+      "variant_name": "NM_001040142.2(SCN2A):c.1965C>T (p.Ser655=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "422203",
+      "gene": "CHD2",
+      "variant_name": "NM_001271.4(CHD2):c.1199-12del",
+      "consequence": "splice_site_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "143398",
+      "gene": "MECP2",
+      "variant_name": "NM_001110792.2(MECP2):c.1199C>T (p.Pro400Leu)",
+      "consequence": "missense_variant",
+      "expected": "Benign",
+      "review_stars": 3,
+      "acmg_tier": "VUS",
+      "score": 3,
+      "criteria_met": [
+        "PS2",
+        "BP6"
+      ],
+      "correct": false,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "49764",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.3557A>G (p.Tyr1186Cys)",
+      "consequence": "missense_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "2878379",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.2982C>T (p.Ser994=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1563886",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.3864C>T (p.His1288=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "668848",
+      "gene": "GABRG2",
+      "variant_name": "NM_198904.4(GABRG2):c.107+11C>A",
+      "consequence": "splice_site_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "507123",
+      "gene": "SLC2A1",
+      "variant_name": "NM_006516.4(SLC2A1):c.1152C>T (p.Gly384=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1335781",
+      "gene": "PCDH19",
+      "variant_name": "NM_001184880.2(PCDH19):c.2820C>G (p.Thr940=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1605971",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.4663-15C>T",
+      "consequence": "splice_site_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1140823",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.4257G>A (p.Gln1419=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "143698",
+      "gene": "MECP2",
+      "variant_name": "NM_001110792.2(MECP2):c.831C>G (p.Pro277=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "VUS",
+      "score": 2,
+      "criteria_met": [
+        "PS2",
+        "BP6",
+        "BP7"
+      ],
+      "correct": false,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "48747",
+      "gene": "TSC1",
+      "variant_name": "NM_000368.5(TSC1):c.1142-33A>G",
+      "consequence": "missense_variant",
+      "expected": "Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1562729",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.2221-20T>C",
+      "consequence": "missense_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "64850",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.5068+40G>A",
+      "consequence": "missense_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1536267",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.3177C>G (p.Thr1059=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "514228",
+      "gene": "CDKL5",
+      "variant_name": "NM_001323289.2(CDKL5):c.2109A>T (p.Leu703=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "754123",
+      "gene": "TSC1",
+      "variant_name": "NM_000368.5(TSC1):c.348A>G (p.Leu116=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "760127",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.874C>T (p.Leu292=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1632029",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.2049C>G (p.Ser683=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "536007",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.3819C>A (p.Ala1273=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "49909",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.720C>T (p.Ile240=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "696004",
+      "gene": "KCNQ2",
+      "variant_name": "NM_172107.4(KCNQ2):c.867C>T (p.Asn289=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "2449955",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.2310G>A (p.Leu770=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "137736",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.138+14C>G",
+      "consequence": "splice_site_variant",
+      "expected": "Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "65340",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.5412C>T (p.Thr1804=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "156051",
+      "gene": "MECP2",
+      "variant_name": "NM_001110792.2(MECP2):c.413+18C>G",
+      "consequence": "splice_site_variant",
+      "expected": "Likely Benign",
+      "review_stars": 3,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "534494",
+      "gene": "TSC1",
+      "variant_name": "NM_000368.5(TSC1):c.1476A>C (p.Ala492=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1128971",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.1446G>A (p.Glu482=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "757071",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.5211C>A (p.Pro1737=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "184659",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.2454C>T (p.Ile818=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1593730",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.4990-17T>C",
+      "consequence": "splice_site_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "794621",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.4989+8_4989+9del",
+      "consequence": "frameshift_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Pathogenic",
+      "score": 7,
+      "criteria_met": [
+        "PVS1",
+        "BP6"
+      ],
+      "correct": false,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "680216",
+      "gene": "CHD2",
+      "variant_name": "NM_001271.4(CHD2):c.2353-56G>A",
+      "consequence": "missense_variant",
+      "expected": "Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1156769",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.2727C>G (p.Val909=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "757177",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.1361+7G>T",
+      "consequence": "missense_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1147691",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.1080T>C (p.Ile360=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "50009",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.856A>G (p.Met286Val)",
+      "consequence": "missense_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "138600",
+      "gene": "PCDH19",
+      "variant_name": "NM_001184880.2(PCDH19):c.1725C>T (p.Val575=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "184396",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.5275G>A (p.Ala1759Thr)",
+      "consequence": "missense_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "2014253",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.3397+8T>C",
+      "consequence": "missense_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "381953",
+      "gene": "SCN1A",
+      "variant_name": "NM_001165963.4(SCN1A):c.1170+16C>T",
+      "consequence": "splice_site_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "466140",
+      "gene": "TSC1",
+      "variant_name": "NM_000368.5(TSC1):c.364-7C>T",
+      "consequence": "missense_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1648587",
+      "gene": "TSC1",
+      "variant_name": "NM_000368.5(TSC1):c.1461T>C (p.Ser487=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "49216",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.2546-5C>T",
+      "consequence": "missense_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "382332",
+      "gene": "CDKL5",
+      "variant_name": "NM_001323289.2(CDKL5):c.967T>C (p.Leu323=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1944998",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.2772T>C (p.Phe924=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "49229",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.2743-3C>A",
+      "consequence": "missense_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1645298",
+      "gene": "KCNQ2",
+      "variant_name": "NM_172107.4(KCNQ2):c.1526-4C>T",
+      "consequence": "missense_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "49728",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.13A>G (p.Thr5Ala)",
+      "consequence": "missense_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1089230",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.1404G>A (p.Val468=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1142736",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.5259+10A>C",
+      "consequence": "splice_site_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1126406",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.848+10G>A",
+      "consequence": "splice_site_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1193173",
+      "gene": "CHD2",
+      "variant_name": "NM_001271.4(CHD2):c.2727+44C>G",
+      "consequence": "missense_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1159465",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.4212G>A (p.Lys1404=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "468190",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.852C>T (p.Ala284=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "1191756",
+      "gene": "SCN8A",
+      "variant_name": "NM_001330260.2(SCN8A):c.1999-42A>C",
+      "consequence": "missense_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "64844",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.1150G>A (p.Val384Ile)",
+      "consequence": "missense_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -1,
+      "criteria_met": [
+        "BP6"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "516431",
+      "gene": "PCDH19",
+      "variant_name": "NM_001184880.2(PCDH19):c.2598C>T (p.Asn866=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    },
+    {
+      "variation_id": "3009625",
+      "gene": "TSC2",
+      "variant_name": "NM_000548.5(TSC2):c.1506C>T (p.His502=)",
+      "consequence": "synonymous_variant",
+      "expected": "Likely Benign",
+      "review_stars": 2,
+      "acmg_tier": "Likely Benign",
+      "score": -2,
+      "criteria_met": [
+        "BP6",
+        "BP7"
+      ],
+      "correct": true,
+      "gnomad_af": null,
+      "gnomad_found": false
+    }
+  ]
+}

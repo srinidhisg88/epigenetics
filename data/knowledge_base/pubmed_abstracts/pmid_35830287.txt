@@ -1,0 +1,9 @@
+PMID: 35830287
+Title: Current practice in diagnostic genetic testing of the epilepsies.
+Authors: Ilona Krey, Konrad Platzer, Alina Esterhuizen, Samuel F Berkovic, Ingo Helbig
+Journal: Epileptic disorders : international epilepsy journal with videotape
+Year: 2022
+MeSH Terms: Diagnostic Techniques and Procedures, Epilepsy, Genetic Testing, Humans
+
+Abstract:
+Epilepsy genetics is a rapidly developing field, in which novel disease-associated genes, novel mechanisms associated with epilepsy, and precision medicine approaches are continuously being identified. In the past decade, advances in genomic knowledge and analysis platforms have begun to make clinical genetic testing accessible for, in principle, people of all ages with epilepsy. For this reason, the Genetics Commission of the International League Against Epilepsy (ILAE) presents this update on clinical genetic testing practice, including current techniques, indications, yield of genetic testing, recommendations for pre- and post-test counseling, and follow-up after genetic testing is completed. We acknowledge that the resources vary across different settings but highlight that genetic diagnostic testing for epilepsy should be prioritized when the likelihood of an informative finding is high. Results of genetic testing, in particular the identification of causative genetic variants, are likely to improve individual care. We emphasize the importance of genetic testing for individuals with epilepsy as we enter the era of precision therapy.

@@ -1,0 +1,9 @@
+PMID: 36604176
+Title: Clinical and genetic features of GATOR1 complex-associated epilepsy.
+Authors: Kaili Yin, Xingxing Lei, Zhaofen Yan, Yujiao Yang, Qinqin Deng
+Journal: Journal of medical genetics
+Year: 2023
+MeSH Terms: Humans, Epilepsies, Partial, Epilepsy, GTPase-Activating Proteins, Mutation, Seizures, Signal Transduction, TOR Serine-Threonine Kinases
+
+Abstract:
+OBJECTIVES: To analyse the prevalence of pathogenic variants in  METHODS: Clinical details and whole-exome sequencing data of 170 novel probands with lesional or non-lesional epilepsy were retrieved. Candidate variants in GATOR1 genes were verified by Sanger sequencing, and cosegregate analysis was performed. The pathogenicity of variants and their effect on mTOR signalling were investigated. RESULTS: Two novel frameshift variants and one recurrent nonsense variant were detected in  CONCLUSIONS: Patients carrying 

@@ -1,0 +1,9 @@
+PMID: 39168152
+Title: Precision Medicine in Angelman Syndrome.
+Authors: Lena Manssen, Ilona Krey, Janina Gburek-Augustat, Cornelia von Hagen, Johannes R Lemke
+Journal: Neuropediatrics
+Year: 2025
+MeSH Terms: Angelman Syndrome, Humans, Precision Medicine, Ubiquitin-Protein Ligases
+
+Abstract:
+Angelman syndrome (AS) is a rare neurogenetic disorder caused by a loss of function of 

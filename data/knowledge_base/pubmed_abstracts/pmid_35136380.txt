@@ -1,0 +1,9 @@
+PMID: 35136380
+Title: Genetic Analysis of Sodium Channel Genes in Pediatric Epilepsy Patients of Pakistan.
+Authors: Aqsa Ashfaq, Tayyaba Saleem, Nadeem Sheikh, Hafsa Maqbool
+Journal: Genetics research
+Year: 2022
+MeSH Terms: Anticonvulsants, Child, Epilepsy, Humans, NAV1.1 Voltage-Gated Sodium Channel, Pakistan, Polymorphism, Single Nucleotide
+
+Abstract:
+Epilepsy affects millions of people worldwide. Although antiepileptic drugs work for the majority of epileptic patients, these drugs do not work for some of the patients, subjecting them to drug-resistant epilepsy (DRE). Voltage-gated sodium channels act as targets for a number of antiepileptic drugs, and the genes encoding these channels can play a crucial role in developing drug-resistant epilepsy. This case-control (100 control: 101patients) study evaluated the association of sodium channel genes SCN1A and SCN2A with drug-resistant epilepsy. The cases were further accounted in two categories, drug-resistant and drug-responsive epileptic patients. The polymorphic sites rs794726754, rs1057518252, rs121918809, rs12191792, rs121917932, c.730 G > T, c.735 G > T, c.736 A > T, rs10167228, and rs2298771 of the SCN1A gene and rs17183814 of SCN2A gene were selected for mutational analysis. The DNA was isolated, amplified by PCR, and then, was run through 1% agarose gel. The sequencing was performed, and the sequences were observed through BioEdit software for any change in DNA sequence. In our study, no polymorphism was observed in the studied SNPs except for rs2298771. For rs2298771, a significant difference existed in the distribution of genotypic and allelic frequencies (

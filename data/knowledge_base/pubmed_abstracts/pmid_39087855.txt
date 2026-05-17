@@ -1,0 +1,9 @@
+PMID: 39087855
+Title: Neurocardiac pathologies associated with potassium channelopathies.
+Authors: Veronica Singh, David S Auerbach
+Journal: Epilepsia
+Year: 2024
+MeSH Terms: Humans, Channelopathies, Epilepsy, Potassium Channels, Voltage-Gated, Sudden Unexpected Death in Epilepsy, Heart Diseases, Death, Sudden, Cardiac, Animals
+
+Abstract:
+Voltage-gated potassium channels are expressed throughout the human body and are essential for physiological functions. These include delayed rectifiers, A-type channels, outward rectifiers, and inward rectifiers. They impact electrical function in the heart (repolarization) and brain (repolarization and stabilization of the resting membrane potential). KCNQx and KCNHx encode K

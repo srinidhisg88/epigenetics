@@ -1,0 +1,9 @@
+PMID: 35149262
+Title: Intrafamilial phenotypic variability in TBC1D24-TLDc homozygous pathogenic variant-related developmental and epileptic encephalopathy.
+Authors: Hsiu-Fen Lee, Ching-Shiang Chi, Chi-Ren Tsai
+Journal: Clinical neurology and neurosurgery
+Year: 2022
+MeSH Terms: Biological Variation, Population, Cerebellar Ataxia, Electroencephalography, GTPase-Activating Proteins, Homozygote, Humans, Infant, Seizures
+
+Abstract:
+OBJECTIVE: To describe intrafamilial phenotypic variability in rare TBC1D24-TLDc homozygous pathogenic variant-related developmental and epileptic encephalopathy (DEE). METHODS: Four individuals from two unrelated families who had been diagnosed with DEE caused by TBC1D24-TLDc homozygous c.1499C>T (p.A500V) pathogenic variant were recruited. RESULTS: The age of seizure onset ranged from 1 to 7 months. All four individuals exhibited very prolonged multifocal myoclonus or focal clonic fits, and the interictal EEGs were prone to dissociation with clinical seizures. The common precipitating factors for seizures were viral infection and fever. Two individuals from family II had progressive cerebellar atrophy: one had ataxia and the other one had no cerebellar signs clinically. All individuals had pharmaco-resistant epilepsy. However, the younger siblings of the two sibling pairs had normal neurodevelopmental outcomes. CONCLUSION: Intrafamilial phenotypic variability of cerebellar neurodegeneration on neuroimages and neurodevelopmental outcomes might be noted in individuals with TBC1D24-TLDc homozygous c.1499C>T (p.A500V) pathogenic variant-related DEE.

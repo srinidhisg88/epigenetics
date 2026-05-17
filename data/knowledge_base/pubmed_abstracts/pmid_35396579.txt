@@ -1,0 +1,9 @@
+PMID: 35396579
+Title: Rare coding variants in ten genes confer substantial risk for schizophrenia.
+Authors: Tarjinder Singh, Timothy Poterba, David Curtis, Huda Akil, Mariam Al Eissa
+Journal: Nature
+Year: 2022
+MeSH Terms: Case-Control Studies, Exome, Genetic Predisposition to Disease, Humans, Mutation, Neurodevelopmental Disorders, Receptors, N-Methyl-D-Aspartate, Schizophrenia
+
+Abstract:
+Rare coding variation has historically provided the most direct connections between gene function and disease pathogenesis. By meta-analysing the whole exomes of 24,248 schizophrenia cases and 97,322 controls, we implicate ultra-rare coding variants (URVs) in 10 genes as conferring substantial risk for schizophrenia (odds ratios of 3-50, P < 2.14 × 10

@@ -1,0 +1,9 @@
+PMID: 33281559
+Title: A Novel Variant in the TBC1D24 Lipid-Binding Pocket Causes Autosomal Dominant Hearing Loss: Evidence for a Genotype-Phenotype Correlation.
+Authors: Thomas Parzefall, Alexandra Frohne, Martin Koenighofer, Juergen Neesen, Franco Laccone
+Journal: Frontiers in cellular neuroscience
+Year: 2020
+MeSH Terms: 
+
+Abstract:
+

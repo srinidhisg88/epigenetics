@@ -1,0 +1,8 @@
+Title: Antiepileptic drugs--best practice guidelines for therapeutic drug monitoring: a position paper by the subcommission on therapeutic drug monitoring, ILAE Commission on Therapeutic Strategies.
+Journal: Epilepsia
+Year: 2008
+PMID: 18397299
+URL: https://pubmed.ncbi.nlm.nih.gov/18397299/
+Source: ILAE Guidelines / Practice Guideline
+
+Although no randomized studies have demonstrated a positive impact of therapeutic drug monitoring (TDM) on clinical outcome in epilepsy, evidence from nonrandomized studies and everyday clinical experience does indicate that measuring serum concentrations of old and new generation antiepileptic drugs (AEDs) can have a valuable role in guiding patient management provided that concentrations are measured with a clear indication and are interpreted critically, taking into account the whole clinical context. Situations in which AED measurements are most likely to be of benefit include (1) when a person has attained the desired clinical outcome, to establish an individual therapeutic concentration which can be used at subsequent times to assess potential causes for a change in drug response; (2) as an aid in the diagnosis of clinical toxicity; (3) to assess compliance, particularly in patients with uncontrolled seizures or breakthrough seizures; (4) to guide dosage adjustment in situations associated with increased pharmacokinetic variability (e.g., children, the elderly, patients with associated diseases, drug formulation changes); (5) when a potentially important pharmacokinetic change is anticipated (e.g., in pregnancy, or when an interacting drug is added or removed); (6) to guide dose adjustments for AEDs with dose-dependent pharmacokinetics, particularly phenytoin.

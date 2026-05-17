@@ -1,0 +1,9 @@
+PMID: 40963013
+Title: CRISPR activation for SCN2A-related neurodevelopmental disorders.
+Authors: Serena Tamura, Andrew D Nelson, Perry W E Spratt, Elizabeth C Hamada, Xujia Zhou
+Journal: Nature
+Year: 2025
+MeSH Terms: Animals, Mice, NAV1.2 Voltage-Gated Sodium Channel, Humans, Neurodevelopmental Disorders, Haploinsufficiency, Dependovirus, Male, Female, CRISPR-Cas Systems
+
+Abstract:
+Most neurodevelopmental disorders with single gene diagnoses act via haploinsufficiency, in which only one of the two gene copies is functional

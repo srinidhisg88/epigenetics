@@ -1,0 +1,9 @@
+PMID: 29303961
+Title: Individualizing Treatment Approaches for Epileptic Patients with Glucose Transporter Type1 (GLUT-1) Deficiency.
+Authors: Armond Daci, Adnan Bozalija, Fisnik Jashari, Shaip Krasniqi
+Journal: International journal of molecular sciences
+Year: 2018
+MeSH Terms: Anticonvulsants, Epilepsy, Genetic Testing, Glucose Transporter Type 1, Humans, Pharmacogenetics, Precision Medicine
+
+Abstract:
+Monogenic and polygenic mutations are important contributors in patients suffering from epilepsy, including metabolic epilepsies which are inborn errors of metabolism with a good respond to specific dietetic treatments. Heterozygous variation in solute carrier family 2, facilitated glucose transporter member 1 (SLC2A1) and mutations of the GLUT1/SLC2A2 gene results in the failure of glucose transport, which is related with a glucose type-1 transporter (GLUT1) deficiency syndrome (GLUT1DS). GLUT1 deficiency syndrome is a treatable disorder of glucose transport into the brain caused by a variety of mutations in the SLC2A1 gene which are the cause of different neurological disorders also with different types of epilepsy and related clinical phenotypes. Since patients continue to experience seizures due to a pharmacoresistance, an early clinical diagnosis associated with specific genetic testing in SLC2A1 pathogenic variants in clinical phenotypes could predict pure drug response and might improve safety and efficacy of treatment with the initiation of an alternative energy source including ketogenic or analog diets in such patients providing individualized strategy approaches.

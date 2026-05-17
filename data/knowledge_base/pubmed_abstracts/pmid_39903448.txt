@@ -1,0 +1,9 @@
+PMID: 39903448
+Title: An overview of the value of mTOR inhibitors to the treatment of epilepsy: the evidence to date.
+Authors: Patrick B Moloney, Norman Delanty
+Journal: Expert review of neurotherapeutics
+Year: 2025
+MeSH Terms: 
+
+Abstract:
+INTRODUCTION: Dysregulated mechanistic target of rapamycin (mTOR) activity is implicated in seizure development in epilepsies caused by variants in mTOR pathway genes. Sirolimus and everolimus, allosteric mTOR inhibitors, are widely used in transplant medicine and oncology. Everolimus is approved for treating seizures in tuberous sclerosis complex (TSC), the prototype mTORopathy. Emerging evidence suggests that mTOR inhibitors could also be effective in other mTORopathies, such as DEPDC5-related epilepsy and focal cortical dysplasia type 2 (FCD2). AREAS COVERED: This narrative review summarizes key regulatory proteins in the mTOR cascade and outlines epilepsy syndromes linked to variants in genes encoding these proteins, particularly TSC, GATOR1-related epilepsies, and FCD2. It discusses the clinical pharmacology of mTOR inhibitors and the evidence supporting their efficacy as antiseizure medications (ASM) in mTORopathies. Lastly, potential benefits of next-generation mTOR inhibitors for CNS indications are evaluated. EXPERT OPINION: The therapeutic benefits of mTOR inhibitors in TSC are well-established, but their value in other mTORopathies remains uncertain. Despite targeting the underlying disease biology, their efficacy in TSC is not significantly different from other ASM, likely due in part to pharmacokinetic constraints. Next-generation mTOR inhibitors that address these limitations may offer improved response rates, but they are in the preclinical development phase.

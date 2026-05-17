@@ -1,0 +1,9 @@
+PMID: 31707987
+Title: Pathophysiology of and therapeutic options for a GABRA1 variant linked to epileptic encephalopathy.
+Authors: Yun-Fei Bai, Michelle Chiu, Elizabeth S Chan, Peter Axerio-Cilies, Jie Lu
+Journal: Molecular brain
+Year: 2019
+MeSH Terms: Amino Acid Sequence, Child, Chloride Channels, Diazepam, Electroencephalography, Epilepsy, Female, Genotype, HEK293 Cells, Humans
+
+Abstract:
+We report the identification of a de novo GABRA1 (R214C) variant in a child with epileptic encephalopathy (EE), describe its functional characterization and pathophysiology, and evaluate its potential therapeutic options. The GABRA1 (R214C) variant was identified using whole exome sequencing, and the pathogenic effect of this mutation was investigated by comparing wild-type (WT) α1 and R214C α1 GABA

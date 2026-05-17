@@ -1,0 +1,9 @@
+PMID: 32848094
+Title: Antisense oligonucleotides increase 
+Authors: Zhou Han, Chunling Chen, Anne Christiansen, Sophina Ji, Qian Lin
+Journal: Science translational medicine
+Year: 2020
+MeSH Terms: Animals, Epilepsies, Myoclonic, Incidence, Mice, Mice, Inbred C57BL, NAV1.1 Voltage-Gated Sodium Channel, Oligonucleotides, Antisense, Seizures, Sudden Unexpected Death in Epilepsy
+
+Abstract:
+Dravet syndrome (DS) is an intractable developmental and epileptic encephalopathy caused largely by de novo variants in the 

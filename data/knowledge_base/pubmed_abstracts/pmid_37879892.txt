@@ -1,0 +1,9 @@
+PMID: 37879892
+Title: Further characterisation of 
+Authors: Mathilde Gras, Solveig Heide, Boris Keren, Stéphanie Valence, Catherine Garel
+Journal: Journal of medical genetics
+Year: 2024
+MeSH Terms: Male, Humans, Female, Genes, Homeobox, Homeodomain Proteins, Autism Spectrum Disorder, Mutation, Transcription Factors, Intellectual Disability, Phenotype
+
+Abstract:
+The Aristaless-related homeobox (

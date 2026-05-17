@@ -1,0 +1,9 @@
+PMID: 26549780
+Title: Comorbidities of epilepsy: current concepts and future perspectives.
+Authors: Mark R Keezer, Sanjay M Sisodiya, Josemir W Sander
+Journal: The Lancet. Neurology
+Year: 2016
+MeSH Terms: Comorbidity, Epilepsy, Forecasting, Humans, Mental Disorders, Migraine Disorders, Risk Factors
+
+Abstract:
+The burden of comorbidity in people with epilepsy is high. Several diseases, including depression, anxiety, dementia, migraine, heart disease, peptic ulcers, and arthritis are up to eight times more common in people with epilepsy than in the general population. Several mechanisms explain how epilepsy and comorbidities are associated, including shared risk factors and bidirectional relations. There is a pressing need for new and validated screening instruments and guidelines to help with the early detection and treatment of comorbid conditions. Preliminary evidence suggests that some conditions, such as depression and migraine, negatively affect seizure outcome and quality of life. Further investigation is needed to explore these relations and the effects of targeted interventions. Future advances in the investigation of the comorbidities of epilepsy will strengthen our understanding of epilepsy and could play an important part in stratification for genetic studies.

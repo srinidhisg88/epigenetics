@@ -1,0 +1,9 @@
+PMID: 18242854
+Title: Mutation of sodium channel SCN3A in a patient with cryptogenic pediatric partial epilepsy.
+Authors: Katherine D Holland, Jennifer A Kearney, Tracy A Glauser, Gerri Buck, Mehdi Keddache
+Journal: Neuroscience letters
+Year: 2008
+MeSH Terms: Age Factors, Amino Acid Substitution, Anticonvulsants, Brain, Brain Chemistry, Cell Line, Child, Preschool, Cohort Studies, Conserved Sequence, DNA Mutational Analysis
+
+Abstract:
+Mutations in the sodium channel genes SCN1A and SCN2A have been identified in monogenic childhood epilepsies, but SCN3A has not previously been investigated as a candidate gene for epilepsy. We screened a consecutive cohort of 18 children with cryptogenic partial epilepsy that was classified as pharmacoresistant because of nonresponse to carbamazepine or oxcarbazepine, antiepileptic drugs that bind sodium channels. The novel coding variant SCN3A-K354Q was identified in one patient and was not present in 295 neurological normal controls. Twelve novel SNPs were also detected. K354Q substitutes glutamine for an evolutionarily conserved lysine residue in the pore domain of SCN3A. Functional analysis of this mutation in the backbone of the closely related gene SCN5A demonstrated an increase in persistent current that is similar in magnitude to epileptogenic mutations of SCN1A and SCN2A. This observation of a potentially pathogenic mutation of SCN3A (Nav1.3) indicates that this gene should be further evaluated for its contribution to childhood epilepsy.

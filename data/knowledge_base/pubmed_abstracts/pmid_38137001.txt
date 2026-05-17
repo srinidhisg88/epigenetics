@@ -1,0 +1,9 @@
+PMID: 38137001
+Title: None
+Authors: Alexander Freibauer, Mikayla Wohlleben, Cyrus Boelman
+Journal: Genes
+Year: 2023
+MeSH Terms: Animals, Epilepsy, Genetic Testing, Intellectual Disability, Munc18 Proteins, Mutation, Humans
+
+Abstract:
+In recent years, the affordability and availability of genetic testing have led to its increased use in clinical care. The increased frequency of testing has led to 

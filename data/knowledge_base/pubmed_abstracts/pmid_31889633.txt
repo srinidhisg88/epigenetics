@@ -1,0 +1,9 @@
+PMID: 31889633
+Title: Recent advances in treatment of epilepsy-related sodium channelopathies.
+Authors: Elisa Musto, Elena Gardella, Rikke S Møller
+Journal: European journal of paediatric neurology : EJPN : official journal of the European Paediatric Neurology Society
+Year: 2020
+MeSH Terms: Channelopathies, Epilepsy, Humans, Voltage-Gated Sodium Channels
+
+Abstract:
+Voltage-gated sodium channels (VGSCs) play a crucial role in generation of action potentials. Pathogenic variants in the five human brain expressed VGSC genes, SCN1A, SCN2A, SCN3A, SCN8A and SCN1B have been associated with a spectrum of epilepsy phenotypes and neurodevelopmental disorders. In the last decade, next generation sequencing techniques have revolutionized the way we diagnose these channelopathies, which is paving the way towards precision medicine. Knowing the functional effect (Loss-of-function versus Gain-of-function) of a variant is not only important for understanding the underlying pathophysiology, but it is particularly crucial to orient therapeutic decisions. Here we provide a review of the literature dealing with treatment options in epilepsy-related sodium channelopathies, including the current and emerging medications.

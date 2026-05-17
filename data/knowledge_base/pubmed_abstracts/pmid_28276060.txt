@@ -1,0 +1,8 @@
+Title: Operational classification of seizure types by the International League Against Epilepsy: Position Paper of the ILAE Commission for Classification and Terminology.
+Journal: Epilepsia
+Year: 2017
+PMID: 28276060
+URL: https://pubmed.ncbi.nlm.nih.gov/28276060/
+Source: ILAE Guidelines / Practice Guideline
+
+The International League Against Epilepsy (ILAE) presents a revised operational classification of seizure types. The purpose of such a revision is to recognize that some seizure types can have either a focal or generalized onset, to allow classification when the onset is unobserved, to include some missing seizure types, and to adopt more transparent names. Because current knowledge is insufficient to form a scientifically based classification, the 2017 Classification is operational (practical) and based on the 1981 Classification, extended in 2010. Changes include the following: (1) "partial" becomes "focal"; (2) awareness is used as a classifier of focal seizures; (3) the terms dyscognitive, simple partial, complex partial, psychic, and secondarily generalized are eliminated; (4) new focal seizure types include automatisms, behavior arrest, hyperkinetic, autonomic, cognitive, and emotional; (5) atonic, clonic, epileptic spasms, myoclonic, and tonic seizures can be of either focal or generalized onset; (6) focal to bilateral tonic-clonic seizure replaces secondarily generalized seizure; (7) new generalized seizure types are absence with eyelid myoclonia, myoclonic absence, myoclonic-atonic, myoclonic-tonic-clonic; and (8) seizures of unknown onset may have features that can still be classified. The new classification does not represent a fundamental change, but allows greater flexibility and transparency in naming seizure types.

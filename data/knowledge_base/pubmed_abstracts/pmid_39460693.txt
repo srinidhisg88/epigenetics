@@ -1,0 +1,9 @@
+PMID: 39460693
+Title: Somatic variant analysis of resected brain tissue in epilepsy surgery patients.
+Authors: Maurits W C B Sanders, Bobby P C Koeleman, Eva H Brilstra, Floor E Jansen, Sara Baldassari
+Journal: Epilepsia
+Year: 2024
+MeSH Terms: Humans, Male, Female, Epilepsy, Adolescent, Brain, Adult, Malformations of Cortical Development, Child, Young Adult
+
+Abstract:
+We studied the distribution of germline and somatic variants in epilepsy surgery patients with (suspected) malformations of cortical development (MCD) who underwent surgery between 2015 and 2020 at University Medical Center Utrecht (the Netherlands) and pooled our data with four previously published cohort studies. Tissue analysis yielded a pathogenic variant in 203 of 663 (31%) combined cases. In 126 of 379 (33%) focal cortical dysplasia (FCD) type II cases and 23 of 37 (62%) hemimegalencephaly cases, a pathogenic variant was identified, mostly involving the mTOR signaling pathway. Pathogenic variants in 10 focal epilepsy genes were found in 48 of 178 (27%) FCDI/mild MCD/mMCD with oligodendroglial hyperplasia and epilepsy cases; 36 of these (75%) were SLC35A2 variants. Six of 69 (9%) patients without a histopathological lesion had a pathogenic variant in SLC35A2 (n = 5) or DEPDC5 (n = 1). A germline variant in blood DNA was confirmed in all cases with a pathogenic variant in tissue, with a variant allele frequency (VAF) of ~50%. In seven of 114 patients (6%) with a somatic variant in tissue, mosaicism in blood was detected. More than half of pathogenic somatic variants had a VAF < 5%. Further analysis of the correlation between genetic variants and surgical outcomes will improve patient counseling and may guide postoperative treatment decisions.

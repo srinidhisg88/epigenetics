@@ -1,0 +1,9 @@
+PMID: 40121854
+Title: Novel epilepsy phenotype associated with a pathogenic GABRG2 variant.
+Authors: Raid Hommady, Vivek Pai, Fay Zhai, Ashish R Deshwar, Robyn Whitney
+Journal: Seizure
+Year: 2025
+MeSH Terms: Humans, Male, Epilepsy, Phenotype, Receptors, GABA-A, Adolescent
+
+Abstract:
+None.

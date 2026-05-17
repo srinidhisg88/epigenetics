@@ -1,0 +1,9 @@
+PMID: 29691040
+Title: Progress in Understanding and Treating SCN2A-Mediated Disorders.
+Authors: Stephan J Sanders, Arthur J Campbell, Jeffrey R Cottrell, Rikke S Moller, Florence F Wagner
+Journal: Trends in neurosciences
+Year: 2018
+MeSH Terms: Animals, Humans, NAV1.2 Voltage-Gated Sodium Channel, Neurodevelopmental Disorders
+
+Abstract:
+Advances in gene discovery for neurodevelopmental disorders have identified SCN2A dysfunction as a leading cause of infantile seizures, autism spectrum disorder, and intellectual disability. SCN2A encodes the neuronal sodium channel Na

@@ -1,0 +1,9 @@
+PMID: 31904119
+Title: Dravet syndrome: Treatment options and management of prolonged seizures.
+Authors: J Helen Cross, Roberto H Caraballo, Rima Nabbout, Federico Vigevano, Renzo Guerrini
+Journal: Epilepsia
+Year: 2019
+MeSH Terms: Anticonvulsants, Diet, Ketogenic, Dioxolanes, Epilepsies, Myoclonic, Humans, Seizures, Valproic Acid
+
+Abstract:
+Over time, with careful delineation of Dravet syndrome, we have gained experience in treatments most likely to lead to improvement in seizures, as well as those that should be avoided. Sodium valproate, clobazam, stiripentol, and topiramate are all medications that may lead to benefit, as well as the ketogenic diet. Bromides may be utilized in resistant cases. However, equally important are outlining prompt rescue treatment for prolonged seizures and avoidance of precipitants. Newer agents including cannabidiol and fenfluramine have been demonstrated to be of benefit in clinical trials. We propose an algorithm for management, but appreciate that the positioning of newer agents is yet to be established.

@@ -1,0 +1,9 @@
+PMID: 39602259
+Title: Constitutive opening of the Kv7.2 pore activation gate causes 
+Authors: Mario Nappi, Giulio Alberini, Alessandro Berselli, Agnese Roscioni, Maria Virginia Soldovieri
+Journal: Proceedings of the National Academy of Sciences of the United States of America
+Year: 2024
+MeSH Terms: KCNQ2 Potassium Channel, Humans, Ion Channel Gating, Molecular Dynamics Simulation, KCNQ3 Potassium Channel, Brain Diseases, Animals, Male, Female, Mutation
+
+Abstract:
+Pathogenic variants in 

@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #94a3b8;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #64748b;
+}
+
+/* Color-coded highlighting for clinical terms */
+.med {
+  background-color: #dbeafe; /* blue-100 */
+  color: #1e40af; /* blue-800 */
+  padding: 0 4px;
+  border-radius: 3px;
+  font-weight: 500;
+}
+
+.warn {
+  background-color: #fee2e2; /* red-100 */
+  color: #991b1b; /* red-800 */
+  padding: 0 4px;
+  border-radius: 3px;
+  font-weight: 600;
+}
+
+.gene {
+  background-color: #dcfce7; /* green-100 */
+  color: #166534; /* green-800 */
+  padding: 0 4px;
+  border-radius: 3px;
+  font-weight: 500;
+}
+
+.syndrome {
+  background-color: #ede9fe; /* purple-100 */
+  color: #5b21b6; /* purple-800 */
+  padding: 0 4px;
+  border-radius: 3px;
+  font-weight: 600;
+}
+
+.symptom {
+  background-color: #fef3c7; /* amber-100 */
+  color: #92400e; /* amber-800 */
+  padding: 0 4px;
+  border-radius: 3px;
+  font-weight: 500;
+}

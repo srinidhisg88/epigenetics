@@ -1,0 +1,9 @@
+PMID: 23664828
+Title: Microdeletion syndromes.
+Authors: Gemma L Carvill, Heather C Mefford
+Journal: Current opinion in genetics & development
+Year: 2013
+MeSH Terms: Autistic Disorder, Epilepsy, Gene Deletion, Gene Duplication, Genetic Diseases, Inborn, Genetic Heterogeneity, Humans, Intellectual Disability, Phenotype, Polymorphism, Single Nucleotide
+
+Abstract:
+The recent explosion in the implementation of genome-wide microarray technology to discover rare, pathogenic genomic rearrangements in a variety of diseases has led to the discovery of numerous microdeletion syndromes. It is now clear that these microdeletions are associated with extensive phenotypic heterogeneity and incomplete penetrance. A subset of recurrent microdeletions underpin diverse phenotypes, including intellectual disability, autism, epilepsy and neuropsychiatric disorders. Recent studies highlight a role for additional low frequency variants, or 'second hits' to account for this variability. The implementation of massively parallel sequencing and epigenetic models may provide a powerful prospective approach to the delineation of microdeletion syndrome phenotypes.

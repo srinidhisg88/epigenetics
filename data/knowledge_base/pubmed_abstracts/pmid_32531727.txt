@@ -1,0 +1,9 @@
+PMID: 32531727
+Title: Dental health in persons with disability.
+Authors: Orrin Devinsky, Danielle Boyce, Miriam Robbins, Mariel Pressler
+Journal: Epilepsy & behavior : E&B
+Year: 2020
+MeSH Terms: Appointments and Schedules, Caregivers, Dental Health Services, Persons with Disabilities, Epilepsy, Health Services Accessibility, Humans, Oral Hygiene, Patient Advocacy
+
+Abstract:
+Systemic and structural barriers limit dental health for individuals with special healthcare needs (SHCN), who have poorer dental hygiene, higher rates of dental disorders, and less access to oral care. We aimed to understand these barriers directly from the patient and caregiver population as well as review the literature on oral health of individuals with SHCN. We reviewed the literature on individuals and caregivers of those with SHCN to identify barriers to dental healthcare faced by these individuals. We focused on clinical and educational interventions to support clinicians treating this population. For the literature review, PubMed, Google, and Google Scholar were searched. We also relied upon the knowledge gained during the course of routine clinical care and patient advocacy activities. Published manuscripts were searched for the following Medical Subject Heading (MeSH) term: "Dental Care for Disabled" and the following subheading: pharmacology, adverse effects, ethics, methods, standards, and therapy. Relatively few dentists have formal training on caring for those with SHCN. Barriers faced by these individuals include accessibility, comorbidities, communication challenges, and barriers to home oral hygiene. Strong care coordination and communication between dentists, caregivers, and other providers is essential for positive outcomes. Our current dental healthcare system has failed to meet the needs of those with SHCN. The comfort and dignity of the patient are of paramount importance.

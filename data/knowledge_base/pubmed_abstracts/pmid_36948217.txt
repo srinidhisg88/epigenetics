@@ -1,0 +1,9 @@
+PMID: 36948217
+Title: KCNQ2-Related Epilepsy: Genotype-Phenotype Relationship with Tailored Antiseizure Medication (ASM)-A Systematic Review.
+Authors: Raffaele Falsaperla, Roberta Criscione, Carla Cimino, Francesco Pisani, Martino Ruggieri
+Journal: Neuropediatrics
+Year: 2023
+MeSH Terms: Child, Infant, Newborn, Humans, Retrospective Studies, KCNQ2 Potassium Channel, Epilepsy, Benign Neonatal, Mutation, Seizures, Phenotype, Genotype
+
+Abstract:
+BACKGROUND: Autosomal dominant mutations of the  METHODS: We searched on PubMed using the search terms " RESULTS: In all, 104 patients were classified as DEE and 90 as BFNS. After treatment began, 95% of BFNS patients became seizure free, whereas the seizures stopped only in 73% of those with DEE. Phenobarbital and sodium channel blockers were the most used treatment in BFNS. Most of the DEE patients (95%) needed polytherapy for seizure control and even that did not prevent subsequent developmental impairment (77%).Missense mutations were discovered in 96% of DEE patients; these were less common in BFNS (50%), followed by large deletion (16%), truncation (16%), splice donor site (10%), and frameshift (7%). CONCLUSION: Phenobarbital or carbamazepine appears to be the most effective antiseizure medication for children with a "benign" variant. On the contrary, polytherapy is often needed for DEE patients, even if it does not seem to improve neurological outcomes. In DEE patients, most mutations were located in S4 and S6 helix, which could serve as a potential target for the development of more specific treatment in the future.

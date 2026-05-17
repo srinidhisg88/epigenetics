@@ -1,0 +1,9 @@
+PMID: 34353676
+Title: SCN8A Epilepsy, Developmental Encephalopathy, and Related Disorders.
+Authors: Dinesh Talwar, Michael F Hammer
+Journal: Pediatric neurology
+Year: 2021
+MeSH Terms: Child, Congresses as Topic, Epilepsy, Gain of Function Mutation, Humans, Loss of Function Mutation, NAV1.6 Voltage-Gated Sodium Channel
+
+Abstract:
+Understanding the precise genetic -basis of disease is one of the critical developments in medicine in the twenty-first century. Genetic testing has revolutionized the diagnosis and treatment of neurological diseases in children. Whole-genome and whole-exome sequencing have particularly been useful in understanding the genetic basis of childhood epileptic encephalopathies characterized by early-onset seizures with significant developmental impairment and regression. In this review we describe the identification of a new epileptic encephalopathy caused by a de novo mutation in the SCN8A gene, which encodes for Na

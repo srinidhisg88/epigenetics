@@ -1,0 +1,9 @@
+PMID: 30680869
+Title: A case of early-onset epileptic encephalopathy with a homozygous TBC1D24 variant caused by uniparental isodisomy.
+Authors: Mitsuko Nakashima, Yutaka Negishi, Ikumi Hori, Ayako Hattori, Shinji Saitoh
+Journal: American journal of medical genetics. Part A
+Year: 2019
+MeSH Terms: Exome, Female, GTPase-Activating Proteins, Homozygote, Humans, Infant, Mutation, Prognosis, Spasms, Infantile, Uniparental Disomy
+
+Abstract:
+TBC1D24-related disorders are rare neurodevelopmental disorders that show a broad range of neuropsychiatric deficits and are mostly inherited in an autosomal recessive manner. Here we describe a case with early-onset epileptic encephalopathy, in whom exome sequencing detected a novel pathogenic homozygous c.442G>A, p.(Glu148Lys) variant in TBC1D24. She showed severe developmental delay, congenital sensorineural hearing loss and seizures, but the combination of a high dose phenobarbital and potassium bromide was very effective for the seizures. Sanger sequencing revealed that her mother was a heterozygous carrier of the TBC1D24 variant, but her father showed only wild-type alleles. Homozygosity mapping analysis using exome data showed loss of the heterozygosity region at 16p13.3-p13.13 encompassing TBC1D24. Genotyping analysis using rare variants within loss of the heterozygosity region indicated that the patient has a homozygous haplotype inherited from her mother, indicating maternal segmental uniparental isodisomy (UPiD). These data clearly show that exome sequencing is a powerful tool to perform comprehensive genetic analysis.

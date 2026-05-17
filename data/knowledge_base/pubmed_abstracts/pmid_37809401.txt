@@ -1,0 +1,9 @@
+PMID: 37809401
+Title: Pathogenic variants of human GABRA1 gene associated with epilepsy: A computational approach.
+Authors: Ayla Arslan
+Journal: Heliyon
+Year: 2023
+MeSH Terms: 
+
+Abstract:
+Critical for brain development, neurodevelopmental and network disorders, the GABRA1 gene encodes for the α1 subunit, an abundantly and developmentally expressed subunit of heteropentameric gamma-aminobutyric acid A receptors (GABA

@@ -1,0 +1,9 @@
+PMID: 34679360
+Title: Neonatal Seizures: An Overview of Genetic Causes and Treatment Options.
+Authors: Giulia Spoto, Maria Concetta Saia, Greta Amore, Eloisa Gitto, Giuseppe Loddo
+Journal: Brain sciences
+Year: 2021
+MeSH Terms: 
+
+Abstract:
+Seizures are the most frequent neurological clinical symptoms of the central nervous system (CNS) during the neonatal period. Neonatal seizures may be ascribed to an acute event or symptomatic conditions determined by genetic, metabolic or structural causes, outlining the so-called 'Neonatal Epilepsies'. To date, three main groups of neonatal epilepsies are recognised during the neonatal period: benign familial neonatal epilepsy (BFNE), early myoclonic encephalopathy (EME) and 'Ohtahara syndrome' (OS). Recent advances showed the role of several genes in the pathogenesis of these conditions, such as 

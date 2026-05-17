@@ -1,0 +1,9 @@
+PMID: 35393962
+Title: Genetic Epilepsy Syndromes.
+Authors: Kenneth A Myers
+Journal: Continuum (Minneapolis, Minn.)
+Year: 2022
+MeSH Terms: Child, Electroencephalography, Epilepsies, Partial, Epilepsy, Epileptic Syndromes, Humans, Infant, Newborn, Prognosis
+
+Abstract:
+PURPOSE OF REVIEW: This article reviews the clinical features, typical EEG findings, treatment, prognosis, and underlying molecular etiologies of the more common genetic epilepsy syndromes. Genetic generalized epilepsy, self-limited focal epilepsy of childhood, self-limited neonatal and infantile epilepsy, select developmental and epileptic encephalopathies, progressive myoclonus epilepsies, sleep-related hypermotor epilepsy, photosensitive occipital lobe epilepsy, and focal epilepsy with auditory features are discussed. Also reviewed are two familial epilepsy syndromes: genetic epilepsy with febrile seizures plus and familial focal epilepsy with variable foci. RECENT FINDINGS: Recent years have seen considerable advances in our understanding of the genetic factors underlying genetic epilepsy syndromes. New therapies are emerging for some of these conditions; in some cases, these precision medicine approaches may dramatically improve the prognosis. SUMMARY: Many recognizable genetic epilepsy syndromes exist, the identification of which is a crucial skill for neurologists, particularly those who work with children. Proper diagnosis of the electroclinical syndrome allows for appropriate treatment choices and counseling regarding prognosis and possible comorbidities.

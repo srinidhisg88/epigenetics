@@ -1,0 +1,9 @@
+PMID: 35809380
+Title: MECP2 Dysautonomia Phenotypes in Boys.
+Authors: Lisa Courgeon, Kévin Uguen, Jérémie Lefranc, Gaetan Lesca, Juliette Ropars
+Journal: Pediatric neurology
+Year: 2022
+MeSH Terms: Adolescent, Brain Diseases, Child, Humans, Intellectual Disability, Male, Methyl-CpG-Binding Protein 2, Mutation, Phenotype, Primary Dysautonomias
+
+Abstract:
+BACKGROUND: Recognizing and identifying dysautonomia would facilitate the diagnosis and management of MECP2 mutations in boys. We aimed to explore the prevalence of dysautonomia symptoms in boys with MECP2 mutations. METHOD: We conducted a national, retrospective study (2000-2020) of medical records from boys who were aged less than 18 years when diagnosed with a pathogenic, or likely pathogenic, variant in the MECP2 gene. We systematically looked for dysautonomic signs in the cardiovascular, respiratory, gastrointestinal, and thermoregulatory systems. RESULTS: Nine of the 13 cases had at least one system affected by dysautonomia. Two patient subgroups were identified: (1) patients who were ambulatory with intellectual or learning disabilities (n = 6/13 cases) and (2) patients who were unable to walk normally with severe encephalopathy (n = 7/13 cases). Dysautonomic signs were found in both subgroups: 7 of seven patients in the severe array subgroup and 2 of six in the mild array subgroup. CONCLUSIONS: These results support MECP2 testing and dysautonomia investigations in both young males who present with encephalopathy and those with intellectual disabilities.

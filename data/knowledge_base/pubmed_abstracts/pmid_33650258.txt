@@ -1,0 +1,9 @@
+PMID: 33650258
+Title: Analysis of GABRG2 C588T polymorphism in genetic epilepsy and evaluation of GABRG2 in drug treatment.
+Authors: Shitao Wang, Xianjun Zhang, Liang Zhou, Qian Wu, Yanbing Han
+Journal: Clinical and translational science
+Year: 2021
+MeSH Terms: Alleles, Anticonvulsants, Asian People, Brain, Case-Control Studies, Epilepsy, Generalized, Genetic Association Studies, Genetic Predisposition to Disease, Humans, Polymorphism, Single Nucleotide
+
+Abstract:
+Epilepsy is a common disorder with complex inheritance, and its treatment is very unsatisfactory. An association between the GABRG2 C588T polymorphism and genetic generalized epilepsy has been studied by several genetic association studies. However, these results were inconsistent, and the role of GABRG2 in epilepsy treatment remains unknown. To evaluate the role of GABRG2 in epilepsy, we performed meta-analysis, expression quantitative trait loci analysis, protein-protein interaction analysis, and drug-gene interaction analysis. The combined results indicated that the GABRG2 C588T polymorphism was associated with genetic generalized epilepsy risk under dominant and allelic models (odds ratio [OR] = 1.25, 95% confidence interval [CI] = 1.02-1.54, p = 0.03, I

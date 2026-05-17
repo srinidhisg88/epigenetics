@@ -1,0 +1,9 @@
+PMID: 29594870
+Title: Treatment Strategies for Dravet Syndrome.
+Authors: Kelly G Knupp, Elaine C Wirrell
+Journal: CNS drugs
+Year: 2018
+MeSH Terms: Animals, Epilepsies, Myoclonic, Humans
+
+Abstract:
+Dravet syndrome (DS) is a medically refractory epilepsy that onsets in the first year of life with prolonged seizures, often triggered by fever. Over time, patients develop other seizure types (myoclonic, atypical absences, drops), intellectual disability, crouch gait and other co-morbidities (sleep problems, autonomic dysfunction). Complete seizure control is generally not achievable with current therapies, and the goals of treatment are to balance reduction of seizure burden with adverse effects of therapies. Treatment of co-morbidities must also be addressed, as they have a significant impact on the quality of life of patients with DS. Seizures are typically worsened with sodium-channel agents. Accepted first-line agents include clobazam and valproic acid, although these rarely provide adequate seizure control. Benefit has also been noted with stiripentol, topiramate, levetiracetam, the ketogenic diet and vagal nerve stimulation. Several agents presently in development, specifically fenfluramine and cannabidiol, have shown efficacy in clinical trials. Status epilepticus is a recurring problem for patients with DS, particularly in their early childhood years. All patients should be prescribed a home rescue therapy (usually a benzodiazepine) but should also have a written seizure action plan that outlines when rescue should be given and further steps to take in the local hospital if the seizure persists despite home rescue therapy.

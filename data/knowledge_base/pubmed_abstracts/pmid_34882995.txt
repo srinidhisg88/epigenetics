@@ -1,0 +1,9 @@
+PMID: 34882995
+Title: Guidance on Dravet syndrome from infant to adult care: Road map for treatment planning in Europe.
+Authors: Elena Cardenal-Muñoz, Stéphane Auvin, Vicente Villanueva, J Helen Cross, Sameer M Zuberi
+Journal: Epilepsia open
+Year: 2022
+MeSH Terms: Adult, Epilepsies, Myoclonic, Epilepsy, Epileptic Syndromes, Europe, Humans, Infant, Spasms, Infantile
+
+Abstract:
+Dravet syndrome (DS) is a severe, rare, and complex developmental and epileptic encephalopathy affecting 1 in 16 000 live births and characterized by a drug-resistant epilepsy, cognitive, psychomotor, and language impairment, and behavioral disorders. Evidence suggests that optimal treatment of seizures in DS may improve outcomes, even though neurodevelopmental impairments are the likely result of both the underlying genetic variant and the epilepsy. We present an updated guideline for DS diagnosis and treatment, taking into consideration care of the adult patient and nonpharmaceutical therapeutic options for this disease. This up-to-date guideline, which is based on an extensive review of the literature and culminates with a new treatment algorithm for DS, is a European consensus developed through a survey involving 29 European clinical experts in DS. This guideline will serve professionals in their clinical practice and, as a consequence, will benefit DS patients and their families.

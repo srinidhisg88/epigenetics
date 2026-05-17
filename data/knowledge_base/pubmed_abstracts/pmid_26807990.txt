@@ -1,0 +1,9 @@
+PMID: 26807990
+Title: Rett syndrome: An autoimmune disease?
+Authors: Claudio De Felice, Silvia Leoncini, Cinzia Signorini, Alessio Cortelazzo, Paolo Rovero
+Journal: Autoimmunity reviews
+Year: 2016
+MeSH Terms: Animals, Autoimmune Diseases, Glycosylation, Humans, Immunoglobulin M, Inflammation, Oxidative Stress, Rett Syndrome
+
+Abstract:
+Rett syndrome (RTT) is a devastating neurodevelopmental disease, previously included into the autistic spectrum disorders, affecting almost exclusively females (frequency 1:10,000). RTT leads to intellective deficit, purposeful hands use loss and late major motor impairment besides featuring breathing disorders, epilepsy and increased risk of sudden death. The condition is caused in up to 95% of the cases by mutations in the X-linked methyl-CpG binding protein 2 (MECP2) gene. Our group has shown a number of previously unrecognized features, such as systemic redox imbalance, chronic inflammatory status, respiratory bronchiolitis-associated interstitial lung disease-like lung disease, and erythrocyte morphology changes. While evidence on an intimate involvement of MeCP2 in the immune response is cumulating, we have recently shown a cytokine dysregulation in RTT. Increasing evidence on the relationship between MeCP2 and an immune dysfunction is reported, with, apparently, a link between MECP2 gene polymorphisms and autoimmune diseases, including primary Sjögren's syndrome, systemic lupus erythematosus, rheumatoid arthritis, and systemic sclerosis. Antineuronal (i.e., brain proteins) antibodies have been shown in RTT. Recently, high levels of anti-N-glucosylation (N-Glc) IgM serum autoantibodies [i.e., anti-CSF114(N-Glc) IgMs] have been detected by our group in a statistically significant number of RTT patients. In the current review, the Authors explore the current evidence, either in favor or against, the presence of an autoimmune component in RTT.

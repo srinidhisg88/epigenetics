@@ -1,0 +1,9 @@
+PMID: 28548558
+Title: The role of genetic testing in epilepsy diagnosis and management.
+Authors: Yvonne G Weber, Saskia Biskup, Katherine L Helbig, Sarah Von Spiczak, Holger Lerche
+Journal: Expert review of molecular diagnostics
+Year: 2017
+MeSH Terms: Epilepsy, Genetic Testing, Humans
+
+Abstract:
+Epilepsy is a common neurological disorder characterized by recurrent unprovoked seizures. More than 500 epilepsy-associated genes have been described in the literature. Most of these genes play an important role in neuronal excitability, cortical development or synaptic transmission. A growing number of genetic variations have implications on diagnosis and prognostic or therapeutic advice in terms of a personalized medicine. Area covered: The review presents the different forms of genetic epilepsies with respect to their underlying genetic and functional pathophysiology and aims to give advice for recommended genetic testing. Moreover, it discusses ethical and legal guidelines, costs and technical limitations which should be considered. Expert commentary: Genetic testing is an important component in the diagnosis and treatment of many forms of epilepsy.

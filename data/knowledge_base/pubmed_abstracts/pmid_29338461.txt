@@ -1,0 +1,9 @@
+PMID: 29338461
+Title: mTOR dysregulation and tuberous sclerosis-related epilepsy.
+Authors: Paolo Curatolo, Romina Moavero, Jackelien van Scheppingen, Eleonora Aronica
+Journal: Expert review of neurotherapeutics
+Year: 2018
+MeSH Terms: Animals, Anticonvulsants, Epilepsy, Humans, Signal Transduction, TOR Serine-Threonine Kinases, Tuberous Sclerosis
+
+Abstract:
+The mammalian target of rapamycin (mTOR) pathway has emerged as a key player for proper neural network development, and it is involved in epileptogenesis triggered by both genetic or acquired factors. Areas covered. The robust mTOR signaling deregulation observed in a large spectrum of epileptogenic developmental pathologies, such as focal cortical dysplasias and tuberous sclerosis complex (TSC), has been linked to germline and somatic mutations in mTOR pathway regulatory genes, increasing the spectrum of 'mTORopathies'. The significant advances in the field of TSC allowed for the validation of emerging hypotheses on the mechanisms of epileptogenesis and the identification of potential new targets of therapy. Recently, a double-blind phase III randomized clinical trial on patients with TSC related epilepsy, demonstrated that adjunctive treatment with mTOR inhibition is effective and safe in reducing focal drug resistant seizures. Expert commentary. mTOR signaling dysregulation represents a common pathogenic mechanism in a subset of malformations of cortical development, sharing histopathological and clinical features, including epilepsy, autism, and intellectual disability. EXIST-3 trial provided the first evaluation of the optimal dosage, conferring a higher chance of reducing seizure frequency and severity, with adverse events being similar to what observed with lower dosages.

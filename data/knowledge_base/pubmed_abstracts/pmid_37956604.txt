@@ -1,0 +1,9 @@
+PMID: 37956604
+Title: Epilepsy surgery as a treatment option for select patients with PCDH19-related epilepsy.
+Authors: Roxanne Simmons, Nilika Singhal, Joseph Sullivan, Tina Shih, Tarik Tihan
+Journal: Epilepsy & behavior : E&B
+Year: 2023
+MeSH Terms: Humans, Cadherins, Protocadherins, Epilepsy, Seizures, Retrospective Studies, Seizures, Febrile
+
+Abstract:
+PCDH19 is a common epilepsy gene causing medication resistant epilepsy with fever-related seizures. Traditionally, patients with PCDH19-related epilepsy have not been considered surgical candidates. This retrospective review evaluated three patients with pathogenic variants in PCDH19 who presented with seizures in childhood, had one seizure semiology, became medication resistant, and had concordant imaging, seizure semiology and electrographic findings. All three patients ultimately underwent temporal lobectomy, resulting in seizure freedom. These findings suggest epilepsy surgery can be an effective treatment option for select patients with PCDH19-related epilepsy and a single seizure semiology.

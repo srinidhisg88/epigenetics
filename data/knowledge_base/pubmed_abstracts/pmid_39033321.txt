@@ -1,0 +1,9 @@
+PMID: 39033321
+Title: Preclinical studies of gene replacement therapy for CDKL5 deficiency disorder.
+Authors: Gregory Voronin, Jana Narasimhan, Jamila Gittens, Josephine Sheedy, Philip Lipari
+Journal: Molecular therapy : the journal of the American Society of Gene Therapy
+Year: 2024
+MeSH Terms: Animals, Humans, Male, Mice, Brain, Dependovirus, Disease Models, Animal, Epileptic Syndromes, Gene Expression, Genetic Therapy
+
+Abstract:
+Cyclin-dependent kinase-like 5 (CDKL5) deficiency disorder (CDD) is a rare neurodevelopmental disorder caused by a mutation in the X-linked CDKL5 gene. CDKL5 is a serine/threonine kinase that is critical for axon outgrowth and dendritic morphogenesis as well as synapse formation, maturation, and maintenance. This disorder is characterized by early-onset epilepsy, hypotonia, and failure to reach cognitive and motor developmental milestones. Because the disease is monogenic, delivery of the CDKL5 gene to the brain of patients should provide clinical benefit. To this end, we designed a gene therapy vector, adeno-associated virus (AAV)9.Syn.hCDKL5, in which human CDKL5 gene expression is driven by the synapsin promoter. In biodistribution studies conducted in mice, intracerebroventricular (i.c.v.) injection resulted in broader, more optimal biodistribution than did intra-cisterna magna (i.c.m.) delivery. AAV9.Syn.hCDKL5 treatment increased phosphorylation of EB2, a bona fide CDKL5 substrate, demonstrating biological activity in vivo. Our data provide proof of concept that i.c.v. delivery of AAV9.Syn.hCDKL5 to neonatal male Cdkl5 knockout mice reduces pathology and reduces aberrant behavior. Functional improvements were seen at doses of 3e11 to 5e11 vector genomes/g brain, which resulted in transfection of ≥50% of the neurons. Functional improvements were not seen at lower doses, suggesting a requirement for broad distribution for efficacy.

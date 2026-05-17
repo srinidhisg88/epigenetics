@@ -1,0 +1,9 @@
+PMID: 39642202
+Title: Understanding paralogous epilepsy-associated GABA
+Authors: Anthony S H Kan, Ali S Kusay, Nazanin A Mohammadi, Susan X N Lin, Vivian W Y Liao
+Journal: Proceedings of the National Academy of Sciences of the United States of America
+Year: 2024
+MeSH Terms: Receptors, GABA-A, Humans, Epilepsy, Female, Male, Mutation, Missense, Molecular Dynamics Simulation, Child, Infant, Child, Preschool
+
+Abstract:
+Recent discoveries have revealed that genetic variants in γ-aminobutyric acid type A (GABA

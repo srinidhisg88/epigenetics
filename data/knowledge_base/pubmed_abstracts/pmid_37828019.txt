@@ -1,0 +1,9 @@
+PMID: 37828019
+Title: Astrocytes in human central nervous system diseases: a frontier for new therapies.
+Authors: Alexei Verkhratsky, Arthur Butt, Baoman Li, Peter Illes, Robert Zorec
+Journal: Signal transduction and targeted therapy
+Year: 2023
+MeSH Terms: Humans, Astrocytes, Central Nervous System Diseases, Homeostasis, Stroke
+
+Abstract:
+Astroglia are a broad class of neural parenchymal cells primarily dedicated to homoeostasis and defence of the central nervous system (CNS). Astroglia contribute to the pathophysiology of all neurological and neuropsychiatric disorders in ways that can be either beneficial or detrimental to disorder outcome. Pathophysiological changes in astroglia can be primary or secondary and can result in gain or loss of functions. Astroglia respond to external, non-cell autonomous signals associated with any form of CNS pathology by undergoing complex and variable changes in their structure, molecular expression, and function. In addition, internally driven, cell autonomous changes of astroglial innate properties can lead to CNS pathologies. Astroglial pathophysiology is complex, with different pathophysiological cell states and cell phenotypes that are context-specific and vary with disorder, disorder-stage, comorbidities, age, and sex. Here, we classify astroglial pathophysiology into (i) reactive astrogliosis, (ii) astroglial atrophy with loss of function, (iii) astroglial degeneration and death, and (iv) astrocytopathies characterised by aberrant forms that drive disease. We review astroglial pathophysiology across the spectrum of human CNS diseases and disorders, including neurotrauma, stroke, neuroinfection, autoimmune attack and epilepsy, as well as neurodevelopmental, neurodegenerative, metabolic and neuropsychiatric disorders. Characterising cellular and molecular mechanisms of astroglial pathophysiology represents a new frontier to identify novel therapeutic strategies.

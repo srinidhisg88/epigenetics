@@ -1,0 +1,9 @@
+PMID: 35718920
+Title: Molecular and clinical descriptions of patients with GABA
+Authors: Pierre-Yves Maillard, Sarah Baer, Élise Schaefer, Béatrice Desnous, Nathalie Villeneuve
+Journal: Epilepsia
+Year: 2022
+MeSH Terms: Cohort Studies, Epilepsy, Epilepsy, Generalized, Genetic Association Studies, Humans, Mutation, Phenotype, Receptors, GABA-A, gamma-Aminobutyric Acid
+
+Abstract:
+OBJECTIVE: γ-Aminobutyric acid (GABA) METHODS: We collected clinical, electrophysiological, therapeutic, and molecular data from patients with GABA RESULTS: We gathered the reported patients in three epileptic phenotypes: 15 patients with fever-related epilepsy (40%), 11 with early developmental epileptic encephalopathy (30%), 10 with generalized epilepsy spectrum (27%), and 1 patient without seizures (3%). We did not find a specific phenotype for any gene, but we showed that the location of variants on the transmembrane (TM) segment was associated with a more severe phenotype, irrespective of the GABA SIGNIFICANCE: GABA

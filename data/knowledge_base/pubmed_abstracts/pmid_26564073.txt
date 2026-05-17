@@ -1,0 +1,9 @@
+PMID: 26564073
+Title: Tuberous sclerosis complex.
+Authors: Monica P Islam, E Steve Roach
+Journal: Handbook of clinical neurology
+Year: 2015
+MeSH Terms: Brain, Female, History, 19th Century, Humans, Male, Mouth Diseases, Mutation, Skin, TOR Serine-Threonine Kinases, Tuberous Sclerosis
+
+Abstract:
+Tuberous sclerosis complex (TSC) is a neurocutaneous syndrome that can affect the brain, skin, eyes, kidneys, heart, and lungs. TSC alters cellular proliferation and differentiation, resulting in hamartomas of various organs, tumor formation, and altered neuronal migration. The phenotype is highly variable. Most individuals have seizures, commonly including infantile spasms, and there is variable intellectual disability and autism. Neonates can present with cardiac failure due to intracardiac rhabdomyomas. The likelihood of renal angiomyolipomas increases with age, and renal disease is the most common cause of death in adults with TSC. Pulmonary involvement occurs predominantly in women and carries a high morbidity and mortality. TSC is inherited as an autosomal dominant trait, but spontaneous mutations are common. A mutation of either TSC1 on chromosome 9 or TSC2 on chromosome 16 leads to dysfunction of hamartin or tuberin, respectively. These two proteins form a functional complex that modulates the mammalian target of rapamycin (mTOR) pathway. Medications that inhibit mTOR are being used to treat TSC-related tumors, and current studies are investigating whether these agents could alleviate other TSC complications. Consensus statements guide identification and optimal management of many of the TSC-related complications at diagnosis and throughout the lifespan. A multidisciplinary approach is necessary for optimal management of individuals with TSC.

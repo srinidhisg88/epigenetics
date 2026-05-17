@@ -1,0 +1,41 @@
+{
+  "date_created": "2025-11-07 02:45:47",
+  "clinvar_source": "https://ftp.ncbi.nlm.nih.gov/pub/clinvar/",
+  "omim_source": "https://www.omim.org/static/omim/data/mim2gene.txt",
+  "epilepsy_genes": [
+    "SCN1A",
+    "SCN2A",
+    "SCN8A",
+    "SCN3A",
+    "SCN9A",
+    "CDKL5",
+    "STXBP1",
+    "KCNQ2",
+    "KCNQ3",
+    "PCDH19",
+    "CHD2",
+    "GABRA1",
+    "GABRG2",
+    "SLC2A1",
+    "DEPDC5",
+    "NPRL3",
+    "TSC1",
+    "TSC2",
+    "MECP2",
+    "FOXG1",
+    "ARX",
+    "SLC6A1",
+    "ALDH7A1",
+    "PLCB1",
+    "PRRT2",
+    "TBC1D24"
+  ],
+  "total_variants": 113317,
+  "train_size": 36626,
+  "val_size": 7848,
+  "test_size": 7849,
+  "class_balance": {
+    "pathogenic": 19165,
+    "benign": 33158
+  }
+}

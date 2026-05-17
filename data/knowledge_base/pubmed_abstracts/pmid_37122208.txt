@@ -1,0 +1,9 @@
+PMID: 37122208
+Title: None
+Authors: Carol Ann Remme
+Journal: Philosophical transactions of the Royal Society of London. Series B, Biological sciences
+Year: 2023
+MeSH Terms: Humans, Channelopathies, Arrhythmias, Cardiac, NAV1.5 Voltage-Gated Sodium Channel, Mutation, Cardiomyopathies, Epilepsy
+
+Abstract:
+Influx of sodium ions through voltage-gated sodium channels in cardiomyocytes is essential for proper electrical conduction within the heart. Both acquired conditions associated with sodium channel dysfunction (myocardial ischaemia, heart failure) as well as inherited disorders secondary to mutations in the gene 

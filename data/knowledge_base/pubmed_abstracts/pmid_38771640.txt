@@ -1,0 +1,9 @@
+PMID: 38771640
+Title: Molecular and cellular context influences SCN8A variant function.
+Authors: Carlos G Vanoye, Tatiana V Abramova, Jean-Marc DeKeyser, Nora F Ghabra, Madeleine J Oudin
+Journal: JCI insight
+Year: 2024
+MeSH Terms: NAV1.6 Voltage-Gated Sodium Channel, Humans, Protein Isoforms, Alternative Splicing, Tetrodotoxin, Neurons, Patch-Clamp Techniques, Mutation, Cell Line, Animals
+
+Abstract:
+Pathogenic variants in SCN8A, which encodes the voltage-gated sodium (NaV) channel NaV1.6, associate with neurodevelopmental disorders, including developmental and epileptic encephalopathy. Previous approaches to determine SCN8A variant function may be confounded by use of a neonatally expressed, alternatively spliced isoform of NaV1.6 (NaV1.6N) and engineered mutations rendering the channel tetrodotoxin (TTX) resistant. We investigated the impact of SCN8A alternative splicing on variant function by comparing the functional attributes of 15 variants expressed in 2 developmentally regulated splice isoforms (NaV1.6N, NaV1.6A). We employed automated patch clamp recording to enhance throughput, and developed a neuronal cell line (ND7/LoNav) with low levels of endogenous NaV current to obviate the need for TTX-resistance mutations. Expression of NaV1.6N or NaV1.6A in ND7/LoNav cells generated NaV currents with small, but significant, differences in voltage dependence of activation and inactivation. TTX-resistant versions of both isoforms exhibited significant functional differences compared with the corresponding WT channels. We demonstrated that many of the 15 disease-associated variants studied exhibited isoform-dependent functional effects, and that many of the studied SCN8A variants exhibited functional properties that were not easily classified as either gain- or loss-of-function. Our work illustrates the value of considering molecular and cellular context when investigating SCN8A variants.

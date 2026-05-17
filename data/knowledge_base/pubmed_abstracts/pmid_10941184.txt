@@ -1,0 +1,9 @@
+PMID: 10941184
+Title: KCNQ2/KCNQ3 K+ channels and the molecular pathogenesis of epilepsy: implications for therapy.
+Authors: M A Rogawski
+Journal: Trends in neurosciences
+Year: 2000
+MeSH Terms: Amino Acid Sequence, Anticonvulsants, Epilepsy, Humans, KCNQ2 Potassium Channel, KCNQ3 Potassium Channel, Molecular Sequence Data, Mutation, Potassium Channels, Potassium Channels, Voltage-Gated
+
+Abstract:
+In 1998, the discovery of two novel genes KCNQ2 and KCNQ3, mutated in a rare inherited form of epilepsy known as benign familial neonatal convulsions, for the first time enabled insight into the molecular etiology of a human idiopathic generalized epilepsy syndrome. These disease genes encode subunits of neuronal M-type K+ channels, key regulators of brain excitability. Analogies between benign familial neonatal convulsions and other channelopathies of skeletal and cardiac muscle, including periodic paralysis, myotonia and the long QT syndrome, provide clues about the nature of epilepsy-susceptibility genes and about the fundamental basis of epilepsy as an episodic disorder. It now appears that the KCNQ2/KCNQ3 K+ channels that are mutated in benign familial neonatal convulsions represent an important new target for anti-epileptic drugs. In the future, the identification of ion channel defects as predisposing factors in the common epilepsies could herald a new era of genotype-specific therapies.

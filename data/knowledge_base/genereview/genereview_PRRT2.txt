@@ -1,0 +1,38 @@
+Gene: PRRT2
+PMID: 25194488
+Source: PubMed Clinical Review
+URL: https://pubmed.ncbi.nlm.nih.gov/25194488/
+
+=== CLINICAL CONTENT ===
+
+1. Prog Brain Res. 2014;213:141-58. doi: 10.1016/B978-0-444-63326-2.00008-9.
+
+PRRT2: a major cause of infantile epilepsy and other paroxysmal disorders of 
+childhood.
+
+Nobile C(1), Striano P(2).
+
+Author information:
+(1)CNR-Neuroscience Institute, Section of Padua, Viale G, Colombo, Padova, 
+Italy. Electronic address: nobile@bio.unipd.it.
+(2)Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, 
+Maternal and Child Health, University of Genoa, "G. Gaslini" Institute, Genova, 
+Italy.
+
+In the past 2 years, mutations in the PRRT2 gene have been identified in 
+patients and families with a variety of early-onset paroxysmal disorders, 
+including various paroxysmal dyskinesias, benign familial infantile seizures, 
+hemiplegic migraine, and episodic ataxia. In this chapter, we describe the wide 
+clinical spectrum associated with PRRT2 mutations and present the current 
+hypotheses on the underlying pathophysiology. Through its interaction with the 
+presynaptic plasma membrane protein SNAP25, the PRRT2 protein may play a role in 
+synaptic regulation in the cortex and basal ganglia. PRRT2 mutations likely have 
+a loss-of-function effect and result in synaptic deregulation and neuronal 
+hyperexcitability. The molecular bases underlying phenotypic variability are 
+still unclear. Elucidating the molecular pathways linking the genetic defect to 
+its clinical expression will improve treatment of these disorders.
+
+© 2014 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/B978-0-444-63326-2.00008-9
+PMID: 25194488 [Indexed for MEDLINE]

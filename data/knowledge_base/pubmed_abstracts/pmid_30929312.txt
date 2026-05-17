@@ -1,0 +1,9 @@
+PMID: 30929312
+Title: Epilepsy and genetic in Rett syndrome: A review.
+Authors: Francesca Felicia Operto, Roberta Mazza, Grazia Maria Giovanna Pastorino, Alberto Verrotti, Giangennaro Coppola
+Journal: Brain and behavior
+Year: 2019
+MeSH Terms: Epilepsy, Forkhead Transcription Factors, Genetic Association Studies, Genetic Predisposition to Disease, Humans, Methyl-CpG-Binding Protein 2, Mutation, Nerve Tissue Proteins, Protein Serine-Threonine Kinases, Rett Syndrome
+
+Abstract:
+INTRODUCTION: Rett syndrome (RTT) is a severe X-linked neurodevelopmental disorder that primarily affects girls, with an incidence of 1:10,000-20,000. The diagnosis is based on clinical features: an initial period of apparently normal development (ages 6-12 months) followed by a rapid decline with regression of acquired motor skills, loss of spoken language and purposeful hand use, onset of hand stereotypes, abnormal gait, and growth failure. The course of the disease, in its classical form, is characterized by four stages. Three different atypical variants of the disease have been defined. Epilepsy has been reported in 60%-80% of patients with RTT; it differs among the various phenotypes and genotypes and its severity is an important contributor to the clinical severity of the disease. METHODS: In this manuscript we reviewed literature on RTT, focusing on the different genetic entities, the correlation genotype-phenotype, and the peculiar epileptic phenotype associated to each of them. RESULTS: Mutations in MECP2 gene, located on Xq28, account for 95% of typical RTT cases and 73.2% of atypical RTT. CDKL5 and FOXG1 are other genes identified as causative genes in atypical forms of RTT. In the last few years, a lot of new genes have been identified as causative genes for RTT phenotype. CONCLUSIONS: Recognizing clinical and EEG patterns in different RTT variants may be useful in diagnosis and management of these patients.

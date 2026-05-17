@@ -1,0 +1,9 @@
+PMID: 40174488
+Title: Tuberous Sclerosis Complex: An updated in the treatment of epilepsy for early careers.
+Authors: Kette D Valente, Leticia Brito Sampaio, Silvia Vincentiis, Anna Lecticia R Pinto, Maria Augusta Montenegro
+Journal: Epilepsy & behavior : E&B
+Year: 2025
+MeSH Terms: Humans, Tuberous Sclerosis, Epilepsy, Anticonvulsants, Diet, Ketogenic
+
+Abstract:
+Tuberous Sclerosis Complex (TSC) is a rare autosomal dominant disorder that is characterized by multisystem involvement and significant neurological manifestations. TSC1 and TSC2 pathogenic variants lead to hyperactivation of the mammalian target of rapamycin (mTOR) pathway, which disrupts cellular growth and differentiation. Epilepsy, affecting 85-90% of individuals with TSC, often presents within the first year of life and is commonly resistant to conventional therapies. This paper provides a comprehensive overview of the diagnostic criteria, pathophysiology, and current treatment strategies for TSC-associated epilepsy, including pharmacological approaches such as vigabatrin, cannabidiol, and mTOR inhibitors, as well as non-pharmacological interventions such as ketogenic diet and epilepsy surgery. Preventive strategies, highlighted by robust trials, delay seizure onset and reduce its severity but have a limited impact on neurodevelopmental outcomes. Challenges include the heterogeneity of cortical tubers, suboptimal seizure control with existing therapies, and underutilization of neuropsychiatric care for TSC-associated neuropsychiatric disorders. Advances in biomarkers, precision medicine, and surgical techniques have paved the way for personalized treatment approaches. Future research providing earlier detection strategies and integrating therapies targeting both the neurological and behavioral dimensions of TSC is ongoing. By addressing these needs, clinicians and researchers can enhance the quality of life and developmental outcomes of individuals with TSC.

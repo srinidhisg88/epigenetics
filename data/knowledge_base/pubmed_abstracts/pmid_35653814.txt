@@ -1,0 +1,9 @@
+PMID: 35653814
+Title: Genetic therapeutic advancements for Dravet Syndrome.
+Authors: Ellie Chilcott, Juan Antinao Díaz, Cori Bertram, Margherita Berti, Rajvinder Karda
+Journal: Epilepsy & behavior : E&B
+Year: 2022
+MeSH Terms: Epilepsies, Myoclonic, Epilepsy, Epileptic Syndromes, Humans, Mutation, NAV1.1 Voltage-Gated Sodium Channel, Seizures, Spasms, Infantile
+
+Abstract:
+Dravet Syndrome is a genetic epileptic syndrome characterized by severe and intractable seizures associated with cognitive, motor, and behavioral impairments. The disease is also linked with increased mortality mainly due to sudden unexpected death in epilepsy. Over 80% of cases are due to a de novo mutation in one allele of the SCN1A gene, which encodes the α-subunit of the voltage-gated ion channel Na

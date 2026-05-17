@@ -1,0 +1,9 @@
+PMID: 29722352
+Title: Epilepsy.
+Authors: Orrin Devinsky, Annamaria Vezzani, Terence J O'Brien, Nathalie Jette, Ingrid E Scheffer
+Journal: Nature reviews. Disease primers
+Year: 2018
+MeSH Terms: Animals, Anticonvulsants, Disease Models, Animal, Electroencephalography, Epilepsy, Genetic Testing, Humans, Mass Screening, Neuroimaging, Quality of Life
+
+Abstract:
+Epilepsy affects all age groups and is one of the most common and most disabling neurological disorders. The accurate diagnosis of seizures is essential as some patients will be misdiagnosed with epilepsy, whereas others will receive an incorrect diagnosis. Indeed, errors in diagnosis are common, and many patients fail to receive the correct treatment, which often has severe consequences. Although many patients have seizure control using a single medication, others require multiple medications, resective surgery, neuromodulation devices or dietary therapies. In addition, one-third of patients will continue to have uncontrolled seizures. Epilepsy can substantially impair quality of life owing to seizures, comorbid mood and psychiatric disorders, cognitive deficits and adverse effects of medications. In addition, seizures can be fatal owing to direct effects on autonomic and arousal functions or owing to indirect effects such as drowning and other accidents. Deciphering the pathophysiology of epilepsy has advanced the understanding of the cellular and molecular events initiated by pathogenetic insults that transform normal circuits into epileptic circuits (epileptogenesis) and the mechanisms that generate seizures (ictogenesis). The discovery of >500 genes associated with epilepsy has led to new animal models, more precise diagnoses and, in some cases, targeted therapies.

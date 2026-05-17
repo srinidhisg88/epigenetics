@@ -1,0 +1,9 @@
+PMID: 23708187
+Title: Targeted resequencing in epileptic encephalopathies identifies de novo mutations in CHD2 and SYNGAP1.
+Authors: Gemma L Carvill, Sinéad B Heavin, Simone C Yendle, Jacinta M McMahon, Brian J O'Roak
+Journal: Nature genetics
+Year: 2013
+MeSH Terms: Adolescent, Adult, Child, Child, Preschool, Cohort Studies, DNA Mutational Analysis, DNA-Binding Proteins, Epilepsy, Female, Genetic Predisposition to Disease
+
+Abstract:
+Epileptic encephalopathies are a devastating group of epilepsies with poor prognosis, of which the majority are of unknown etiology. We perform targeted massively parallel resequencing of 19 known and 46 candidate genes for epileptic encephalopathy in 500 affected individuals (cases) to identify new genes involved and to investigate the phenotypic spectrum associated with mutations in known genes. Overall, we identified pathogenic mutations in 10% of our cohort. Six of the 46 candidate genes had 1 or more pathogenic variants, collectively accounting for 3% of our cohort. We show that de novo CHD2 and SYNGAP1 mutations are new causes of epileptic encephalopathies, accounting for 1.2% and 1% of cases, respectively. We also expand the phenotypic spectra explained by SCN1A, SCN2A and SCN8A mutations. To our knowledge, this is the largest cohort of cases with epileptic encephalopathies to undergo targeted resequencing. Implementation of this rapid and efficient method will change diagnosis and understanding of the molecular etiologies of these disorders.

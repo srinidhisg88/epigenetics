@@ -1,0 +1,9 @@
+PMID: 31324323
+Title: Genetics of neonatal-onset epilepsies.
+Authors: Marie-Coralie Cornet, Maria Roberta Cilio
+Journal: Handbook of clinical neurology
+Year: 2019
+MeSH Terms: Adult, Epilepsy, Female, Humans, Infant, Newborn, Infant, Newborn, Diseases, KCNQ2 Potassium Channel, Mutation, Nerve Tissue Proteins, Potassium Channels, Sodium-Activated
+
+Abstract:
+Although the majority of seizures in neonates are related to acute brain injury, a substantial minority are the first symptom of a neonatal-onset epilepsy often linked to a pathogenic genetic variant. Historically, studies on neonatal seizures including treatment response and long-term consequences have lumped all etiologies together. However, etiology has been consistently shown to be the most important determinant of outcome. In the past few years, an increasing number of monogenic disorders have been described and might explain up to a third of neonatal-onset epilepsy syndromes previously included under the umbrella of Ohtahara syndrome and early myoclonic encephalopathy. In this chapter, we define the concept of genetic epilepsy and review the classification. Then, we review the most relevant monogenic neonatal-onset epilepsies, detail their underlying pathophysiologic mechanisms, and present their electroclinical phenotypes. We highlight that, in some cases, such as neonates with KCNQ2 or KCNT1 gene mutations, the early recognition of the electroclinical phenotype can lead to targeted diagnostic testing and precision medicine treatment, enabling the possibility of improved outcome.

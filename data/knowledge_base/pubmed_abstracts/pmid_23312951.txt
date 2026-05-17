@@ -1,0 +1,9 @@
+PMID: 23312951
+Title: Basic mechanisms of catastrophic epilepsy -- overview from animal models.
+Authors: Aristea S Galanopoulou
+Journal: Brain & development
+Year: 2013
+MeSH Terms: Animals, Chronic Disease, Disease Models, Animal, Electroencephalography, Epilepsy, Humans, Phenotype
+
+Abstract:
+Infantile spasms are age-specific seizures of infantile epileptic encephalopathies that are usually associated with poor epilepsy and neurodevelopmental outcomes. The current treatments are not always effective and may be associated with significant side effects. Various mechanisms have been proposed as pathogenic for infantile spasms, including cortical or brainstem dysfunction, disruption of normal cortical-subcortical communications, genetic defects, inflammation, stress, developmental abnormalities. Many of these have been recently tested experimentally, resulting into the emergence of several animal models of infantile spasms. The stress theory of spasms yielded the corticotropin releasing hormone (CRH)-induced model, which showed the higher proconvulsant potency of CRH in developing rats, although only limbic seizures were observed. Models of acute induction of infantile spasms in rodents include the N-methyl-d-aspartate (NMDA) model of emprosthotonic seizures, the prenatal betamethasone and prenatal stress variants of the NMDA model, and the γ-butyrolactone induced spasms in a Down's syndrome mouse model. Chronic rodent models of infantile spasms include the tetrodotoxin model and the multiple-hit models in rats, as well as two genetic mouse models of interneuronopathies with infantile spasms due to loss of function of the aristaless X-linked homeobox-related gene (ARX). This review discusses the emerging mechanisms for generation of infantile spasms and their associated chronic epileptic and dyscognitive phenotype as well as the recent progress in identifying pathways to better treat this epileptic encephalopathy.

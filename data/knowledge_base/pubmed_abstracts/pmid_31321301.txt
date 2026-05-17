@@ -1,0 +1,9 @@
+PMID: 31321301
+Title: Human 
+Authors: Mangor Pedersen, Magdalena Kowalczyk, Amir Omidvarnia, Piero Perucca, Samuel Gooley
+Journal: Neurology. Genetics
+Year: 2019
+MeSH Terms: 
+
+Abstract:
+OBJECTIVE: To map functional MRI (fMRI) connectivity within and between the somatosensory cortex, putamen, and ventral thalamus in individuals from a family with a GABAergic deficit segregating with febrile seizures and genetic generalized epilepsy. METHODS: We studied 5 adults from a family with early-onset absence epilepsy and/or febrile seizures and a GABA RESULTS: We observed increased fMRI connectivity within the somatosensory cortex and between the putamen and ventral thalamus in all individuals with the  CONCLUSIONS: Although our sample size was small, this preliminary study suggests that individuals with a 

@@ -1,0 +1,9 @@
+PMID: 35892317
+Title: Genetic interaction between Scn8a and potassium channel genes Kcna1 and Kcnq2.
+Authors: Sophie F Hill, Julie M Ziobro, Paymaan Jafar-Nejad, Frank Rigo, Miriam H Meisler
+Journal: Epilepsia
+Year: 2022
+MeSH Terms: Animals, Epilepsy, KCNQ2 Potassium Channel, Kv1.1 Potassium Channel, Mice, Mutation, NAV1.6 Voltage-Gated Sodium Channel, Nerve Tissue Proteins, Oligonucleotides, Antisense
+
+Abstract:
+Voltage-gated sodium and potassium channels regulate the initiation and termination of neuronal action potentials. Gain-of-function mutations of sodium channel Scn8a and loss-of-function mutations of potassium channels Kcna1 and Kcnq2 increase neuronal activity and lead to seizure disorders. We tested the hypothesis that reducing the expression of Scn8a would compensate for loss-of-function mutations of Kcna1 or Kcnq2. Scn8a expression was reduced by the administration of an antisense oligonucleotide (ASO). This treatment lengthened the survival of the Kcn1a and Kcnq2 mutants, and reduced the seizure frequency in the Kcnq2 mutant mice. These observations suggest that reduction of SCN8A may be therapeutic for genetic epilepsies resulting from mutations in these potassium channel genes.

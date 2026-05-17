@@ -1,0 +1,9 @@
+PMID: 38607431
+Title: Channelopathies in epilepsy: an overview of clinical presentations, pathogenic mechanisms, and therapeutic insights.
+Authors: Andy Cheuk-Him Ng, Mohamed Chahine, Morris H Scantlebury, Juan P Appendino
+Journal: Journal of neurology
+Year: 2024
+MeSH Terms: Humans, Channelopathies, Epilepsy, Ion Channels, Anticonvulsants
+
+Abstract:
+Pathogenic variants in genes encoding ion channels are causal for various pediatric and adult neurological conditions. In particular, several epilepsy syndromes have been identified to be caused by specific channelopathies. These encompass a spectrum from self-limited epilepsies to developmental and epileptic encephalopathies spanning genetic and acquired causes. Several of these channelopathies have exquisite responses to specific antiseizure medications (ASMs), while others ASMs may prove ineffective or even worsen seizures. Some channelopathies demonstrate phenotypic pleiotropy and can cause other neurological conditions outside of epilepsy. This review aims to provide a comprehensive exploration of the pathophysiology of seizure generation, ion channels implicated in epilepsy, and several genetic epilepsies due to ion channel dysfunction. We outline the clinical presentation, pathogenesis, and the current state of basic science and clinical research for these channelopathies. In addition, we briefly look at potential precision therapy approaches emerging for these disorders.

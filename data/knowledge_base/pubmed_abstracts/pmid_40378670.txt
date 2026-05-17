@@ -1,0 +1,9 @@
+PMID: 40378670
+Title: European guidelines on diagnosis and treatment of phenylketonuria: First revision.
+Authors: A M J van Wegberg, A MacDonald, K Ahring, A Bélanger-Quintana, S Beblo
+Journal: Molecular genetics and metabolism
+Year: 2025
+MeSH Terms: Phenylketonurias, Humans, Europe, Phenylalanine, Phenylalanine Hydroxylase
+
+Abstract:
+Phenylketonuria (PKU) is an autosomal recessive inherited disorder of phenylalanine metabolism caused by deficiency of the enzyme phenylalanine hydroxylase that converts phenylalanine into tyrosine. Untreated, PKU results in elevated phenylalanine levels in blood and brain, which cause severe intellectual disability, epilepsy and behavioural problems. For this first revision of the European PKU Guidelines previous recommendations were re-evaluated and updated according to new research findings. Twenty-one professionals were divided across four working groups and supported by a coordinator and chair. In addition to an update of the previous 70 recommendations, 20 new topics were included, resulting in a total of 87 statements in this first revision of the guidelines. Research publications were reviewed up until September 2022. Evidence was graded as high, moderate, low, very low or expert opinion and the recommendations were graded conditional or strong according to GRADE methodology. All recommendations were discussed during 14 plenary online or in person meetings. Recommendations were accepted if more than 75 % of the professionals were in agreement. When recommendations were not amended, the text reported in the European guidelines of 2017 remains valid.

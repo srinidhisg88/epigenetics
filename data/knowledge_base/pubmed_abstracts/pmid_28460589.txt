@@ -1,0 +1,9 @@
+PMID: 28460589
+Title: Expanding the phenotypic spectrum of GABRG2 variants: a recurrent GABRG2 missense variant associated with a severe phenotype.
+Authors: Fanggeng Zou, Kirsty McWalter, Lindsay Schmidt, Amy Decker, Jonathan D Picker
+Journal: Journal of neurogenetics
+Year: 2017
+MeSH Terms: Abnormalities, Multiple, Adolescent, Child, Epilepsy, Female, Humans, Infant, Intellectual Disability, Male, Motor Disorders
+
+Abstract:
+Pathogenic missense and truncating variants in the GABRG2 gene cause a spectrum of epilepsies, from Dravet syndrome to milder simple febrile seizures. In most cases, pathogenic missense variants in the GABRG2 gene segregate with a febrile seizure phenotype. In this case series, we report a recurrent, de novo missense variant (c0.316 G > A; p.A106T) in the GABRG2 gene that was identified in five unrelated individuals. These patients were described to have a more severe phenotype than previously reported for GABRG2 missense variants. Common features include variable early-onset seizures, significant motor and speech delays, intellectual disability, hypotonia, movement disorder, dysmorphic features and vision/ocular issues. Our report further explores a recurrent pathogenic missense variant within the GABRG2 variant family and broadens the spectrum of associated phenotypes for GABRG2-associated disorders.

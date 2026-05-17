@@ -1,0 +1,9 @@
+PMID: 29061647
+Title: Pyridoxine-Dependent Epilepsy in Zebrafish Caused by Aldh7a1 Deficiency.
+Authors: Izabella A Pena, Yann Roussel, Kate Daniel, Kevin Mongeon, Devon Johnstone
+Journal: Genetics
+Year: 2017
+MeSH Terms: Aldehyde Dehydrogenase, Animals, Disease Models, Animal, Epilepsy, Gene Knockout Techniques, Humans, Lysine, Mutation, Pyridoxine, Seizures
+
+Abstract:
+Pyridoxine-dependent epilepsy (PDE) is a rare disease characterized by mutations in the lysine degradation gene 

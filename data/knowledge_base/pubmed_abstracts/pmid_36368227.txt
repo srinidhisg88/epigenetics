@@ -1,0 +1,9 @@
+PMID: 36368227
+Title: Dravet syndrome: Advances in etiology, clinical presentation, and treatment.
+Authors: Zimeng He, Yumei Li, Xiaoyu Zhao, Baomin Li
+Journal: Epilepsy research
+Year: 2022
+MeSH Terms: Quality of Life, Epilepsies, Myoclonic, NAV1.1 Voltage-Gated Sodium Channel, Humans, Piperidines, Pyridines, Spasms, Infantile, Epileptic Syndromes
+
+Abstract:
+Dravet syndrome (DS) is a form of genetic refractory epilepsy. More than 80 % of DS patients carry pathogenic SCN1A mutations, and this percentage is actually higher due to false-negative results in gene testing. Potential genotype-phenotype correlations may exist but require further confirmation. "SCN1A mutation-mediated dysfunction of NaV1.1 affects GABAergic inhibitory interneurons" is currently the most accepted pathogenesis. Besides SCN1A, there are other genes associated with DS-like phenotypes, among which GABA

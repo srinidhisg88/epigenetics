@@ -1,0 +1,9 @@
+PMID: 33279965
+Title: Developmental and epileptic encephalopathies: what we do and do not know.
+Authors: Nicola Specchio, Paolo Curatolo
+Journal: Brain : a journal of neurology
+Year: 2021
+MeSH Terms: Animals, Brain, Brain Diseases, Developmental Disabilities, Epilepsy, Humans, Neurons
+
+Abstract:
+Developmental encephalopathies, including intellectual disability and autistic spectrum disorder, are frequently associated with infant epilepsy. Epileptic encephalopathy is used to describe an assumed causal relationship between epilepsy and developmental delay. Developmental encephalopathies pathogenesis more independent from epilepsy is supported by the identification of several gene variants associated with both developmental encephalopathies and epilepsy, the possibility for gene-associated developmental encephalopathies without epilepsy, and the continued development of developmental encephalopathies even when seizures are controlled. Hence, 'developmental and epileptic encephalopathy' may be a more appropriate term than epileptic encephalopathy. This update considers the best studied 'developmental and epileptic encephalopathy' gene variants for illustrative support for 'developmental and epileptic encephalopathy' over epileptic encephalopathy. Moreover, the interaction between epilepsy and developmental encephalopathies is considered with respect to influence on treatment decisions. Continued research in genetic testing will increase access to clinical tests, earlier diagnosis, better application of current treatments, and potentially provide new molecular-investigated treatments.

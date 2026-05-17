@@ -1,0 +1,48 @@
+Gene: ARX
+PMID: 14631200
+Source: PubMed Clinical Review
+URL: https://pubmed.ncbi.nlm.nih.gov/14631200/
+
+=== CLINICAL CONTENT ===
+
+1. Curr Opin Pediatr. 2003 Dec;15(6):567-71. doi:
+10.1097/00008480-200312000-00004.
+
+The ARX story (epilepsy, mental retardation, autism, and cerebral 
+malformations): one gene leads to many phenotypes.
+
+Sherr EH(1).
+
+Author information:
+(1)Departments of Neurology and Pediatrics, University of California, San 
+Francisco, California 94143-0748, USA. esherr@itsa.ucsf.edu
+
+PURPOSE OF REVIEW: Infantile spasms, mental retardation, autism, and dystonia 
+represent disabling diseases for which little etiologic information is 
+available. Mutations in the Aristaless related homeobox gene (ARX) have been 
+found in patients with these conditions. This discovery provides important 
+genetic information and may ultimately offer treatment options for these 
+patients.
+RECENT FINDINGS: Recent work has demonstrated that mutations in ARX cause 
+X-linked West syndrome, X-linked myoclonic epilepsy with spasticity and 
+intellectual disability, Partington syndrome (mental retardation, ataxia, and 
+dystonia), as well as nonsyndromic forms of mental retardation. Patients with 
+these aforementioned diseases and ARX mutations were not reported to have brain 
+imaging abnormalities. In contrast, mutations in ARX mutations have also been 
+found in X-linked lissencephaly with abnormal genitalia, which typically 
+includes severe brain malformations (lissencephaly, agenesis of the corpus 
+callosum, and midbrain malformations), intractable seizures, and a severely 
+shortened lifespan. ARX knockout mice manifest defects in overall neuroblast 
+proliferation as well as selective abnormalities in gamma-aminobutyric 
+acid-ergic interneuron migration. Consistent with these findings in mice, 
+phenotype/genotype studies in humans suggest that truncating mutations cause 
+X-linked lissencephaly with abnormal genitalia, and insertion/missense mutations 
+result in epilepsy and mental retardation without cortical dysplasia.
+SUMMARY: Mutations in the homeobox gene, ARX, cause a diverse spectrum of 
+disease that includes cognitive impairment, epilepsy, and in another group of 
+patients severe cortical malformations. Although the precise prevalence of ARX 
+mutations is unclear, ARX may rival Fragile X as a cause of mental retardation 
+and epilepsy in males.
+
+DOI: 10.1097/00008480-200312000-00004
+PMID: 14631200 [Indexed for MEDLINE]

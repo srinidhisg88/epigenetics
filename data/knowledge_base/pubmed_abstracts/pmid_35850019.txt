@@ -1,0 +1,9 @@
+PMID: 35850019
+Title: Genetic variations in GABA metabolism and epilepsy.
+Authors: Yan Feng, Zi-Han Wei, Chao Liu, Guo-Yan Li, Xiao-Zhi Qiao
+Journal: Seizure
+Year: 2022
+MeSH Terms: 4-Aminobutyrate Transaminase, Aldehyde Dehydrogenase, Epilepsy, Humans, Mutation, Receptors, GABA, Receptors, GABA-A, Succinates, gamma-Aminobutyric Acid
+
+Abstract:
+Epilepsy is a paroxysmal brain disorder that results from an imbalance between neuronal excitation and inhibition. Gamma-aminobutyric acid (GABA) is the most important inhibitory neurotransmitter in the brain and plays an important role in the occurrence and development of epilepsy. Abnormalities in all aspects of GABA metabolism, including GABA synthesis, transport, genes encoding GABA receptors, and GABA inactivation, may lead to epilepsy. GABRA1, GABRA2, GABRA5, GABRB1, GABRB2, GABRB3, GABRG2 and GABBR2 are genes that encode GABA receptors and are commonly associated with epilepsy. Mutations of these genes lead to a variety of epilepsy syndromes with different clinical phenotypes, primarily by down regulating receptor expression and reducing the amplitude of GABA-evoked potentials. GABA is metabolized by GABA transaminase and succinate semi aldehyde dehydrogenase, which are encoded by the ABAT and ALDH5A1 genes, respectively. Mutations of these genes result in symptoms related to deficiency of GABA transaminase and succinate semi aldehyde dehydrogenase, such as epilepsy and cognitive impairment. Most of the variation in genes associated with GABA metabolism are accompanied by developmental disorders. This review focuses on advances in understanding the relationship between genetic variation in GABA metabolism and epilepsy to establish a basis for the accurate diagnosis and treatment of epilepsy.

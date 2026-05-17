@@ -1,0 +1,9 @@
+PMID: 37463203
+Title: MicroRNA-335-5p suppresses voltage-gated sodium channel expression and may be a target for seizure control.
+Authors: Mona Heiland, Niamh M C Connolly, Omar Mamad, Ngoc T Nguyen, Jaideep C Kesavan
+Journal: Proceedings of the National Academy of Sciences of the United States of America
+Year: 2023
+MeSH Terms: Humans, Mice, Rats, Animals, Induced Pluripotent Stem Cells, Seizures, Epilepsy, MicroRNAs, Voltage-Gated Sodium Channels, NAV1.1 Voltage-Gated Sodium Channel
+
+Abstract:
+There remains an urgent need for new therapies for treatment-resistant epilepsy. Sodium channel blockers are effective for seizure control in common forms of epilepsy, but loss of sodium channel function underlies some genetic forms of epilepsy. Approaches that provide bidirectional control of sodium channel expression are needed. MicroRNAs (miRNA) are small noncoding RNAs which negatively regulate gene expression. Here we show that genome-wide miRNA screening of hippocampal tissue from a rat epilepsy model, mice treated with the antiseizure medicine cannabidiol, and plasma from patients with treatment-resistant epilepsy, converge on a single target-miR-335-5p. Pathway analysis on predicted and validated miR-335-5p targets identified multiple voltage-gated sodium channels (VGSCs). Intracerebroventricular injection of antisense oligonucleotides against miR-335-5p resulted in upregulation of 

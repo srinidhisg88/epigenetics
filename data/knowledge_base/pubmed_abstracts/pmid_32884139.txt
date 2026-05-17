@@ -1,0 +1,9 @@
+PMID: 32884139
+Title: Molecular basis for ligand activation of the human KCNQ2 channel.
+Authors: Xiaoxiao Li, Qiansen Zhang, Peipei Guo, Jie Fu, Lianghe Mei
+Journal: Cell research
+Year: 2021
+MeSH Terms: Action Potentials, Benzamides, Binding Sites, Carbamates, Cryoelectron Microscopy, Humans, KCNQ2 Potassium Channel, Ligands, Molecular Dynamics Simulation, Mutagenesis
+
+Abstract:
+The voltage-gated potassium channel KCNQ2 is responsible for M-current in neurons and is an important drug target to treat epilepsy, pain and several other diseases related to neuronal hyper-excitability. A list of synthetic compounds have been developed to directly activate KCNQ2, yet our knowledge of their activation mechanism is limited, due to lack of high-resolution structures. Here, we report cryo-electron microscopy (cryo-EM) structures of the human KCNQ2 determined in apo state and in complex with two activators, ztz240 or retigabine, which activate KCNQ2 through different mechanisms. The activator-bound structures, along with electrophysiology analysis, reveal that ztz240 binds at the voltage-sensing domain and directly stabilizes it at the activated state, whereas retigabine binds at the pore domain and activates the channel by an allosteric modulation. By accurately defining ligand-binding sites, these KCNQ2 structures not only reveal different ligand recognition and activation mechanisms, but also provide a structural basis for drug optimization and design.

@@ -1,0 +1,9 @@
+PMID: 37152430
+Title: The 
+Authors: Kuan Fan, Yi Guo, Zhi Song, Lamei Yuan, Wen Zheng
+Journal: Frontiers in molecular neuroscience
+Year: 2023
+MeSH Terms: 
+
+Abstract:
+BACKGROUND: Tuberous sclerosis complex (TSC) is a genetic, variably expressed, multisystem disease characterized by benign tumors. It is caused by pathogenic variants of the TSC complex subunit 1 gene ( METHODS: A six-member, three-generation Han-Chinese family with TSC and three unrelated healthy women were recruited. A comprehensive medical examination, a 3-year follow-up, whole exome sequencing, Sanger sequencing, and segregation analysis were performed in the family. The splicing analysis results obtained from six  RESULTS: Two affected family members had variable clinical manifestations including a rare bilateral cerebellar ataxia symptom. The 3-year follow-up results suggest the effects of a combined treatment of anti-epilepsy drugs and sirolimus for TSC-related epilepsy and cognitive deficits. Whole exome sequencing, Sanger sequencing, segregation analysis, splicing analysis, and quantitative reverse transcription PCR identified the  CONCLUSIONS: This study identified a 

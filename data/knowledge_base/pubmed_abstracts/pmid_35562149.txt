@@ -1,0 +1,9 @@
+PMID: 35562149
+Title: Focal cortical dysplasia: Updates.
+Authors: Jorge Pinheiro, Mrinalini Honavar
+Journal: Indian journal of pathology & microbiology
+Year: 2022
+MeSH Terms: Adult, Child, Epilepsy, Humans, Malformations of Cortical Development, Mosaicism, Signal Transduction, TOR Serine-Threonine Kinases
+
+Abstract:
+Focal cortical dysplasias (FCDs) represent the third most frequent cause of drug-resistant focal epilepsy in adults (after hippocampal sclerosis and tumours) submitted to surgery, and the most common in the pediatric age group. The International League Against Epilepsy (ILAE) classification of focal cortical dysplasia is still a reference and consists of a three-tiered system: FCD type I refers to isolated abnormalities in cortical layering; FCD type II refers to cases with abnormalities in cortical architecture and dysmorphic neurons with or without balloon cells; and FCD type III refers to abnormalities in cortical layering associated with other lesions. Recent studies have demonstrated that somatic mutations occurring post-zygotically during embryonal development and leading to mosaicism, underlie most brain malformations. The molecular pathogenesis of FCD type II is associated with activation of the mTOR pathway. Pathogenic variants in this pathway are recognized in up to 63% of cases and may occur both through single activating variants in activators of the mTOR signaling pathway or double-hit inactivating variants in repressors of the signaling pathway. The newly described mild malformation of cortical development with oligodendroglial hyperplasia in epilepsy, has been found to show recurrent pathogenic variants in SLC35A2 with mosaicism. The present review describes the lesions of FCD and discusses the molecular pathogenesis and proposal for a revised classification.

@@ -1,0 +1,9 @@
+PMID: 36225112
+Title: Potassium channels and epilepsy.
+Authors: Kai Gao, Zehong Lin, Sijia Wen, Yuwu Jiang
+Journal: Acta neurologica Scandinavica
+Year: 2022
+MeSH Terms: Humans, Potassium Channels, KCNQ3 Potassium Channel, KCNQ2 Potassium Channel, Epilepsy, Mutation, Shaw Potassium Channels, Potassium Channels, Sodium-Activated, Nerve Tissue Proteins
+
+Abstract:
+With the development and application of next-generation sequencing technology, the aetiological diagnosis of genetic epilepsy is rapidly becoming easier and less expensive. Additionally, there is a growing body of research into precision therapy based on genetic diagnosis. The numerous genes in the potassium ion channel family constitute the largest family of ion channels: this family is divided into different subtypes. Potassium ion channels play a crucial role in the electrical activity of neurons and are directly involved in the mechanism of epileptic seizures. In China, scientific research on genetic diagnosis and studies of precision therapy for genetic epilepsy are progressing rapidly. Many cases of epilepsy caused by mutation of potassium channel genes have been identified, and several potassium channel gene targets and drug candidates have been discovered. The purpose of this review is to briefly summarize the progress of research on the precise diagnosis and treatment of potassium ion channel-related genetic epilepsy, especially the research conducted in China. Here in, we review several large cohort studies on the genetic diagnosis of epilepsy in China in recent years, summarized the proportion of potassium channel genes. We focus on the progress of precison therapy on some hot epilepsy related potassium channel genes: KCNA1, KCNA2, KCNB1, KCNC1, KCND2, KCNQ2, KCNQ3, KCNMA1, and KCNT1.

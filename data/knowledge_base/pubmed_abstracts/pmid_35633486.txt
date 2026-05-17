@@ -1,0 +1,9 @@
+PMID: 35633486
+Title: CDKL5 Deficiency Disorder-Related Epilepsy: A Review of Current and Emerging Treatment.
+Authors: William Hong, Isabel Haviland, Elia Pestana-Knight, Judith L Weisenberg, Scott Demarest
+Journal: CNS drugs
+Year: 2022
+MeSH Terms: Epilepsy, Epileptic Syndromes, Humans, Protein Serine-Threonine Kinases, Quality of Life, Seizures, Spasm, Spasms, Infantile
+
+Abstract:
+Cyclin-dependent kinase-like 5 (CDKL5) deficiency disorder (CDD) is a developmental and epileptic encephalopathy with infantile-onset epilepsy. Most individuals with CDD develop refractory epilepsy with multiple seizure types. Management of seizures in CDD remains challenging for clinicians given the highly refractory nature of seizures and the limited number of disease-specific studies that offer a high level of evidence. Epileptic spasms are the most common seizure type in CDD and are more often refractory to standard first-line treatment than are spasms of other etiologies. In other seizure types, the effectiveness of antiseizure medications is limited and wanes over time. Ketogenic diet and palliative surgical treatments have both had mixed results in observational studies. When treating refractory seizures in CDD, we recommend carefully balancing seizure control and treatment-related side effects to optimize each individual's overall quality of life. Clinical trials of medications targeting epilepsy in CDD have been conducted, and additional investigational small molecules, gene therapy, and other disease-modifying therapies are in development for CDD.

@@ -1,0 +1,9 @@
+PMID: 29778428
+Title: Status dystonicus due to missense variant in ARX: Diagnosis and management.
+Authors: Kathleen M Gorman, Heather Cary, Laura Gaffney, Eva Forman, Dympna Waldron
+Journal: European journal of paediatric neurology : EJPN : official journal of the European Paediatric Neurology Society
+Year: 2018
+MeSH Terms: Child, Preschool, Dystonic Disorders, Homeodomain Proteins, Humans, Male, Mutation, Missense, Spasms, Infantile, Transcription Factors
+
+Abstract:
+Movement disorders are increasingly identified in infantile encephalopathies due to single gene disorders (e.g. SCN2A, CDKL5, ARX). The associated movement disorder can be challenging to recognise and treat. We report a 2 year-old boy with a background history of Ohtahara syndrome due to a missense variant in ARX (the aristaless-related homeobox gene) who subsequently developed status dystonicus. ARX is a transcription factor that plays a critical role in cortical neuronal development and is associated with a range of important neurodevelopmental disorders depending on the site of the pathogenic variant. Cases of status dystonicus are described with variants affecting the polyalanine expansion region of ARX but have not been reported previously with variants affecting the aristaless domain of ARX as in this case. Dystonic episodes posed a challenge in recognition and treatment, including confusion with status epilepticus. We discuss the difficulties in diagnosis and management of status dystonicus, an underreported life-threatening emergency in children.

@@ -1,0 +1,9 @@
+PMID: 33841294
+Title: Voltage Gated Sodium Channel Genes in Epilepsy: Mutations, Functional Studies, and Treatment Dimensions.
+Authors: Ibitayo Abigail Ademuwagun, Solomon Oladapo Rotimi, Steffen Syrbe, Yvonne Ukamaka Ajamma, Ezekiel Adebiyi
+Journal: Frontiers in neurology
+Year: 2021
+MeSH Terms: 
+
+Abstract:
+Genetic epilepsy occurs as a result of mutations in either a single gene or an interplay of different genes. These mutations have been detected in ion channel and non-ion channel genes. A noteworthy class of ion channel genes are the voltage gated sodium channels (VGSCs) that play key roles in the depolarization phase of action potentials in neurons. Of huge significance are 

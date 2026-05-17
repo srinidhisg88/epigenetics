@@ -1,0 +1,9 @@
+PMID: 35881862
+Title: Gene Editing and Rett Syndrome: Does It Make the Cut?
+Authors: Bronte Coorey, Florencia Haase, Carolyn Ellaway, Angus Clarke, Leszek Lisowski
+Journal: The CRISPR journal
+Year: 2022
+MeSH Terms: Brain, CRISPR-Cas Systems, Gene Editing, Humans, Rett Syndrome
+
+Abstract:
+Rett syndrome (RTT) is a rare neurogenetic disorder caused by pathogenic variants of the Methyl CpG binding protein 2 (

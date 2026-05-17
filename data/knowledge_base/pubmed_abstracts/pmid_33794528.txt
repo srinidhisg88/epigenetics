@@ -1,0 +1,9 @@
+PMID: 33794528
+Title: Flexible Stoichiometry: Implications for KCNQ2- and KCNQ3-Associated Neurodevelopmental Disorders.
+Authors: Kristen Springer, Nissi Varghese, Anastasios V Tzingounis
+Journal: Developmental neuroscience
+Year: 2021
+MeSH Terms: Epilepsy, Epilepsy, Benign Neonatal, Humans, KCNQ2 Potassium Channel, KCNQ3 Potassium Channel, Neurodevelopmental Disorders
+
+Abstract:
+KCNQ2 and KCNQ3 pathogenic channel variants have been associated with a spectrum of developmentally regulated diseases that vary in age of onset, severity, and whether it is transient (i.e., benign familial neonatal seizures) or long-lasting (i.e., developmental and epileptic encephalopathy). KCNQ2 and KCNQ3 channels have also emerged as a target for novel antiepileptic drugs as their activation could reduce epileptic activity. Consequently, a great effort has taken place over the last 2 decades to understand the mechanisms that control the assembly, gating, and modulation of KCNQ2 and KCNQ3 channels. The current view that KCNQ2 and KCNQ3 channels assemble as heteromeric channels (KCNQ2/3) forms the basis of our understanding of KCNQ2 and KCNQ3 channelopathies and drug design. Here, we review the evidence that supports the formation of KCNQ2/3 heteromers in neurons. We also highlight functional and transcriptomic studies that suggest channel composition might not be necessarily fixed in the nervous system, but rather is dynamic and flexible, allowing some neurons to express KCNQ2 and KCNQ3 homomers. We propose that to fully understand KCNQ2 and KCNQ3 channelopathies, we need to adopt a more flexible view of KCNQ2 and KCNQ3 channel stoichiometry, which might differ across development, brain regions, cell types, and disease states.

@@ -1,0 +1,9 @@
+PMID: 36582431
+Title: Myoclonic-Atonic Epilepsy Caused by a Novel de Novo Heterozygous Missense Variant in the 
+Authors: Willem Verhoeven, José Zuijdam, Anneke Scheick, Frederiek van Nieuwenhuijsen, Anne-Suus Zwemer
+Journal: International medical case reports journal
+Year: 2022
+MeSH Terms: 
+
+Abstract:
+INTRODUCTION: Diagnostic exome sequencing has yielded over the past decades a great number of molecular diagnoses for genetic disorders in which both intellectual disability and epilepsy are present. One of these syndromes is myoclonic-atonic epilepsy (MAE) that is caused by pathogenic variants in the  METHODS: After an overview of the literature, here, the developmental trajectory of a 55-year-old severely intellectually disabled male with therapy-resistant epilepsy and aggressive outburst is reported in detail, in whom no etiological diagnosis had been performed. Next to genetic, neurological, and neuropsychiatric examination, psychological assessment with validated instruments was performed. RESULTS: Exome sequencing and targeted analysis of the patient and both his parents demonstrated a de novo missense variant in the  DISCUSSION: This case stresses that exome sequencing should be the first-tier diagnostic test for patients with unexplained neurodevelopmental disorders, regardless of their age, and that as yet the most suitable approach is the formation of an interdisciplinary team for treatment design and clinical management.

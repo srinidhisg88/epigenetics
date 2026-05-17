@@ -1,0 +1,9 @@
+PMID: 38307656
+Title: Hemiplegic migraine.
+Authors: Irene de Boer, Jakob M Hansen, Gisela M Terwindt
+Journal: Handbook of clinical neurology
+Year: 2024
+MeSH Terms: Humans, Migraine with Aura, Hemiplegia, Migraine Disorders, Mutation, Headache, Epilepsy
+
+Abstract:
+Hemiplegic migraine (HM) is a rare subtype of migraine with aura in which the aura phase includes transient motor weakness. Diagnosis is based on the International Classification of Headache Disorders criteria (ICHD-3). The most important diagnostic tools remain a patient interview, neurological examination during attacks, and exclusion of other disorders, such as epilepsy, stroke, encephalitis and secondary headache syndromes. Hemiplegic migraine can occur either familial or sporadic. Three genes, CACNA1A, ATP1A2, and SCN1A have been identified. Taken together, mutations in these three genes predict increased neurotransmitter and potassium ion levels at the synaptic cleft, which facilitates cortical spreading depolarization, the phenomenon underlying the migraine aura. The presence of several symptoms, including extensive weakness and brainstem manifestations increase the likelihood of finding a monogenic cause. While the diagnosis can be confirmed by genetic testing, it cannot be excluded if one of the known (F)HM genes is not implicated. Most patients with hemiplegic migraine without a mutation in CACNA1A, ATP1A2, or SCN1A display a mild phenotype that is more akin to that of common (nonhemiplegic) migraine. Additional diagnostics such as brain imaging, cerebrospinal fluid analysis or an electroencephalography are mainly performed to exclude other causes of focal neurologic symptoms associated with hemiparesis and headache. Due to the rarity of the disorder, current treatment recommendations are based on small, unblinded studies and empirical data.

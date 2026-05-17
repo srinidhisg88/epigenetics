@@ -1,0 +1,54 @@
+Gene: NPRL3
+PMID: 31111464
+Source: PubMed Clinical Review
+URL: https://pubmed.ncbi.nlm.nih.gov/31111464/
+
+=== CLINICAL CONTENT ===
+
+1. Epilepsia. 2019 Jun;60(6):e67-e73. doi: 10.1111/epi.15665. Epub 2019 May 21.
+
+Inclusion of hemimegalencephaly into the phenotypic spectrum of NPRL3 pathogenic 
+variants in familial focal epilepsy with variable foci.
+
+Canavati C(1), Klein KM(2)(3), Afawi Z(4), Pendziwiat M(5), Abu Rayyan A(1), 
+Kamal L(1), Zahdeh F(1), Qaysia I(6), Helbig I(5)(7), Kanaan M(1).
+
+Author information:
+(1)Hereditary Research Laboratory, Bethlehem University, Bethlehem, Palestine.
+(2)Epilepsy Center Frankfurt Rhine-Main, Department of Neurology, Goethe 
+University Frankfurt, University Hospital, Frankfurt, Germany.
+(3)Departments of Clinical Neurosciences, Medical Genetics, and Community Health 
+Sciences, Hotchkiss Brain Institute and Alberta Children's Hospital Research 
+Institute, Cumming School of Medicine, Foothills Medical Centre, University of 
+Calgary, Alberta, Canada.
+(4)Tel Aviv University Medical School, Ramat Aviv, Israel.
+(5)Department of Neuropediatrics, University of Kiel and University Medical 
+Center Schleswig-Holstein, Kiel, Germany.
+(6)Department of Neurology, Al-Ahli Hospital, Hebron, Palestine.
+(7)Division of Neurology, Children's Hospital of Philadelphia, Philadelphia, 
+Pennsylvania.
+
+Despite tremendous progress through next generation sequencing technologies, 
+familial focal epilepsies are insufficiently understood. We sought to identify 
+the genetic basis in multiplex Palestinian families with familial focal epilepsy 
+with variable foci (FFEVF). Family I with 10 affected individuals and Family II 
+with five affected individuals underwent detailed phenotyping over three 
+generations. The phenotypic spectrum of the two families varied from nonlesional 
+focal epilepsy including nocturnal frontal lobe epilepsy to severe structural 
+epilepsy due to hemimegalencephaly. Whole-exome sequencing and single nucleotide 
+polymorphism array analysis revealed pathogenic variants in NPRL3 in each 
+family, a partial ~38-kb deletion encompassing eight exons (exons 8-15) and the 
+3'-untranslated region of the NPRL3 gene in Family I, and a de novo nonsense 
+variant c.1063C>T, p.Gln355* in Family II. Furthermore, we identified a 
+truncating variant in the PDCD10 gene in addition to the NPRL3 variant in a 
+patient with focal epilepsy from Family I. The individual also had developmental 
+delay and multiple cerebral cavernomas, possibly demonstrating a digenic 
+contribution to the individual's phenotype. Our results implicate the 
+association of NPRL3 with hemimegalencephaly, expanding the phenotypic spectrum 
+of NPRL3 in FFEVF and underlining that partial deletions are part of the 
+genotypic spectrum of NPRL3 variants.
+
+Wiley Periodicals, Inc. © 2019 International League Against Epilepsy.
+
+DOI: 10.1111/epi.15665
+PMID: 31111464 [Indexed for MEDLINE]

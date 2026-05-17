@@ -1,0 +1,82 @@
+# ── Secrets & environment ────────────────────────────────────────────────────
+.env
+*.env.local
+*.env.*.local
+
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+wheels/
+
+# ── Virtual environment ───────────────────────────────────────────────────────
+venv/
+env/
+.venv/
+ENV/
+
+# ── Jupyter notebooks ─────────────────────────────────────────────────────────
+*.ipynb
+.ipynb_checkpoints/
+
+# ── macOS ─────────────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Testing ───────────────────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ── Node / Frontend ───────────────────────────────────────────────────────────
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.env.local
+
+# ── Raw data (3.6 GB — too large for git) ────────────────────────────────────
+data/raw/
+
+# ── Large processed CSVs (regenerate from raw using feature_engineering scripts)
+data/processed/*.csv
+data/processed/backup_before_utr_cleaning/
+
+# ── FAISS binary index (regenerate with scripts/build_faiss_index.py) ─────────
+data/faiss_index/index.faiss
+
+# ── API response cache ────────────────────────────────────────────────────────
+cache/clinvar/
+cache/gnomad/
+cache/literature/
+cache/pharmgkb/
+
+# ── Claude internal project files ────────────────────────────────────────────
+.claude/
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+logs/

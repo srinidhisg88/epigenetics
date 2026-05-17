@@ -1,0 +1,9 @@
+PMID: 32102148
+Title: [Clinical phenotypes of epilepsy associated with GABRA1 gene variants].
+Authors: Y Yang, Y H Zhang, J Y Chen, J H Ma, D Sun
+Journal: Zhonghua er ke za zhi = Chinese journal of pediatrics
+Year: 2020
+MeSH Terms: Brain, Child, Child, Preschool, Developmental Disabilities, Electroencephalography, Epilepsy, Female, Humans, Infant, Male
+
+Abstract:
+

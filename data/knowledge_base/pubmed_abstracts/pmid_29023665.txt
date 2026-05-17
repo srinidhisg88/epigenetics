@@ -1,0 +1,9 @@
+PMID: 29023665
+Title: Clinician's guide to genes associated with Rett-like phenotypes-Investigation of a Danish cohort and review of the literature.
+Authors: B Schönewolf-Greulich, A-M Bisgaard, R S Møller, M Dunø, K Brøndum-Nielsen
+Journal: Clinical genetics
+Year: 2019
+MeSH Terms: Alleles, Cohort Studies, Denmark, Diagnosis, Differential, Genetic Association Studies, Genetic Predisposition to Disease, Genetic Testing, Genetic Variation, Genotype, Humans
+
+Abstract:
+The differential diagnostics in Rett syndrome has evolved with the development of next generation sequencing-based techniques and many patients have been diagnosed with other syndromes or variants in newly described genes where the associated phenotype(s) is yet to be fully explored. The term Rett-like refers to phenotypes with distinct overlapping features of Rett syndrome where the clinical criteria are not completely fulfilled. In this study we have combined a review of Rett-like disorders with data from a Danish cohort of 35 patients with Rett-like phenotypes emphasizing the diagnostic overlap with Pitt-Hopkins syndrome, Cornelia de Lange syndrome with SMC1A variants, and epileptic encephalopathies, for example, due to STXBP1 variants. We also found a patient with a pathogenic variant in KCNB1, which has not been previously linked to a Rett-like phenotype. This study underlines the clinical and genetic heterogeneity of a Rett syndrome spectrum, and provides an overview of the Rett syndrome-related genes described to date, and hence serves as a guide for diagnosing patients with Rett-like phenotypes.

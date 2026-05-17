@@ -1,0 +1,9 @@
+PMID: 35299616
+Title: Sleep Disorders in Rett Syndrome and Rett-Related Disorders: A Narrative Review.
+Authors: Giorgia Tascini, Giovanni Battista Dell'Isola, Elisabetta Mencaroni, Giuseppe Di Cara, Pasquale Striano
+Journal: Frontiers in neurology
+Year: 2022
+MeSH Terms: 
+
+Abstract:
+Rett Syndrome (RTT) is a rare and severe X-linked developmental brain disorder that occurs primarily in females, with a ratio of 1:10.000. 

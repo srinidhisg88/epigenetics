@@ -1,0 +1,9 @@
+PMID: 25124326
+Title: A novel variant in GABRB2 associated with intellectual disability and epilepsy.
+Authors: Siddharth Srivastava, Julie Cohen, Jonathan Pevsner, Swaroop Aradhya, Dianalee McKnight
+Journal: American journal of medical genetics. Part A
+Year: 2014
+MeSH Terms: Amino Acid Sequence, Child, Electroencephalography, Epilepsy, Exome, Female, Genetic Association Studies, Genetic Variation, Heterozygote, High-Throughput Nucleotide Sequencing
+
+Abstract:
+The γ-aminobutyric acid type A (GABAA ) receptor is one of the three main classes of receptors activated by GABA, the principal inhibitory neurotransmitter in the central nervous system. Mutations in genes encoding various subunits of this receptor (GABRA1, GABRA2, GABRA4, GABRA5, GABRA6, GABRB1, GABRB3, GABRG1, GABRG2, GABRG3, and GABRD) are implicated in a number of neurological and developmental disorders, including epilepsy and autism. To date, no human genetics studies have implicated mutations in GABRB2, encoding the β2 subunit of the GABAA receptor, with neurodevelopmental disorders. Here we present a 12-year-old girl with intellectual disability and epilepsy, who was discovered by whole exome sequencing to have a de novo heterozygous missense variant in exon 4 of GABRB2 (c.236T>C; p.M79T). This variant is likely pathogenic, based on in silico analyses, as well as the fact that it results in the non-conservative substitution of a non-polar amino acid with a polar amino acid at a position that is evolutionarily conserved across multiple species. Our findings underscore the need for further investigation into the mechanisms by which mutations in GABRB2 contribute to neurological and developmental dysfunction.

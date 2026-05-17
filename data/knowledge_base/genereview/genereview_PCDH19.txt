@@ -1,0 +1,85 @@
+Gene: PCDH19
+PMID: 25891919
+Source: PubMed Clinical Review
+URL: https://pubmed.ncbi.nlm.nih.gov/25891919/
+
+=== CLINICAL CONTENT ===
+
+1. Seizure. 2015 Apr;27:1-5. doi: 10.1016/j.seizure.2015.02.006. Epub 2015 Feb
+16.
+
+Immediate suppression of seizure clusters by corticosteroids in PCDH19 female 
+epilepsy.
+
+Higurashi N(1), Takahashi Y(2), Kashimada A(3), Sugawara Y(3), Sakuma H(4), 
+Tomonoh Y(5), Inoue T(5), Hoshina M(6), Satomi R(7), Ohfu M(8), Itomi K(9), 
+Takano K(10), Kirino T(11), Hirose S(12).
+
+Author information:
+(1)Department of Pediatrics, Jikei University School of Medicine, 3-25-8, 
+Nishi-Shimbashi, Minato-ku, Tokyo 105-8461, Japan; Central Research Institute 
+for the Pathomechanisms of Epilepsy, Fukuoka University, 7-45-1, Nanakuma, 
+Jonan-ku, Fukuoka 814-0180, Japan.
+(2)National Epilepsy Center, Shizuoka Institute of Epilepsy and Neurological 
+Disorders, Urushiyama 886, Aoi-ku, Shizuoka 420-8688, Japan.
+(3)Department of Pediatrics, Tokyo Medical and Dental University, 1-5-45, 
+Yushima, Bunkyo-ku, Tokyo 113-8510, Japan.
+(4)Department of Brain Development and Neural Regeneration, Tokyo Metropolitan 
+Institute of Medical Science, 2-1-6, Kamikitazawa, Setagaya-ku, Tokyo 156-8506, 
+Japan.
+(5)Department of Pediatrics, Fukuoka University School of Medicine, 7-45-1, 
+Nanakuma, Jonan-ku, Fukuoka 814-0180, Japan.
+(6)Department of Pediatrics, Ohara General Hospital, 6-11, Omachi, Fukushima 
+960-8611, Japan.
+(7)Department of Pediatrics, JA Toride Medical Center, 2-1-1, Hongo, Toride, 
+Ibaraki 302-0022, Japan.
+(8)Division of Child Neurology, Okinawa Prefectural Southern Medical Center & 
+Children's Medical Center, 118-1, Aza Arakawa, Haebaru-cho, Shimajiri-gun, 
+Okinawa 901-1193, Japan.
+(9)Division of Neurology, Aichi Children's Health and Medical Center, 1-2, 
+Osakada Morioka-cho, Obu, Aichi 474-8710, Japan.
+(10)Department of Medical Genetics, Shinshu University School of Medicine, 
+3-1-1, Asahi, Matsumoto, Nagano 390-8621, Japan.
+(11)Department of Pediatrics, Shikoku Medical Center for Children and Adults, 
+2-1-1, Senyu-cho, Zentsuji, Kagawa 765-8507, Japan.
+(12)Central Research Institute for the Pathomechanisms of Epilepsy, Fukuoka 
+University, 7-45-1, Nanakuma, Jonan-ku, Fukuoka 814-0180, Japan; Department of 
+Pediatrics, Fukuoka University School of Medicine, 7-45-1, Nanakuma, Jonan-ku, 
+Fukuoka 814-0180, Japan. Electronic address: hirose@fukuoka-u.ac.jp.
+
+Comment in
+    Seizure. 2015 Nov;32:45-6. doi: 10.1016/j.seizure.2015.09.002.
+
+PURPOSE: The pathomechanism and treatment of PCDH19 female epilepsy (PCDH19-FE) 
+remain unclear. Here, we report that corticosteroids are effective for control 
+of the seizure clusters or other acute symptoms of PCDH19-FE and argue for the 
+possible involvement of a compromised blood-brain barrier (BBB) in its 
+pathogenesis.
+METHODS: The efficacy of corticosteroids was retrospectively reviewed in five 
+Japanese patients with PCDH19-FE. The results of antibody assays against the 
+N-methyl-d-aspartate-type glutamate receptor (abs-NR) in serum/cerebrospinal 
+fluid were also compiled.
+RESULTS: Corticosteroid treatments significantly improved the acute symptoms, 
+including seizure clusters, in all cases, most often immediately after the 
+initial administration. However, the effect was transient, and some seizures 
+recurred within a few weeks, especially in association with fever. Serum and/or 
+cerebrospinal fluid abs-NR were detected in all patients. Target sequences of 
+the detected antibodies were multiple, and the titers tended to decrease over 
+time. In one patient, immunohistochemical analysis using rat hippocampal slices 
+also revealed serum antibodies targeting an unknown epitope in neuronal 
+cytoplasm.
+CONCLUSION: Our findings imply an involvement of inflammatory processes in the 
+pathogenesis of PCDH19-FE and therapeutic utility for corticosteroids as an 
+adjunctive option in acute treatment. PCDH19 is well expressed in brain 
+microvascular endothelial cells and thus its impairment may cause BBB 
+vulnerability, which may be ameliorated by corticosteroids. The abs-NR detected 
+in our patients may not indicate an autoimmune pathomechanism, but may rather 
+represent non-specific sensitization to degraded neuronal components entering 
+the general circulation, the latter process facilitated by the BBB 
+vulnerability.
+
+Copyright © 2015 British Epilepsy Association. Published by Elsevier Ltd. All 
+rights reserved.
+
+DOI: 10.1016/j.seizure.2015.02.006
+PMID: 25891919 [Indexed for MEDLINE]

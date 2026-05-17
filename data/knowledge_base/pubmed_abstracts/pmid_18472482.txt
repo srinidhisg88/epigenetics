@@ -1,0 +1,9 @@
+PMID: 18472482
+Title: Genetics and epilepsy.
+Authors: Ortrud K Steinlein
+Journal: Dialogues in clinical neuroscience
+Year: 2008
+MeSH Terms: Animals, Brain Chemistry, Brain Diseases, Metabolic, Inborn, Channelopathies, Epilepsy, Genetic Predisposition to Disease, Humans, Ion Channels, Mutation, Nervous System Malformations
+
+Abstract:
+The term "epilepsy" describes a heterogeneous group of disorders, most of them caused by interactions between several or even many genes and environmental factors. Much rarer are the genetic epilepsies that are due to single-gene mutations or defined structural chromosomal aberrations, such as microdeletions. The discovery of several of the genes underlying these rare genetic epilepsies has already considerably contributed to our understanding of the basic mechanisms in epileptogenesis. The progress made in the last 15 years in the genetics of epilepsy is providing new possibilities for diagnosis and therapy. Here, different genetic epilepsies are reviewed as examples, to demonstrate the various pathways that can lead from genes to seizures.

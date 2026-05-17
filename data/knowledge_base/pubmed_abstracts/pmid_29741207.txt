@@ -1,0 +1,9 @@
+PMID: 29741207
+Title: Genetic generalized epilepsies.
+Authors: Saul A Mullen, Samuel F Berkovic
+Journal: Epilepsia
+Year: 2018
+MeSH Terms: Carbohydrate Metabolism, Inborn Errors, DNA Copy Number Variations, Epilepsy, Generalized, Genetic Association Studies, Genetic Predisposition to Disease, Glucose Transporter Type 1, Humans, Learning Disabilities, Monosaccharide Transport Proteins
+
+Abstract:
+The genetic generalized epilepsies (GGEs) are mainly genetically determined disorders. Although inheritance in most cases appears to be complex, involving multiple genes, variants of a number of genes are known to contribute. Pathogenic variants of SLC2A1 leading to autosomal-dominant GLUT1 deficiency account for up to 1% of cases, increasing to 10% of those with absence seizures starting before age 4 years. Copy number variants are found in around 3% of cases, acting as risk alleles. Copy number variation is much more common in those with comorbid learning disability. Common variant associations are starting to emerge from genome-wide association studies but do not yet explain a large proportion of GGEs. Although currently genetic testing is not likely to yield a diagnosis for most patients with GGEs, it can be of great importance in specific clinical situations. Providers should consider the individual patient's history in determining the utility of genetic testing.

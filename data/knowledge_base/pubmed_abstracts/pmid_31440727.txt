@@ -1,0 +1,9 @@
+PMID: 31440727
+Title: A novel homozygous KCNQ3 loss-of-function variant causes non-syndromic intellectual disability and neonatal-onset pharmacodependent epilepsy.
+Authors: Anna Lauritano, Sebastien Moutton, Elena Longobardi, Frédéric Tran Mau-Them, Giusy Laudati
+Journal: Epilepsia open
+Year: 2019
+MeSH Terms: 
+
+Abstract:
+OBJECTIVE: Heterozygous variants in  METHODS: Exome sequencing was used for genetic investigation. KCNQ3 transcript and subunit expression in fibroblasts was analyzed with quantitative real-time PCR and Western blotting or immunofluorescence, respectively. Whole-cell patch-clamp electrophysiology was used for functional characterization of mutant subunits. RESULTS: A novel single-base duplication in exon 12 of  SIGNIFICANCE: The present results indicate that a homozygous 

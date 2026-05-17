@@ -1,0 +1,9 @@
+PMID: 34426698
+Title: Identification of neural oscillations and epileptiform changes in human brain organoids.
+Authors: Ranmal A Samarasinghe, Osvaldo A Miranda, Jessie E Buth, Simon Mitchell, Isabella Ferando
+Journal: Nature neuroscience
+Year: 2021
+MeSH Terms: Adult, Benzothiazoles, Brain, Calcium Signaling, Child, Preschool, Epilepsy, Female, Humans, Induced Pluripotent Stem Cells, Methyl-CpG-Binding Protein 2
+
+Abstract:
+Brain organoids represent a powerful tool for studying human neurological diseases, particularly those that affect brain growth and structure. However, many diseases manifest with clear evidence of physiological and network abnormality in the absence of anatomical changes, raising the question of whether organoids possess sufficient neural network complexity to model these conditions. Here, we explore the network-level functions of brain organoids using calcium sensor imaging and extracellular recording approaches that together reveal the existence of complex network dynamics reminiscent of intact brain preparations. We demonstrate highly abnormal and epileptiform-like activity in organoids derived from induced pluripotent stem cells from individuals with Rett syndrome, accompanied by transcriptomic differences revealed by single-cell analyses. We also rescue key physiological activities with an unconventional neuroregulatory drug, pifithrin-α. Together, these findings provide an essential foundation for the utilization of brain organoids to study intact and disordered human brain network formation and illustrate their utility in therapeutic discovery.

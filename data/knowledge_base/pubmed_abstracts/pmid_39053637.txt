@@ -1,0 +1,9 @@
+PMID: 39053637
+Title: Preliminary study on the mechanism of SAHA in the treatment of refractory epilepsy induced by GABRG2(F343L) mutation.
+Authors: Jie Wang, Wenwen Wu, Jiali Wan, Longwu Zhan, Yuhan Chen
+Journal: Biochemical pharmacology
+Year: 2024
+MeSH Terms: Animals, Zebrafish, Humans, Receptors, GABA-A, HEK293 Cells, Vorinostat, Mutation, Drug Resistant Epilepsy, Anticonvulsants, Histone Deacetylase Inhibitors
+
+Abstract:
+Mutations in the γ-amino butyric acid type A (GABA

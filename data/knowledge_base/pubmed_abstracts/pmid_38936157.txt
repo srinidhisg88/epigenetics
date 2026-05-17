@@ -1,0 +1,9 @@
+PMID: 38936157
+Title: Generation of hiPSC lines from four pyridoxine-dependent epilepsy (PDE) patients carrying the variant c.1279G>C in ALDH7A1 in homozygosis.
+Authors: Imke M E Schuurmans, Clara D M van Karnebeek, Anita D M Hoogendoorn, Nael Nadif Kasri, Alejandro Garanto
+Journal: Stem cell research
+Year: 2024
+MeSH Terms: Humans, Epilepsy, Induced Pluripotent Stem Cells, Homozygote, Female, Male, Cell Line, Aldehyde Dehydrogenase
+
+Abstract:
+ALDH7A1 encodes for the enzyme catalyzing the third step of the lysine degradation pathway. Biallelic pathogenic variants in ALDH7A1 are associated with pyridoxine dependent epilepsy (PDE), of which the c.1279G>C (p.Glu427Gln) variant is the most commonly reported variant and is carried by 30% of PDE patients with European ancestry. In this study, hiPSC lines derived from four PDE patients carrying the c.1279G>C variant in homozygosis in ALDH7A1 were generated and fully characterized. These hiPSC lines can contribute to better understand the molecular mechanism of disease underlying PDE as well as serving as a model system to evaluate new therapeutic strategies.

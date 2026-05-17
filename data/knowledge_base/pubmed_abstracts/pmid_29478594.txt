@@ -1,0 +1,9 @@
+PMID: 29478594
+Title: Genetics of epilepsy.
+Authors: Danielle Nolan, John Fink
+Journal: Handbook of clinical neurology
+Year: 2018
+MeSH Terms: Epilepsy, Genetic Predisposition to Disease, Genetic Testing, Glucose Transporter Type 1, Humans, Mutation, NAV1.1 Voltage-Gated Sodium Channel, Potassium Channels, Potassium Channels, Sodium-Activated, Receptors, GABA-A
+
+Abstract:
+Discovery of nearly 200 genes implicated in epilepsy and insights into the molecular and cellular pathways involved are transforming our knowledge of the causes, classifications, diagnosis, and in some cases, treatments for individuals with chronic seizure disorders. Numerous disorders once considered "idiopathic" are now recognized as genetic conditions. Despite these remarkable advances, the cause of epilepsy for most individuals is unknown. We present a clinical approach to patients with epilepsy, presenting an algorithm for clinical and genetic testing, and review genes implicated in epilepsy and their associated syndromes.

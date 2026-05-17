@@ -1,0 +1,9 @@
+PMID: 39174247
+Title: Epilepsies.
+Authors: Amy McTague, Ingrid E Scheffer, Dimitri M Kullmann, Sanjay Sisodiya
+Journal: Handbook of clinical neurology
+Year: 2024
+MeSH Terms: Humans, Epilepsy, Channelopathies
+
+Abstract:
+Recent advances in genetic diagnosis have revealed the underlying etiology of many epilepsies and have identified pathogenic, causative variants in numerous ion and ligand-gated channel genes. This chapter describes the clinical presentations of epilepsy associated with different channelopathies including classic electroclinical syndromes and emerging gene-specific phenotypes. Also discussed are the archetypal epilepsy channelopathy, SCN1A-Dravet syndrome, considering the expanding phenotype. Clinical presentations where a channelopathy is suspected, such as sleep-related hypermotor epilepsy and epilepsy in association with movement disorders, are reviewed. Channelopathies pose an intriguing problem for the development of gene therapies. Design of targeted therapies requires physiologic insights into the often multifaceted impact of a pathogenic variant, coupled with an understanding of the phenotypic spectrum of a gene. As gene-specific novel therapies come online for the channelopathies, it is essential that clinicians are able to recognize epilepsy phenotypes likely to be due to channelopathy and institute early genetic testing in both children and adults. These findings are likely to have immediate management implications and to inform prognostic and reproductive counseling.

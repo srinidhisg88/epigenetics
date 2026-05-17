@@ -1,0 +1,9 @@
+PMID: 35918039
+Title: De novo SCN3A missense variant associated with self-limiting generalized epilepsy with fever sensitivity.
+Authors: Katrine M Johannesen, Elena Gardella, Philip K Ahring, Rikke S Møller
+Journal: European journal of medical genetics
+Year: 2022
+MeSH Terms: Epilepsy, Epilepsy, Generalized, Humans, Male, Mutation, Missense, NAV1.3 Voltage-Gated Sodium Channel, Phenotype, Sodium Channels
+
+Abstract:
+OBJECTIVE: Although the number of affected individuals is relatively low, pathogenic SCN3A variants have been reported in a range of phenotypes, from focal epilepsy to severe developmental and epileptic encephalopathy with polymicrogyria. METHODS: Case report and inclusion of current literature. RESULTS: Here, we report a normally developed boy with self-limiting generalized epilepsy with fever sensitivity due to a likely pathogenic SCN3A variant. He had febrile seizures from the age of one year, which were successfully treated with valproate. After tapering off medication, he only had rare breakthrough seizures, always associated with fever. At the age of 12 he continues to develop normally and have normal cognition. Reviewing the literature, there appears to be a correlation between functional outcome and phenotype. Gain of function SCN3A variants are seen in individuals with a severe epilepsy, cognitive impairment and brain malformations, while loss of function variants are seen in individuals with epilepsy, varying degrees of cognitive impairment, including normal cognition, but no brain malformations. SIGNIFICANCE: The genotype-phenotype correlations in SCN3A-related disorders presented here, will be important for families and clinicians alike, for diagnostic as well as possibly future treatment options.

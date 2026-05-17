@@ -1,0 +1,47 @@
+Gene: FOXG1
+PMID: 19578037
+Source: PubMed Clinical Review
+URL: https://pubmed.ncbi.nlm.nih.gov/19578037/
+
+=== CLINICAL CONTENT ===
+
+1. J Med Genet. 2010 Jan;47(1):49-53. doi: 10.1136/jmg.2009.067884. Epub 2009 Jul
+ 2.
+
+Novel FOXG1 mutations associated with the congenital variant of Rett syndrome.
+
+Mencarelli MA(1), Spanhol-Rosseto A, Artuso R, Rondinella D, De Filippis R, 
+Bahi-Buisson N, Nectoux J, Rubinsztajn R, Bienvenu T, Moncla A, Chabrol B, 
+Villard L, Krumina Z, Armstrong J, Roche A, Pineda M, Gak E, Mari F, Ariani F, 
+Renieri A.
+
+Author information:
+(1)Medical Genetics, Molecular Biology Department, University of Siena, 53100 
+Siena, Italy.
+
+BACKGROUND: Rett syndrome is a severe neurodevelopmental disorder representing 
+one of the most common genetic causes of mental retardation in girls. The 
+classic form is caused by MECP2 mutations. In two patients affected by the 
+congenital variant of Rett we have recently identified mutations in the FOXG1 
+gene encoding a brain specific transcriptional repressor, essential for early 
+development of the telencephalon.
+METHODS: 60 MECP2/CDKL5 mutation negative European Rett patients (classic and 
+variants), 43 patients with encephalopathy with early onset seizures, and four 
+atypical Rett patients were analysed for mutations in FOXG1.
+RESULTS AND CONCLUSIONS: Mutations have been identified in four patients, 
+independently classified as congenital Rett variants from France, Spain and 
+Latvia. Clinical data have been compared with the two previously reported 
+patients with mutations in FOXG1. In all cases hypotonia, irresponsiveness and 
+irritability were present in the neonatal period. At birth, head circumference 
+was normal while a deceleration of growth was recognised soon afterwards, 
+leading to severe microcephaly. Motor development was severely impaired and 
+voluntary hand use was absent. In contrast with classic Rett, patients showed 
+poor eye contact. Typical stereotypic hand movements with hand washing and hand 
+mouthing activities were present continuously. Some patients showed abnormal 
+movements of the tongue and jerky movements of the limbs. Brain magnetic 
+resonance imaging showed corpus callosum hypoplasia in most cases, while 
+epilepsy was a variable sign. Scoliosis was present and severe in the older 
+patients. Neurovegetative symptoms typical of Rett were frequently present.
+
+DOI: 10.1136/jmg.2009.067884
+PMID: 19578037 [Indexed for MEDLINE]

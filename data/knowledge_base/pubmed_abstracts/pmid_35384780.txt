@@ -1,0 +1,9 @@
+PMID: 35384780
+Title: Phenotypic Spectrum in a Family Sharing a Heterozygous 
+Authors: Kristen Arredondo, Cortlandt Myers, Emily Hansen-Kiss, Mariam T Mathew, Vijayakumar Jayaraman
+Journal: Journal of child neurology
+Year: 2022
+MeSH Terms: Adult, Autism Spectrum Disorder, Child, Epilepsy, Epilepsy, Benign Neonatal, Humans, Infant, Newborn, KCNQ3 Potassium Channel, Seizures
+
+Abstract:
+BACKGROUND AND PURPOSE: Mutations in  METHODS: A family of 3 affected siblings and mother sharing a  RESULTS: This family shows a variety of clinical manifestations, including neonatal seizures, developmental delays, autism spectrum disorder, and anxiety. One child developed absence epilepsy, 2 children have infrequent convulsive seizures that have persisted into childhood, and their parent developed adult-onset epilepsy. An underlying c.1091G>A (R364H) variant in  CONCLUSIONS: The phenotypic variability of KCNQ3 channelopathies continues to expand as more individuals and families are described, and the variant identified in this family adds to the understanding of the manifestations of 

@@ -1,0 +1,9 @@
+PMID: 37442907
+Title: Identifying the mechanism of action of the Kv7 channel opener, retigabine in the treatment of epilepsy.
+Authors: Aqeela Zahra, Ru Liu, Jingjing Wang, Jianping Wu
+Journal: Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology
+Year: 2023
+MeSH Terms: 
+
+Abstract:
+Epilepsy is characterized by recurrent epileptic seizures caused by high levels of neuronal excitability in the brain. Voltage-sensitive K+ channels (Kv) of the Kv7 (KCNQ) family encoded by the KCNQ gene are involved in a wide range of cellular processes, i.e., KCNQ2 and KCNQ3 channels mediate M-currents to inhibit neuronal excitability and reduce transmitter release throughout the nervous system. Thus, as a positive allosteric modulator (or opener) of KCNQ channels, retigabine has been the only clinically approved anti-seizure medication that acts on the KCNQ channels. This review discusses the biochemical mechanisms about how retigabine acts on Kv7 channels, significance in neuronal pathophysiology, preclinical efficacy, and clinical stage of development. Additional efforts are being made to emphasize the possible benefits and drawbacks of retigabine compared to currently available medications for treatment-resistant epilepsy.

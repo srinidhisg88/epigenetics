@@ -1,0 +1,9 @@
+PMID: 37008993
+Title: Episodic Ataxias: Primary and Secondary Etiologies, Treatment, and Classification Approaches.
+Authors: Anhar Hassan
+Journal: Tremor and other hyperkinetic movements (New York, N.Y.)
+Year: 2023
+MeSH Terms: Humans, Ataxia, Cerebellar Ataxia, Acetazolamide, Mutation
+
+Abstract:
+BACKGROUND: Episodic ataxia (EA), characterized by recurrent attacks of cerebellar dysfunction, is the manifestation of a group of rare autosomal dominant inherited disorders. EA1 and EA2 are most frequently encountered, caused by mutations in  METHODS: A systematic literature review was performed in October 2022 for 'episodic ataxia' and 'paroxysmal ataxia', restricted to publications in the last 10 years to focus on recent clinical advances. Clinical, genetic, and treatment characteristics were summarized. RESULTS: EA1 and EA2 phenotypes have further broadened. In particular, EA2 may be accompanied by other paroxysmal disorders of childhood with chronic neuropsychiatric features. New treatments for EA2 include dalfampridine and fampridine, in addition to 4-aminopyridine and acetazolamide. There are recent proposals for EA9-10. EA may also be caused by gene mutations associated with chronic ataxias ( DISCUSSION: EA may be overlooked or misdiagnosed for a variety of reasons, including phenotype-genotype variability and clinical overlap between primary and secondary causes. EA is highly treatable, so it is important to consider in the differential diagnosis of paroxysmal disorders. Classical EA1 and EA2 phenotypes prompt single gene test and treatment pathways. For atypical phenotypes, next generation genetic testing can aid diagnosis and guide treatment. Updated classification systems for EA are discussed which may assist diagnosis and management.

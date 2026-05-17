@@ -1,0 +1,9 @@
+PMID: 35074891
+Title: Development and Validation of a Prediction Model for Early Diagnosis of 
+Authors: Andreas Brunklaus, Eduardo Pérez-Palma, Ismael Ghanty, Ji Xinge, Eva Brilstra
+Journal: Neurology
+Year: 2022
+MeSH Terms: Child, Cohort Studies, Early Diagnosis, Epilepsies, Myoclonic, Epilepsy, Humans, Mutation, NAV1.1 Voltage-Gated Sodium Channel, Retrospective Studies
+
+Abstract:
+BACKGROUND AND OBJECTIVES: Pathogenic variants in the neuronal sodium channel α1 subunit gene ( METHODS: We performed a retrospective multicenter cohort study comprising data from patients with  RESULTS: A total of 1,018 participants were included. The frequency of Dravet syndrome was 616/743 (83%) in the training cohort, 147/203 (72%) in validation cohort 1, and 60/72 (83%) in validation cohort 2. A high  DISCUSSION: The prediction model allows objective estimation at disease onset whether a child will develop Dravet syndrome vs GEFS+, assisting clinicians with prognostic counseling and decisions on early institution of precision therapies (http://scn1a-prediction-model.broadinstitute.org/). CLASSIFICATION OF EVIDENCE: This study provides Class II evidence that a combined 

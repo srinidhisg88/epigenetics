@@ -1,0 +1,9 @@
+PMID: 37580177
+Title: Splicing defects in rare diseases: transcriptomics and machine learning strategies towards genetic diagnosis.
+Authors: Robert Wang, Ingo Helbig, Andrew C Edmondson, Lan Lin, Yi Xing
+Journal: Briefings in bioinformatics
+Year: 2023
+MeSH Terms: Humans, Rare Diseases, Transcriptome, RNA Splicing, Proteins, Machine Learning, Mutation
+
+Abstract:
+Genomic variants affecting pre-messenger RNA splicing and its regulation are known to underlie many rare genetic diseases. However, common workflows for genetic diagnosis and clinical variant interpretation frequently overlook splice-altering variants. To better serve patient populations and advance biomedical knowledge, it has become increasingly important to develop and refine approaches for detecting and interpreting pathogenic splicing variants. In this review, we will summarize a few recent developments and challenges in using RNA sequencing technologies for rare disease investigation. Moreover, we will discuss how recent computational splicing prediction tools have emerged as complementary approaches for revealing disease-causing variants underlying splicing defects. We speculate that continuous improvements to sequencing technologies and predictive modeling will not only expand our understanding of splicing regulation but also bring us closer to filling the diagnostic gap for rare disease patients.

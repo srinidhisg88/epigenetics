@@ -1,0 +1,9 @@
+PMID: 33200442
+Title: Consensus guidelines for the diagnosis and management of pyridoxine-dependent epilepsy due to α-aminoadipic semialdehyde dehydrogenase deficiency.
+Authors: Curtis R Coughlin, Laura A Tseng, Jose E Abdenur, Catherine Ashmore, François Boemer
+Journal: Journal of inherited metabolic disease
+Year: 2021
+MeSH Terms: Aldehyde Dehydrogenase, Arginine, Consensus, Dietary Supplements, Epilepsy, Humans, International Cooperation, Lysine, Pyridoxine
+
+Abstract:
+Pyridoxine-dependent epilepsy (PDE-ALDH7A1) is an autosomal recessive condition due to a deficiency of α-aminoadipic semialdehyde dehydrogenase, which is a key enzyme in lysine oxidation. PDE-ALDH7A1 is a developmental and epileptic encephalopathy that was historically and empirically treated with pharmacologic doses of pyridoxine. Despite adequate seizure control, most patients with PDE-ALDH7A1 were reported to have developmental delay and intellectual disability. To improve outcome, a lysine-restricted diet and competitive inhibition of lysine transport through the use of pharmacologic doses of arginine have been recommended as an adjunct therapy. These lysine-reduction therapies have resulted in improved biochemical parameters and cognitive development in many but not all patients. The goal of these consensus guidelines is to re-evaluate and update the two previously published recommendations for diagnosis, treatment, and follow-up of patients with PDE-ALDH7A1. Members of the International PDE Consortium initiated evidence and consensus-based process to review previous recommendations, new research findings, and relevant clinical aspects of PDE-ALDH7A1. The guideline development group included pediatric neurologists, biochemical geneticists, clinical geneticists, laboratory scientists, and metabolic dieticians representing 29 institutions from 16 countries. Consensus guidelines for the diagnosis and management of patients with PDE-ALDH7A1 are provided.

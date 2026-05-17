@@ -1,0 +1,9 @@
+PMID: 38521028
+Title: PCDH19-clustering epilepsy, pathophysiology and clinical significance.
+Authors: Safoura Kowkabi, Majid Yavarian, Reza Kaboodkhani, Mahmood Mohammadi, Reza Shervin Badv
+Journal: Epilepsy & behavior : E&B
+Year: 2024
+MeSH Terms: Humans, Epilepsy, Protocadherins, Cadherins, Intellectual Disability, Female, Male, Clinical Relevance
+
+Abstract:
+PCDH19 clustering epilepsy (PCDH19-CE) is an X-linked epilepsy disorder associated with intellectual disability (ID) and behavioral disturbances, which is caused by PCDH19 gene variants. PCDH19 pathogenic variant leads to epilepsy in heterozygous females, not in hemizygous males and the inheritance pattern is unusual. The hypothesis of cellular interference was described as a key pathogenic mechanism. According to that, males do not develop the disease because of the uniform expression of PCDH19 (variant or wild type) unless they have a somatic variation. We conducted a literature review on PCDH19-CE pathophysiology and concluded that other significant mechanisms could contribute to pathogenesis including: asymmetric cell division and heterochrony, female-related allopregnanolone deficiency, altered steroid gene expression, decreased Gamma-aminobutyric acid receptor A (GABAA) function, and blood-brain barrier (BBB) dysfunction. Being aware of these mechanisms helps us when we should decide which therapeutic option is more suitable for which patient.

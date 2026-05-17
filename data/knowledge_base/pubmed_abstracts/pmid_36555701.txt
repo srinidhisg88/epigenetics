@@ -1,0 +1,9 @@
+PMID: 36555701
+Title: Global Metabolomics Discovers Two Novel Biomarkers in Pyridoxine-Dependent Epilepsy Caused by ALDH7A1 Deficiency.
+Authors: Hans-Otto Böhm, Mazyar Yazdani, Elise Mørk Sandås, Anja Østeby Vassli, Erle Kristensen
+Journal: International journal of molecular sciences
+Year: 2022
+MeSH Terms: Infant, Infant, Newborn, Humans, Aldehyde Dehydrogenase, Epilepsy, Pyridoxine, Biomarkers
+
+Abstract:
+Pyridoxine-dependent epilepsy (PDE) is a rare autosomal recessive developmental and epileptic encephalopathy caused by pathogenic variants in the 

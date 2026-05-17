@@ -1,0 +1,9 @@
+PMID: 33834938
+Title: Focal cortical dysplasia: an update on diagnosis and treatment.
+Authors: Renzo Guerrini, Carmen Barba
+Journal: Expert review of neurotherapeutics
+Year: 2021
+MeSH Terms: Child, Drug Resistant Epilepsy, Epilepsy, Humans, MTOR Inhibitors, Magnetic Resonance Imaging, Malformations of Cortical Development, Tuberous Sclerosis
+
+Abstract:
+INTRODUCTION: Focal cortical dysplasias (FCDs) represent the most common etiology in pediatric drug-resistant focal epilepsies undergoing surgical treatment. The localization, extent and histopathological features of FCDs are considerably variable. Somatic mosaic mutations of genes that encode proteins in the PI3K-AKTmTOR pathway, which also includes the tuberous sclerosis associated genes  AREAS COVERED: This review will critically analyze the advances in the diagnosis and treatment of FCDs, with a special focus on the novel therapeutic options prompted by a better understanding of their pathophysiology. EXPERT OPINION: Focal cortical dysplasia is a main cause of drug-resistant epilepsy, especially in children. Novel, personalized approaches are needed to more effectively treat FCD-related epilepsy and its cognitive consequences.

@@ -1,0 +1,9 @@
+PMID: 31112829
+Title: Infantile epilepsy with multifocal myoclonus caused by TBC1D24 mutations.
+Authors: Jing Zhang, Jiaoyang Chen, Qi Zeng, Liping Zhang, Xiaojuan Tian
+Journal: Seizure
+Year: 2019
+MeSH Terms: Brain, Developmental Disabilities, Epilepsia Partialis Continua, Epilepsy, Female, Follow-Up Studies, GTPase-Activating Proteins, Genetic Predisposition to Disease, Hearing Loss, Humans
+
+Abstract:
+PURPOSE: To summarize the clinical features and neuroimaging changes of epilepsy associated with TBC1D24 mutations. METHODS: Genetic testing was conducted in all epilepsy patients without acquired risk factors for epilepsy. Epilepsy patients identified with TBC1D24 compound heterozygous mutations by next-generation sequencing (NGS) epilepsy panel or whole exome sequencing (WES) were enrolled. The enrolled patients were followed up to summarize the clinical features. RESULTS: Nineteen patients were identified with TBC1D24 compound heterozygous mutations. Nine patients carried the same pathogenic variant c.241_252del. The seizure onset age ranged from 1 day to 8 months of age (median age 75 days). The most prominent features were multifocal myoclonus and epilepsia partialis continua (EPC). Myoclonus could be triggered by fever or infection in 15 patients, and could be terminated by sleep or sedation drugs. Psychomotor developmental delay was presented in 11 patients. Six patients exhibited hearing loss. Brain MRIs were abnormal in eight patients. Twelve patients were diagnosed with epilepsy syndromes including one patient who was diagnosed with Dravet syndrome. Two patients died due to status epilepticus at 4 months and 19 months of age, respectively. CONCLUSION: TBC1D24 mutation related epilepsy was drug-resistant. Multifocal myoclonus, EPC, and fever-induced seizures were common clinical features. Most patients presented psychomotor developmental delay. The neuroimaging abnormality and hearing loss could exacerbate during follow-up.

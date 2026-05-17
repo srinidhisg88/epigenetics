@@ -1,0 +1,9 @@
+PMID: 33395108
+Title: Dravet syndrome.
+Authors: Lieven Lagae
+Journal: Current opinion in neurology
+Year: 2021
+MeSH Terms: Anticonvulsants, Child, Epilepsies, Myoclonic, Humans, Quality of Life, Seizures, Spasms, Infantile
+
+Abstract:
+PURPOSE OF REVIEW: This review will illustrate the electroclinical description of Dravet syndrome, highlighting the difficulty to understand the correlation between the SCN1A mutation and clinical characteristics, including the frequent comorbidities. Therefore, the efficacy of the new treatment options, which now become available, should not only focus on seizure frequency reduction but also on the long-term effects on these comorbidities, such as intellectual disability, motor and sleep problems. RECENT FINDINGS: Comprehensive guidelines for a more standardized treatment in children with Dravet syndrome have been published. First-line and second-line treatments actually include only a few antiseizure medications, such as valproate, clobazam, stiripentol, topiramate and bromide. Cannabidiol and fenfluramine were shown to be very effective drugs and will become standard second-line drugs in Dravet syndrome. There are preliminary data showing that both drugs also have a positive effect on quality of life and on cognitive functioning. Genetic treatments in Dravet syndrome most likely will dramatically change the natural course of this refractory epilepsy syndrome. SUMMARY: A better understanding of the full clinical picture is necessary to understand the potential value of new treatment options in Dravet syndrome. Treatment nowadays with the newer drugs becomes much more standardized and effective, and this will have a positive effect on long-term overall outcome.

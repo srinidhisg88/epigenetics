@@ -1,0 +1,9 @@
+PMID: 32913944
+Title: Glut1 Deficiency Syndrome (Glut1DS): State of the art in 2020 and recommendations of the international Glut1DS study group.
+Authors: Joerg Klepper, Cigdem Akman, Marisa Armeno, Stéphane Auvin, Mackenzie Cervenka
+Journal: Epilepsia open
+Year: 2020
+MeSH Terms: 
+
+Abstract:
+Glut1 deficiency syndrome (Glut1DS) is a brain energy failure syndrome caused by impaired glucose transport across brain tissue barriers. Glucose diffusion across tissue barriers is facilitated by a family of proteins including glucose transporter type 1 (Glut1). Patients are treated effectively with ketogenic diet therapies (KDT) that provide a supplemental fuel, namely ketone bodies, for brain energy metabolism. The increasing complexity of Glut1DS, since its original description in 1991, now demands an international consensus statement regarding diagnosis and treatment. International experts (n = 23) developed a consensus statement utilizing their collective professional experience, responses to a standardized questionnaire, and serial discussions of wide-ranging issues related to Glut1DS. Key clinical features signaling the onset of Glut1DS are eye-head movement abnormalities, seizures, neurodevelopmental impairment, deceleration of head growth, and movement disorders. Diagnosis is confirmed by the presence of these clinical signs, hypoglycorrhachia documented by lumbar puncture, and genetic analysis showing pathogenic 

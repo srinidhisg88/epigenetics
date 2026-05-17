@@ -1,0 +1,9 @@
+PMID: 32692472
+Title: A novel CACNA1A variant in a child with early stroke and intractable epilepsy.
+Authors: Franciska J Gudenkauf, Mahshid S Azamian, Jill V Hunter, Anuranjita Nayak, Seema R Lalani
+Journal: Molecular genetics & genomic medicine
+Year: 2020
+MeSH Terms: Calcium Channels, Child, Preschool, Developmental Disabilities, Epilepsy, Female, Humans, Ischemic Stroke, Mutation, Missense, Calcium Channels, N-Type
+
+Abstract:
+BACKGROUND: CACNA1A variants have been described in several disorders that encompass a wide range of neurologic phenotypes, including hemiplegic migraine, ataxia, cognitive delay, and epilepsy. To date, ischemic stroke caused by a CACNA1A variant has only been reported once in the literature. METHODS: We describe a 4-year-old female with recurrent ischemic strokes beginning at 6 weeks of age, intractable epilepsy, and significant global developmental delay. Exome sequencing (ES) was completed for her evaluation. RESULTS: We found a novel de novo, likely pathogenic variant, p.Leu1692Gln in CACNA1A by ES. The substitution affects a leucine residue that is highly conserved in species from fish to primates. CONCLUSION: We present the second case of recurrent ischemic strokes in a patient with CACNA1A mutation. Our findings expand the phenotypic heterogeneity related to Ca

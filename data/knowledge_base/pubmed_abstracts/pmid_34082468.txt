@@ -1,0 +1,9 @@
+PMID: 34082468
+Title: Integrated in silico and experimental assessment of disease relevance of PCDH19 missense variants.
+Authors: Duyen H Pham, Melissa R Pitman, Raman Kumar, Lachlan A Jolly, Renee Schulz
+Journal: Human mutation
+Year: 2021
+MeSH Terms: Cadherins, Epilepsy, Humans, Mutation, Missense, Protocadherins, Sequence Analysis, DNA
+
+Abstract:
+PCDH19 is a nonclustered protocadherin molecule involved in axon bundling, synapse function, and transcriptional coregulation. Pathogenic variants in PCDH19 cause infantile-onset epilepsy known as PCDH19-clustering epilepsy or PCDH19-CE. Recent advances in DNA-sequencing technologies have led to a significant increase in the number of reported PCDH19-CE variants, many of uncertain significance. We aimed to determine the best approaches for assessing the disease relevance of missense variants in PCDH19. The application of the American College of Medical Genetics and Association for Molecular Pathology (ACMG-AMP) guidelines was only 50% accurate. Using a training set of 322 known benign or pathogenic missense variants, we identified MutPred2, MutationAssessor, and GPP as the best performing in silico tools. We generated a protein structural model of the extracellular domain and assessed 24 missense variants. We also assessed 24 variants using an in vitro reporter assay. A combination of these tools was 93% accurate in assessing known pathogenic and benign PCDH19 variants. We increased the accuracy of the ACMG-AMP classification of 45 PCDH19 variants from 50% to 94%, using these tools. In summary, we have developed a robust toolbox for the assessment of PCDH19 variant pathogenicity to improve the accuracy of PCDH19-CE variant classification.

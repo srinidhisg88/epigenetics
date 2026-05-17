@@ -1,0 +1,9 @@
+PMID: 30734897
+Title: A Practical Guide to Treatment of Childhood Absence Epilepsy.
+Authors: Sudha Kilaru Kessler, Emily McGinnis
+Journal: Paediatric drugs
+Year: 2019
+MeSH Terms: Anticonvulsants, Child, Child, Preschool, Drug-Related Side Effects and Adverse Reactions, Electroencephalography, Epilepsy, Absence, Ethosuximide, Female, Humans, Lamotrigine
+
+Abstract:
+Childhood absence epilepsy (CAE) is a common pediatric epilepsy syndrome with distinct seizure semiology, electroencephalography (EEG) features, and treatment. A diagnosis of CAE can be obtained during an office visit with a careful history, physical exam including prolonged hyperventilation, and a routine EEG. The treatment of choice for CAE with absence seizures only is ethosuximide. Valproic acid and lamotrigine are also effective treatments for many patients, but when compared to ethosuximide, valproic acid has more adverse effects and lamotrigine is less effective. Attention to predictors of response to treatment, including clinical, electrographic, and genetic factors, is increasing. Refractory CAE occurs in fewer than half of patients, and treatment strategies are available, though efficacy data are lacking. Careful assessment and treatment of psychosocial comorbidities is essential in caring for patients with CAE.

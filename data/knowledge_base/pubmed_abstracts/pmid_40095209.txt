@@ -1,0 +1,9 @@
+PMID: 40095209
+Title: Electrophysiological Abnormalities and Pharmacological Corrections of Pathogenic Missense Variants in KCNQ3.
+Authors: Xiaorong Wu, Jili Gong, Li Qiu, Guimei Yang, Hui Yuan
+Journal: Neuroscience bulletin
+Year: 2025
+MeSH Terms: KCNQ3 Potassium Channel, Humans, Mutation, Missense, KCNQ2 Potassium Channel, Patch-Clamp Techniques, HEK293 Cells, Animals, Phenylenediamines, Carbamates
+
+Abstract:
+The KCNQ potassium channels play a crucial role in modulating neural excitability, and their dysfunction is closely associated with epileptic disorders. While variants in KCNQ2 have been extensively studied, KCNQ3-related disorders have rarely been reported. With advances in next-generation sequencing technologies, an increasing number of cases of KCNQ3-related disorders have been identified. However, the correlation between genotype and phenotype remains poorly understood. In this study, we established a variant library consisting of 24 missense mutations in KCNQ3 and introduced these mutations into three different template types: KCNQ3, KCNQ3-A315T (Q3*), and KCNQ3-KCNQ2 tandem (Q3-Q2). We then analyzed the effects of these mutations on the KCNQ3 channel function using patch-clamp recording. The most informative parameter across all three backgrounds was the current density of the mutant channels. The current density patterns in the Q3* and Q3-Q2 backgrounds were similar, with most mutations resulting in an almost complete loss of function (LOF), they were concentrated in the pore-forming domain of KCNQ3. In contrast, mutations in the voltage-sensing domain or C-terminus did not show significant differences from the wild-type channel. Interestingly, these LOF mutations were typically associated with self-limited familial neonatal epilepsy, while neurodevelopmental disorders (NDD) were more closely associated with mutations that did not significantly differ from the wild-type. V

@@ -1,0 +1,43 @@
+{
+  "training_metrics": {
+    "accuracy": 0.9219953038824878,
+    "precision": 0.8981146304675717,
+    "recall": 0.8877376071561685,
+    "f1": 0.892895970009372,
+    "auc_roc": 0.9759697360966652
+  },
+  "validation_metrics": {
+    "accuracy": 0.8890163098878695,
+    "precision": 0.8586256263421618,
+    "recall": 0.8344347826086956,
+    "f1": 0.8463573822543659,
+    "auc_roc": 0.9468087673436558
+  },
+  "test_metrics": {
+    "accuracy": 0.8908141164479552,
+    "precision": 0.8525506638714185,
+    "recall": 0.8486956521739131,
+    "f1": 0.8506187903085237,
+    "auc_roc": 0.9457566825754795
+  },
+  "overfitting_analysis": {
+    "train_val_gaps": {
+      "accuracy": 0.032978993994618344,
+      "f1": 0.04653858775500619,
+      "auc_roc": 0.02916096875300933
+    },
+    "val_test_gaps": {
+      "accuracy": -0.0017978065600856574,
+      "f1": -0.004261408054157867,
+      "auc_roc": 0.001052084768176309
+    },
+    "status": {
+      "accuracy": "MINOR",
+      "f1": "MINOR",
+      "auc_roc": "MINOR"
+    },
+    "verdict": "\u26a0\ufe0f  MODERATE OVERFITTING",
+    "explanation": "The model shows signs of overfitting but may still be usable.",
+    "recommendation": "Consider: Increase regularization, reduce model complexity, or cross-validation."
+  }
+}

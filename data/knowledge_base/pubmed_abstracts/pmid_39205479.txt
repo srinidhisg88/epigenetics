@@ -1,0 +1,9 @@
+PMID: 39205479
+Title: Deletions in the CDKL5 5' untranslated region lead to CDKL5 deficiency disorder.
+Authors: Isabel Haviland, Ralph D Hector, Lindsay C Swanson, Aubrie Soucy Verran, Emma Sherrill
+Journal: American journal of medical genetics. Part A
+Year: 2025
+MeSH Terms: Humans, 5' Untranslated Regions, Protein Serine-Threonine Kinases, Male, Female, Epileptic Syndromes, Spasms, Infantile, Child, Preschool, Child, Infant
+
+Abstract:
+Pathogenic variants in the cyclin-dependent kinase-like 5 (CDKL5) gene are associated with CDKL5 deficiency disorder (CDD), a severe X-linked developmental and epileptic encephalopathy. Deletions affecting the 5' untranslated region (UTR) of CDKL5, which involve the noncoding exon 1 and/or alternatively spliced first exons (exons 1a-e), are uncommonly reported. We describe genetic and phenotypic characteristics for 15 individuals with CDKL5 partial gene deletions affecting the 5' UTR. All individuals presented characteristic features of CDD, including medically refractory infantile-onset epilepsy, global developmental delay, and visual impairment. We performed RNA sequencing on fibroblast samples from three individuals with small deletions involving exons 1 and/or 1a/1b only. Results demonstrated reduced CDKL5 mRNA expression with no evidence of expression from alternatively spliced first exons. Our study broadens the genotypic spectrum for CDD by adding to existing evidence that deletions affecting the 5' UTR of the CDKL5 gene are associated with the disorder. We propose that smaller 5' UTR deletions may require additional molecular testing approaches such as RNA sequencing to determine pathogenicity.

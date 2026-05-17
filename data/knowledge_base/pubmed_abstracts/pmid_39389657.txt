@@ -1,0 +1,9 @@
+PMID: 39389657
+Title: Incontinentia pigmenti.
+Authors: Tena Rosser
+Journal: Seminars in pediatric neurology
+Year: 2024
+MeSH Terms: Humans, Incontinentia Pigmenti
+
+Abstract:
+Incontinentia pigmenti (IP) is a rare X-linked dominant, multi-system genetic disorder characterized by evolving skin lesions that occurs almost exclusively in females. Additional manifestations most often involve embryologically-derived ectodermal tissues including the central nervous system (CNS), eyes, hair, teeth and nails. IP is associated with a wide range of neurologic abnormalities, several of which can be associated with significant morbidity. In the neonatal period, while the pathophysiology is poorly understood, inflammatory microvascular changes can lead to ischemic strokes in non-vascular territories and acute disseminated encephalomyelitis, resulting in serious chronic neurologic sequelae such as epilepsy, cerebral palsy and intellectual disability. Additional neuroimaging findings may include periventricular and subcortical white matter abnormalities and cerebral as well as cerebellar dysgenesis. Advancements over time have allowed for improved phenotyping, identification of the causative IKBKG pathogenic variant, creation and refinement of clinical diagnostic criteria and the development of management guidelines which promote multi-disciplinary care. Due to frequent CNS involvement, neurologists play a critical role in the treatment of individuals with IP throughout the lifespan.

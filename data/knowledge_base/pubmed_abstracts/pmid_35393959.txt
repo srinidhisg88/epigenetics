@@ -1,0 +1,9 @@
+PMID: 35393959
+Title: Evaluation of First Seizure and Newly Diagnosed Epilepsy.
+Authors: Elaine Wirrell
+Journal: Continuum (Minneapolis, Minn.)
+Year: 2022
+MeSH Terms: Adult, Child, Diagnosis, Differential, Epilepsy, Epileptic Syndromes, Humans, Neuroimaging, Seizures
+
+Abstract:
+PURPOSE OF REVIEW: This article focuses on the evaluation of children and adults who present with new-onset seizures, with an emphasis on differential diagnosis, classification, evaluation, and management. RECENT FINDINGS: New-onset seizures are a common presentation in neurologic practice, affecting approximately 8% to 10% of the population. Accurate diagnosis relies on a careful history to exclude nonepileptic paroxysmal events. A new classification system was accepted in 2017 by the International League Against Epilepsy, which evaluates seizure type(s), epilepsy type, epilepsy syndrome, etiology, and comorbidities. Accurate classification informs the choice of investigations, treatment, and prognosis. Guidelines for neuroimaging and laboratory and genetic testing are summarized. SUMMARY: Accurate diagnosis and classification of first seizures and new-onset epilepsy are key to choosing optimal therapy to maximize seizure control and minimize comorbidities.

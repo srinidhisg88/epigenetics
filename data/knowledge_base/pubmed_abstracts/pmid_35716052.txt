@@ -1,0 +1,9 @@
+PMID: 35716052
+Title: Precision medicine for genetic epilepsy on the horizon: Recent advances, present challenges, and suggestions for continued progress.
+Authors: Juliet K Knowles, Ingo Helbig, Cameron S Metcalf, Laura S Lubbers, Lori L Isom
+Journal: Epilepsia
+Year: 2022
+MeSH Terms: Epilepsy, Genetic Testing, Humans, Precision Medicine, Seizures, Suggestion
+
+Abstract:
+The genetic basis of many epilepsies is increasingly understood, giving rise to the possibility of precision treatments tailored to specific genetic etiologies. Despite this, current medical therapy for most epilepsies remains imprecise, aimed primarily at empirical seizure reduction rather than targeting specific disease processes. Intellectual and technological leaps in diagnosis over the past 10 years have not yet translated to routine changes in clinical practice. However, the epilepsy community is poised to make impressive gains in precision therapy, with continued innovation in gene discovery, diagnostic ability, and bioinformatics; increased access to genetic testing and counseling; fuller understanding of natural histories; agility and rigor in preclinical research, including strategic use of emerging model systems; and engagement of an evolving group of stakeholders (including patient advocates, governmental resources, and clinicians and scientists in academia and industry). In each of these areas, we highlight notable examples of recent progress, new or persistent challenges, and future directions. The future of precision medicine for genetic epilepsy looks bright if key opportunities on the horizon can be pursued with strategic and coordinated effort.

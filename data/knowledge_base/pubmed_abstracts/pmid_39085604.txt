@@ -1,0 +1,9 @@
+PMID: 39085604
+Title: Propofol rescues voltage-dependent gating of HCN1 channel epilepsy mutants.
+Authors: Elizabeth D Kim, Xiaoan Wu, Sangyun Lee, Gareth R Tibbs, Kevin P Cunningham
+Journal: Nature
+Year: 2024
+MeSH Terms: Humans, Binding Sites, Cryoelectron Microscopy, Electrophysiology, Epilepsy, HEK293 Cells, Hyperpolarization-Activated Cyclic Nucleotide-Gated Channels, Ion Channel Gating, Methionine, Models, Molecular
+
+Abstract:
+Hyperpolarization-activated cyclic nucleotide-gated (HCN) channels

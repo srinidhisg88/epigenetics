@@ -1,0 +1,9 @@
+PMID: 27781029
+Title: Novel 
+Authors: Snezana Maljevic, Sabina Vejzovic, Matthias K Bernhard, Astrid Bertsche, Sebastian Weise
+Journal: Molecular syndromology
+Year: 2016
+MeSH Terms: 
+
+Abstract:
+Benign familial neonatal seizures (BFNS) present a rare familial epilepsy syndrome caused by genetic alterations in the voltage-gated potassium channels Kv7.2 and Kv7.3, encoded by 

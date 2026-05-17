@@ -1,0 +1,9 @@
+PMID: 37498161
+Title: A novel 
+Authors: Wafaa Bouzroud, Amal Tazzite, Ikhlass Boussakri, Bouchaïb Gazzaz, Hind Dehbi
+Journal: The Journal of international medical research
+Year: 2023
+MeSH Terms: Male, Child, Humans, Autism Spectrum Disorder, Comparative Genomic Hybridization, Epilepsy, Movement Disorders, Intellectual Disability, Mutation, NAV1.6 Voltage-Gated Sodium Channel
+
+Abstract:
+Variants in 

@@ -1,0 +1,9 @@
+PMID: 36750385
+Title: Rates of Status Epilepticus and Sudden Unexplained Death in Epilepsy in People With Genetic Developmental and Epileptic Encephalopathies.
+Authors: Alice M Donnan, Amy L Schneider, Sophie Russ-Hall, Leonid Churilov, Ingrid E Scheffer
+Journal: Neurology
+Year: 2023
+MeSH Terms: Humans, Retrospective Studies, Sudden Unexpected Death in Epilepsy, Status Epilepticus, Epilepsies, Myoclonic, Epileptic Syndromes, Angelman Syndrome, Death, Sudden, Protocadherins, Potassium Channels, Sodium-Activated
+
+Abstract:
+BACKGROUND AND OBJECTIVES: The genetic developmental and epileptic encephalopathies (DEEs) comprise a large group of severe epilepsy syndromes, with a wide phenotypic spectrum. Currently, the rates of convulsive status epilepticus (CSE), nonconvulsive status epilepticus (NCSE), and sudden unexplained death in epilepsy (SUDEP) in these diseases are not well understood. We aimed to describe the proportions of patients with frequently observed genetic DEEs who developed CSE, NCSE, mortality, and SUDEP. Understanding the risks of these serious presentations in each genetic DEE will enable earlier diagnosis and appropriate management. METHODS: In this retrospective analysis of patients with a genetic DEE, we estimated the proportions with CSE, NCSE, and SUDEP and the overall and SUDEP-specific mortality rates for each genetic diagnosis. We included patients with a pathogenic variant in the genes  RESULTS: The cohort comprised 510 individuals with a genetic DEE, in whom we observed CSE in 47% and NCSE in 19%. The highest proportion of CSE occurred in patients with  DISCUSSION: We showed that proportions of patients with CSE, NCSE, and SUDEP differ for commonly encountered genetic DEEs. The estimates for each genetic DEE studied will inform early diagnosis and management of status epilepticus and SUDEP and inform disease-specific counseling for patients and families in this high-risk group of conditions.

@@ -1,0 +1,9 @@
+PMID: 32047208
+Title: A novel de novo variant of GABRA1 causes increased sensitivity for GABA in vitro.
+Authors: Friederike Steudle, Sabah Rehman, Konstantina Bampali, Xenia Simeone, Zsofia Rona
+Journal: Scientific reports
+Year: 2020
+MeSH Terms: Child, Developmental Disabilities, Diazepam, Epilepsy, GABA Modulators, HEK293 Cells, Humans, Male, Membrane Potentials, Mutation
+
+Abstract:
+The GABRA1 gene encodes one of the most conserved and highly expressed subunits of the GABA

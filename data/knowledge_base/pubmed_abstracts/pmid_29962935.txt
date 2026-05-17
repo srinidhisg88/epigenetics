@@ -1,0 +1,9 @@
+PMID: 29962935
+Title: Chromatin Remodeling Proteins in Epilepsy: Lessons From 
+Authors: Kay-Marie J Lamar, Gemma L Carvill
+Journal: Frontiers in molecular neuroscience
+Year: 2018
+MeSH Terms: 
+
+Abstract:
+The chromodomain helicase DNA-binding (CHD) family of proteins are ATP-dependent chromatin remodelers that contribute to the reorganization of chromatin structure and deposition of histone variants necessary to regulate gene expression. CHD proteins play an important role in neurodevelopment, as pathogenic variants in 
